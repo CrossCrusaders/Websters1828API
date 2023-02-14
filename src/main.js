@@ -8,7 +8,7 @@ app.get('/', async (req, res) => {
 })
 
 app.get('/:word', async (req, res) => {
-    await fs.readFile(`./src/words/${req.params.word}.json`, function(err, data) {
+    await fs.readFile(`./src/words/${req.params.word[0]}/${req.params.word}.json`, function(err, data) {
         if (err) {
             data = { word: "Not Found", pronunciation: "NOT'FOUND", definition: { type: "error", text: `Word '${req.params.word}' is not in this dictionary.` } }
         }
