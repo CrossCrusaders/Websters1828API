@@ -1,5 +1,5 @@
 {
-  "name": "websters-1828-api",
+  "name": "websters1828api",
   "version": "1.0.0",
   "description": "An open source API allowing you to use the Webster's 1828 dictionary.",
   "main": "src/main.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kenyonbwrs/Websters-1828-API.git"
+    "url": "git+https://github.com/CrossCrusaders/Websters1828API.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kenyonbwrs/Websters-1828-API/issues"
+    "url": "https://github.com/CrossCrusaders/Websters1828API/issues"
   },
-  "homepage": "https://github.com/kenyonbwrs/Websters-1828-API#readme",
+  "homepage": "https://github.com/CrossCrusaders/Websters1828API#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
