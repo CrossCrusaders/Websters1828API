@@ -4,11 +4,11 @@
   "definitions": [
     {
       "type": "verb transitive",
-      "text": "Inflame\n [Latin inflammo; in and flamma, flame.]\n1. To set on fire; to kindle; to cause to burn; in literal sense. But more generally,\n2. To excite or increase, as passion or appetite; to enkindle into violent action; as, to inflame love, lust or thirst; to inflame desire or anger.\n3. To exaggerate; to aggravate in description.A friend exaggerates man's virtues, an enemy inflames his crimes. [Unusual.]\n4. To heat; to excite excessive action in the blood; as to inflame the blood or body; to inflame with wine.\n5. To provoke; to irritate; to anger.\n6. To increase; to exasperate; as, to inflame the enmity of parties, or the spirit of sedition.\n7. To increase; to augment; as, to inflame presumption.INFLA'ME,"
+      "text": "Inflame\n1. To set on fire; to kindle; to cause to burn; literal sense. But more generally,\n2. To excite or increase, as passion or appetite; to enkindle into violent action; as, to inflame love, lust or thirst; to inflame desire or anger.\n3. To exaggerate; to aggravate description.A friend exaggerates man's virtues, enemy inflames his crimes. [Unusual.]\n4. To heat; to excite excessive action the blood; as to inflame the blood or body; to inflame with wine.\n5. To provoke; to irritate; to anger.\n6. To increase; to exasperate; as, to inflame the enmity of parties, or the spirit of sedition.\n7. To increase; to augment; as, to inflame presumption.INFLA'ME,"
     },
     {
       "type": "verb intransitive",
-      "text": "To grow hot, angry and painful."
+      "text": "To grow hot, angry painful."
     }
   ]
 }

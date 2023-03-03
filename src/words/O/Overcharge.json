@@ -1,6 +1,6 @@
 {
   "word": "Overcharge",
-  "pronunciation": "OVERCH'ARGE,",
+  "pronunciation": "OVERCH'ARGE",
   "definitions": [
     {
       "type": "verb transitive",
@@ -8,7 +8,7 @@
     },
     {
       "type": "noun",
-      "text": "1. An excessive load or burden.\n2. A in an account of more than is just.\n3. A beyond what is proper."
+      "text": "1. An excessive load or burden.\n2. in an account of more than is just.\n3. beyond what is proper."
     }
   ]
 }

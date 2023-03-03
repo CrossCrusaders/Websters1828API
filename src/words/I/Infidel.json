@@ -4,11 +4,11 @@
   "definitions": [
     {
       "type": "adjective",
-      "text": "Infidel\n [Latin infidelis; in and fidelis; faithful.]Unbelieving; disbelieving the inspiration of the Scriptures, or the divine institution of christianity.The infidel writer is a great enemy to society.IN'FIDEL,"
+      "text": "Infidel\n disbelieving the inspiration of the Scriptures, or the divine institution of christianity.The writer great enemy to society.IN'FIDEL,"
     },
     {
       "type": "noun",
-      "text": "One who disbelieves the inspiration of the Scriptures, and the divine origin of christianity."
+      "text": "One who disbelieves the inspiration of the Scriptures, the divine origin of christianity."
     }
   ]
 }
