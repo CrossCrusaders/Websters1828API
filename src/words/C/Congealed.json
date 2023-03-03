@@ -1,8 +1,10 @@
 {
   "word": "Congealed",
-  "pronunciation": "CONGEALED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Converted into ice, or a solid mass, by the loss of heat or other process; concreted."
-  }
+  "pronunciation": "CONGEALED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Converted into ice, or solid mass, by the loss of heat or other process; concreted."
+    }
+  ]
 }

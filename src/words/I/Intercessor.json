@@ -1,8 +1,10 @@
 {
   "word": "Intercessor",
-  "pronunciation": "INTERCES'SOR [Latin See intercede.]",
-  "definition": {
-    "type": "noun",
-    "text": "1. A mediator; one who interposes between parties at variance, with a view to reconcile them; one who pleads in behalf of another.\n2. A bishop who, during a vacancy of the see, administers the bishopric till a successor is elected."
-  }
+  "pronunciation": "INTERCES'SOR, [Latin See intercede.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. A mediator; one who interposes between parties at variance, with a view to reconcile them; one who pleads in behalf of another.\n2. A bishop who, during a vacancy of the see, administers the bishopric till a successor is elected."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Uncircumcision",
-  "pronunciation": "UNCIRCUMCI'SION",
-  "definition": {
-    "type": "noun",
-    "text": "Absence or want of circumcision."
-  }
+  "pronunciation": "UNCIRCUMCI'SION,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Absence or want of circumcision."
+    }
+  ]
 }

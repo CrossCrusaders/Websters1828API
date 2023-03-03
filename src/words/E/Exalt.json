@@ -1,8 +1,10 @@
 {
   "word": "Exalt",
-  "pronunciation": "EXALT'",
-  "definition": {
-    "type": "verb transitive",
-    "text": "egzolt'. [Low Latin exalto; ex and altus, high.]\n1. To raise high; to elevate.\n2. To elevate in power, wealth, rank or dignity; as, to exalt one to a throne, to the chief magistracy, to a bishopric.\n3. To elevate with joy or confidence; as, to be exalted with success or victory. [We now use elate.]\n4. To raise with pride; to make undue pretensions to power, rank or estimation; to elevate too high or above others.He that exalteth himself shall be abased. Luke 1 4:11. Matthew 2 3:1\n2.\n5. To elevate in estimation and praise; to magnify; to praise; to extol.He is my father's God, and I will exalt him. Exodus 1 5:2.\n6. To raise, as the voice; to raise in opposition. 2 Kings 1 9:22.\n7. To elevate in diction or sentiment; to make sublime; as exalted strains.\n8. In physics, to elevate; to purify; to subtilize; to refine; as, to exalt the juices or the qualities of bodies."
-  }
+  "pronunciation": "EXALT',",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "egzolt'. [Low Latin exalto; ex and altus, high.]\n1. To raise high; to elevate.\n2. To elevate in power, wealth, rank or dignity; as, to exalt one to throne, to the chief magistracy, to bishopric.\n3. To elevate with joy or confidence; as, to be exalted with success or victory. [We now use elate.]\n4. To raise with pride; to make undue pretensions to power, rank or estimation; to elevate too high or above others.He that exalteth himself shall be abased. Luke 14:11. Matthew 23:12.\n5. To elevate in estimation and praise; to magnify; to praise; to extol.He is my father's God, and I will exalt him. Exodus 15:2.\n6. To raise, as the voice; to raise in opposition. 2 Kings 19:22.\n7. To elevate in diction or sentiment; to make sublime; as exalted strains.\n8. In physics, to elevate; to purify; to subtilize; to refine; as, to exalt the juices or the qualities of bodies."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Therewith",
-  "pronunciation": "THEREWITH' [there and with.]",
-  "definition": {
-    "type": "adverb",
-    "text": "With that or this.I have learned in whatever state I am, therewith to be content. Philippians 4:11."
-  }
+  "pronunciation": "THEREWITH', [there and with.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "With that or this.I have learned in whatever state I am, therewith to be content. Philippians 4:11."
+    }
+  ]
 }

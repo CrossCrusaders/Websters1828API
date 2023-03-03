@@ -1,8 +1,10 @@
 {
   "word": "Disquieted",
-  "pronunciation": "DISQUIETED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Made uneasy or restless; disturbed; harassed."
-  }
+  "pronunciation": "DISQUIETED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Made uneasy or restless; disturbed; harassed."
+    }
+  ]
 }

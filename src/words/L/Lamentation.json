@@ -1,8 +1,10 @@
 {
   "word": "Lamentation",
-  "pronunciation": "LAMENTA'TION [Latin lamentatio.]",
-  "definition": {
-    "type": "noun",
-    "text": "1. Expression of sorrow; cries of grief; the act of bewailing.In Rama was there a voice heard, lamentation and weeping. Matthew 2:1\n8.\n2. In the plural, a book of Scripture, containing the lamentations of Jeremiah."
-  }
+  "pronunciation": "LAMENTA'TION, [Latin lamentatio.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. Expression of sorrow; cries of grief; the act of bewailing.In Rama was there voice heard, lamentation and weeping. Matthew 2:18.\n2. In the plural, book of Scripture, containing the lamentations of Jeremiah."
+    }
+  ]
 }

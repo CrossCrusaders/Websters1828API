@@ -1,8 +1,10 @@
 {
   "word": "Herodians",
-  "pronunciation": "HERO'DIANS",
-  "definition": {
-    "type": "noun",
-    "text": "A sect among the Jews, which took this name from Herod; but authors are not agreed as to their peculiar notions."
-  }
+  "pronunciation": "HERO'DIANS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A sect among the Jews, which took this name from Herod; but authors are not agreed as to their peculiar notions."
+    }
+  ]
 }

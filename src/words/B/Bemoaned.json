@@ -1,8 +1,10 @@
 {
   "word": "Bemoaned",
-  "pronunciation": "BEMOANED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Lamented; bewailed."
-  }
+  "pronunciation": "BEMOANED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Lamented; bewailed."
+    }
+  ]
 }

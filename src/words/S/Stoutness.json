@@ -1,8 +1,10 @@
 {
   "word": "Stoutness",
-  "pronunciation": "STOUTNESS",
-  "definition": {
-    "type": "noun",
-    "text": "1. Strength; bulk.\n2. Boldness; fortitude.\n3. Obstinacy; stubbornness."
-  }
+  "pronunciation": "STOUTNESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. Strength; bulk.\n2. Boldness; fortitude.\n3. Obstinacy; stubbornness."
+    }
+  ]
 }

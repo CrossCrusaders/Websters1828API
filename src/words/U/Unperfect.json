@@ -1,8 +1,10 @@
 {
   "word": "Unperfect",
-  "pronunciation": "UNPER'FECT",
-  "definition": {
-    "type": "adjective",
-    "text": "Not perfect; not complete. [But the word now used is imperfect.]"
-  }
+  "pronunciation": "UNPER'FECT,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Not perfect; not complete. [But the word now used is imperfect.]"
+    }
+  ]
 }

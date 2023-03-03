@@ -1,8 +1,10 @@
 {
   "word": "Blasphemer",
-  "pronunciation": "BLASPHE'MER",
-  "definition": {
-    "type": "noun",
-    "text": "One who blasphemes; one who speaks of God in impious and irreverent terms. 1 Timothy 1:1\n3."
-  }
+  "pronunciation": "BLASPHE'MER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "One who blasphemes; one who speaks of God in impious and irreverent terms. 1 Timothy 1:13."
+    }
+  ]
 }

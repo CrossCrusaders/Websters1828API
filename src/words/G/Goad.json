@@ -1,8 +1,10 @@
 {
   "word": "Goad",
-  "pronunciation": "GOAD",
-  "definition": {
-    "type": "verb transitive",
-    "text": "To prick; to drive with a goad\n1. To incite; to stimulate; to instigate; to urge forward, or to rouse by any thing pungent, severe, irritating or inflaming. He was goaded by sarcastic remarks or by abuse; goaded by desire or other passion."
-  }
+  "pronunciation": "GOAD,noun",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "A pointed instrument used to stimulate beast to move faster.GOAD, To prick; to drive with goad\n1. To incite; to stimulate; to instigate; to urge forward, or to rouse by any thing pungent, severe, irritating or inflaming. He was goaded by sarcastic remarks or by abuse; goaded by desire or other passion."
+    }
+  ]
 }

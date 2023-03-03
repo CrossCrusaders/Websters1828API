@@ -1,8 +1,10 @@
 {
   "word": "Kinsfolk",
-  "pronunciation": "KINS'FOLK [kin and folk.]",
-  "definition": {
-    "type": "noun",
-    "text": "Relations; kindred; persons of the same family."
-  }
+  "pronunciation": "KINS'FOLK, [kin and folk.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Relations; kindred; persons of the same family."
+    }
+  ]
 }

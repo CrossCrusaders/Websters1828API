@@ -1,8 +1,10 @@
 {
   "word": "Unthankful",
-  "pronunciation": "UNTHANK'FUL",
-  "definition": {
-    "type": "adjective",
-    "text": "Not thankful; ungrateful; not making acknowledgments for good received.For he is kind to the unthankful and to the evil. Luke 6:3\n5."
-  }
+  "pronunciation": "UNTHANK'FUL,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Not thankful; ungrateful; not making acknowledgments for good received.For he is kind to the unthankful and to the evil. Luke 6:35."
+    }
+  ]
 }

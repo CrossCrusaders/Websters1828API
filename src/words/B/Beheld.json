@@ -1,8 +1,14 @@
 {
   "word": "Beheld",
-  "pronunciation": "BEHELD'",
-  "definition": {
-    "type": "preterit tense and participle passive",
-    "text": "of behold, which see."
-  }
+  "pronunciation": "BEHELD',",
+  "definitions": [
+    {
+      "type": "preterit tense",
+      "text": "Beheld\n and"
+    },
+    {
+      "type": "participle passive",
+      "text": "of behold, which see."
+    }
+  ]
 }

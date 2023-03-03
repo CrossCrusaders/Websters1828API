@@ -1,8 +1,10 @@
 {
   "word": "Hewed",
-  "pronunciation": "HEW'ED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Cut and made smooth or even; chopped; hacked; shaped by cutting or by a chisel."
-  }
+  "pronunciation": "HEW'ED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Cut and made smooth or even; chopped; hacked; shaped by cutting or by a chisel."
+    }
+  ]
 }

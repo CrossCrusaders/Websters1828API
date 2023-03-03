@@ -1,8 +1,10 @@
 {
   "word": "Purifier",
-  "pronunciation": "PU'RIFIER [from purify.]",
-  "definition": {
-    "type": "noun",
-    "text": "That which purifies or cleanses; a cleanser; a refiner. Fire was held by the ancients to be an excellent purifier"
-  }
+  "pronunciation": "PU'RIFIER, [from purify.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "That which purifies or cleanses; a cleanser; a refiner. Fire was held by the ancients to be an excellent purifier"
+    }
+  ]
 }

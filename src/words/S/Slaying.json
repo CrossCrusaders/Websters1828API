@@ -1,8 +1,10 @@
 {
   "word": "Slaying",
-  "pronunciation": "SLA'YING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Killing; destroying life."
-  }
+  "pronunciation": "SLA'YING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Killing; destroying life."
+    }
+  ]
 }

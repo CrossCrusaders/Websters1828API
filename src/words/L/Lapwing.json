@@ -1,8 +1,10 @@
 {
   "word": "Lapwing",
-  "pronunciation": "LAP'WING",
-  "definition": {
-    "type": "noun",
-    "text": "A bird of the genus Tringa; the tewit."
-  }
+  "pronunciation": "LAP'WING,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A bird of the genus Tringa; the tewit."
+    }
+  ]
 }

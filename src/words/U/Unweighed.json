@@ -1,8 +1,10 @@
 {
   "word": "Unweighed",
-  "pronunciation": "UNWEIGHED",
-  "definition": {
-    "type": "adjective",
-    "text": "1. Not weighed; not having the weight ascertained.Solomon left all the vessels unweighed 1 Kings 7:4\n7.\n2. Not deliberately considered and examined; as, to leave arguments or testimony unweighed\n3. Not considerate; negligent; as words unweighed"
-  }
+  "pronunciation": "UNWEIGHED,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "1. Not weighed; not having the weight ascertained.Solomon left all the vessels unweighed 1 Kings 7:47.\n2. Not deliberately considered and examined; as, to leave arguments or testimony unweighed\n3. Not considerate; negligent; as words unweighed"
+    }
+  ]
 }

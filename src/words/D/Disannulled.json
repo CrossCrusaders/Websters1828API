@@ -1,8 +1,10 @@
 {
   "word": "Disannulled",
-  "pronunciation": "DISANNULLED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Annulled; vacated; made void."
-  }
+  "pronunciation": "DISANNULLED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Annulled; vacated; made void."
+    }
+  ]
 }

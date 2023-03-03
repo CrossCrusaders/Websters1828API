@@ -1,8 +1,10 @@
 {
   "word": "Revenging",
-  "pronunciation": "REVENG'ING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "1. Inflicting pain or evil spitefully for injury or affront received.\n2. Vindicating; punishing."
-  }
+  "pronunciation": "REVENG'ING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "1. Inflicting pain or evil spitefully for injury or affront received.\n2. Vindicating; punishing."
+    }
+  ]
 }

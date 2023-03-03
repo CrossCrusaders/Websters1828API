@@ -1,8 +1,14 @@
 {
   "word": "Firstling",
-  "pronunciation": "FIRST'LING",
-  "definition": {
-    "type": "adjective",
-    "text": "First produced; as firstling males. Deuteronomy 1 5:1 9.FIRST'LING, noun\n1. The first produce or offspring; applied to beasts; as the firstlings of cattle.\n2. The thing first thought or done. [Not used.]The very firstlings of my heart shall be the firstlings of my hand."
-  }
+  "pronunciation": "FIRST'LING,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Firstling\n produced; as firstling males. Deuteronomy 15:19.FIRST'LING,"
+    },
+    {
+      "type": "noun",
+      "text": "1. The first produce or offspring; applied to beasts; as the firstlings of cattle.\n2. The thing first thought or done. [Not used.]The very firstlings of my heart shall be the firstlings of my hand."
+    }
+  ]
 }

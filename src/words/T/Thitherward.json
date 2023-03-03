@@ -1,8 +1,10 @@
 {
   "word": "Thitherward",
-  "pronunciation": "THITH'ERWARD [thither and ward.]",
-  "definition": {
-    "type": "adverb",
-    "text": "Toward that place.\nThey shall ask the way to Zion, with their faces thitherward Jeremiah 50:5."
-  }
+  "pronunciation": "THITH'ERWARD, [thither and ward.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Toward that place.\nThey shall ask way to Zion, with their faces thitherward Jeremiah 50:5."
+    }
+  ]
 }

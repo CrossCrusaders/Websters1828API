@@ -1,8 +1,10 @@
 {
   "word": "Edified",
-  "pronunciation": "ED'IFIED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Instructed; improved in literary, moral or religious knowledge."
-  }
+  "pronunciation": "ED'IFIED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Instructed; improved in literary, moral or religious knowledge."
+    }
+  ]
 }

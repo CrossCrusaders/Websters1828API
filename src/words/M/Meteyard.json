@@ -1,8 +1,10 @@
 {
   "word": "Meteyard",
-  "pronunciation": "ME'TEYARD",
-  "definition": {
-    "type": "noun",
-    "text": "A yard, staff or rod, used as a measure. [We now use yard.]"
-  }
+  "pronunciation": "ME'TEYARD,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A yard, staff or rod, used as measure. [We now use yard.]"
+    }
+  ]
 }

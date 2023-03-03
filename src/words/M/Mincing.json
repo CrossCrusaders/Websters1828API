@@ -1,8 +1,10 @@
 {
   "word": "Mincing",
-  "pronunciation": "MIN'CING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Cutting into small pieces; speaking or walking affectedly."
-  }
+  "pronunciation": "MIN'CING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Cutting into small pieces; speaking or walking affectedly."
+    }
+  ]
 }

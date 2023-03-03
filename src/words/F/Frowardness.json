@@ -1,8 +1,10 @@
 {
   "word": "Frowardness",
-  "pronunciation": "FRO'WARDNESS",
-  "definition": {
-    "type": "noun",
-    "text": "Perverseness; reluctance to yield or comply; disobedience; peevishness."
-  }
+  "pronunciation": "FRO'WARDNESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Perverseness; reluctance to yield or comply; disobedience; peevishness."
+    }
+  ]
 }

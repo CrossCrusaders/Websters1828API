@@ -1,8 +1,10 @@
 {
   "word": "Thresh",
-  "pronunciation": "THRESH",
-  "definition": {
-    "type": "verb transitive",
-    "text": "To thrash. [See Thrash.] The latter is the popular pronunciation, but the word is written thrash or thresh indifferently. [See the derivation and definitions under Thrash.]"
-  }
+  "pronunciation": "THRESH,",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "To thrash. [See Thrash.] The latter is the popular pronunciation, but the word is written thrash or thresh indifferently. [See the derivation and definitions under Thrash.]"
+    }
+  ]
 }

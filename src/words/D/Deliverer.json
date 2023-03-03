@@ -1,8 +1,10 @@
 {
   "word": "Deliverer",
-  "pronunciation": "DELIVERER",
-  "definition": {
-    "type": "noun",
-    "text": "1. One who delivers; one who releases or rescues; a preserver.The Lord raised up a deliverer to Israel. Judges 3:9.\n2. One who relates, or communicates."
-  }
+  "pronunciation": "DELIVERER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. One who delivers; one who releases or rescues; a preserver.The Lord raised up a deliverer to Israel. Judges 3:9.\n2. One who relates, or communicates."
+    }
+  ]
 }

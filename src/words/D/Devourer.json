@@ -1,8 +1,10 @@
 {
   "word": "Devourer",
-  "pronunciation": "DEVOURER",
-  "definition": {
-    "type": "noun",
-    "text": "One who devours; he or that which eats, consumes or destroys; he that preys on."
-  }
+  "pronunciation": "DEVOURER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "One who devours; he or that which eats, consumes or destroys; he that preys on."
+    }
+  ]
 }

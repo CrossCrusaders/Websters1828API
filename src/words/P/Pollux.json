@@ -1,8 +1,10 @@
 {
   "word": "Pollux",
-  "pronunciation": "POL'LUX",
-  "definition": {
-    "type": "noun",
-    "text": "A fixed star of the second magnitude, in the constellation Gemini or the Twins.\n1. [See Castor.]"
-  }
+  "pronunciation": "POL'LUX,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A fixed star of the second magnitude, in the constellation Gemini or the Twins.\n1. [See Castor.]"
+    }
+  ]
 }

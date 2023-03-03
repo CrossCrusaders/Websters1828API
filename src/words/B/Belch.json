@@ -1,8 +1,14 @@
 {
   "word": "Belch",
-  "pronunciation": "BELCH [Eng. bulge, bilge, bulk.]",
-  "definition": {
-    "type": "verb transitive",
-    "text": "1. To throw or eject wind from the stomach with violence.\n2. To eject violently from a deep hollow place, as, a volcano belches flames and lava.BELCH, noun The act of throwing out from the stomach, or from a hollow place; eructation.\n1. A cant name for malt liquor."
-  }
+  "pronunciation": "BELCH, [Eng. bulge, bilge, bulk.]",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "Belch\n [Eng. bulge, bilge, bulk.]\n1. To throw or eject wind from the stomach with violence.\n2. To eject violently from a deep hollow place, as, a volcano belches flames and lava.BELCH,"
+    },
+    {
+      "type": "noun",
+      "text": "The act of throwing out from the stomach, or from a hollow place; eructation.\n1. A cant name for malt liquor."
+    }
+  ]
 }

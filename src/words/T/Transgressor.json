@@ -1,8 +1,10 @@
 {
   "word": "Transgressor",
-  "pronunciation": "TRANSGRESS'OR",
-  "definition": {
-    "type": "noun",
-    "text": "One who breaks a law or violates a command; one who violates any known rule or principle of rectitude; a sinner.\nThe way of transgressors is hard. Proverbs 1 3:1\n5."
-  }
+  "pronunciation": "TRANSGRESS'OR,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "One who breaks law violates command; one who violates any known rule principle of rectitude; sinner.\nThe way of transgressors is hard. Proverbs 13:15."
+    }
+  ]
 }

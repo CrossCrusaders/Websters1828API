@@ -1,8 +1,10 @@
 {
   "word": "Ignorantly",
-  "pronunciation": "IG'NORANTLY",
-  "definition": {
-    "type": "adverb",
-    "text": "Without knowledge, instruction or information.Whom therefore ye ignorantly worship, him declare I unto you. Acts 1 7:2\n3.\n1. Unskillfully; inexpertly. A man may mistake blunders for beauties and ignorantly admire them."
-  }
+  "pronunciation": "IG'NORANTLY,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Without knowledge, instruction information.Whom therefore ye ignorantly worship, him declare unto you. Acts 17:23.\n1. Unskillfully; inexpertly. A man may mistake blunders for beauties and ignorantly admire them."
+    }
+  ]
 }

@@ -1,8 +1,14 @@
 {
   "word": "Gnaw",
-  "pronunciation": "GNAW",
-  "definition": {
-    "type": "verb transitive",
-    "text": "naw. [ Gr. to scrape.]\n1. To bite off by little and little; to bite or scrape off with the fore teeth; to wear away by biting. The rats gnaw a board or plank; a worm gnaws the wood of a tree or the plank of a ship.\n2. To eat by biting off small portions of food with the fore teeth.\n3. To bite in agony or rage.They gnawed their tongues for pain. Revelation 1 6:\n10.\n4. To waste; to fret; to corrode.\n5. To pick with the teeth.His bones clean picked; his very bones they gnaw GNAW, verb intransitive naw. To use the teeth in biting.I might well, like the spaniel, gnaw upon the chain that ties me."
-  }
+  "pronunciation": "GNAW,",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "Gnaw\n naw. [ Gr. to scrape.]\n1. To bite off by little and little; to bite or scrape off with the fore teeth; to wear away by biting. The rats gnaw board or plank; worm gnaws the wood of tree or the plank of ship.\n2. To eat by biting off small portions of food with the fore teeth.\n3. To bite in agony or rage.They gnawed their tongues for pain. Revelation 16:10.\n4. To waste; to fret; to corrode.\n5. To pick with the teeth.His bones clean picked; his very bones they gnaw"
+    },
+    {
+      "type": "verb intransitive",
+      "text": "naw. To use the teeth in biting.I might well, like the spaniel, gnaw upon the chain that ties me."
+    }
+  ]
 }

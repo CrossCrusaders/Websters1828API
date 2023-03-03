@@ -1,8 +1,10 @@
 {
   "word": "Suborned",
-  "pronunciation": "SUBORN'ED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Procured to take a false oath, or to do a bad action."
-  }
+  "pronunciation": "SUBORN'ED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Procured to take a false oath, to do a bad action."
+    }
+  ]
 }

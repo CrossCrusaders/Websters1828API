@@ -1,8 +1,10 @@
 {
   "word": "Encamping",
-  "pronunciation": "ENCAMP'ING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Pitching tents or forming huts, for a temporary lodging or rest."
-  }
+  "pronunciation": "ENCAMP'ING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Pitching tents or forming huts, for temporary lodging or rest."
+    }
+  ]
 }

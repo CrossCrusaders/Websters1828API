@@ -1,8 +1,10 @@
 {
   "word": "Accuser",
-  "pronunciation": "ACCU'SER",
-  "definition": {
-    "type": "noun",
-    "text": "One who accuses or blames; an officer who prefers an accusation against another for some offense, in the name of the government, before a tribunal that has cognizance of the offense."
-  }
+  "pronunciation": "ACCU'SER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "One who accuses or blames; an officer who prefers an accusation against another for some offense, in the name of the government, before a tribunal that has cognizance of the offense."
+    }
+  ]
 }

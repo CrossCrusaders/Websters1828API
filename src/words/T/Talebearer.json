@@ -1,8 +1,10 @@
 {
   "word": "Talebearer",
-  "pronunciation": "TA'LEBEARER [tale and bear.]",
-  "definition": {
-    "type": "noun",
-    "text": "A person who officiously tells tales; one who impertinently communicates intelligence or anecdotes, and makes mischief in society by his officiousness.Where there is no talebearer the strife ceaseth. Proverbs 2 6:20."
-  }
+  "pronunciation": "TA'LEBEARER, [tale and bear.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A person who officiously tells tales; one who impertinently communicates intelligence or anecdotes, and makes mischief in society by his officiousness.Where there is no talebearer the strife ceaseth. Proverbs 26:20."
+    }
+  ]
 }

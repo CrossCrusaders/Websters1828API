@@ -1,8 +1,14 @@
 {
   "word": "Purloining",
-  "pronunciation": "PURLOIN'ING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Stealing; committing literary theft.PURLOIN'ING, noun Theft; plagiarism."
-  }
+  "pronunciation": "PURLOIN'ING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Purloining\n Stealing; committing literary theft.PURLOIN'ING,"
+    },
+    {
+      "type": "noun",
+      "text": "Theft; plagiarism."
+    }
+  ]
 }

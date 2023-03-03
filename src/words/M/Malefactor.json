@@ -1,8 +1,10 @@
 {
   "word": "Malefactor",
-  "pronunciation": "MALEFAC'TOR",
-  "definition": {
-    "type": "noun",
-    "text": "[supra.] One who commits a crime; one guilty of violating the laws, in such a manner as to subject him to public prosecution and punishment, particularly to capital punishment; a criminal."
-  }
+  "pronunciation": "MALEFAC'TOR,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "One who commits crime; one guilty of violating the laws, in such manner as subject him public prosecution and punishment, particularly capital punishment; criminal."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Oldness",
-  "pronunciation": "OLDNESS",
-  "definition": {
-    "type": "noun",
-    "text": "1. Old age; an advanced state of life or existence; as the oldness of a man, of an elephant or a tree.\n2. The state of being old, or of a long continuance; as the oldness of a building or a garment.\n3. Antiquity; as the oldness of monuments."
-  }
+  "pronunciation": "OLDNESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. age; an advanced state of life or existence; as the oldness of a man, of an elephant or a tree.\n2. The state of being old, or of a long continuance; as the oldness of a building or a garment.\n3. Antiquity; as the oldness of monuments."
+    }
+  ]
 }

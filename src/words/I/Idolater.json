@@ -1,8 +1,10 @@
 {
   "word": "Idolater",
-  "pronunciation": "IDOL'ATER [Latin idololatra. See Idolatry.]",
-  "definition": {
-    "type": "noun",
-    "text": "1. A worshiper of idols; one who pays divine honors to images, statues, or representations of any thing made by hands; one who worships as a deity that which is not God; a pagan.\n2. An adorer; a great admirer."
-  }
+  "pronunciation": "IDOL'ATER, [Latin idololatra. See Idolatry.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. A worshiper of idols; one who pays divine honors to images, statues, or representations of any thing made by hands; one who worships as deity that which is not God; pagan.\n2. An adorer; great admirer."
+    }
+  ]
 }

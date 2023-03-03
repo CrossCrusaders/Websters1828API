@@ -1,8 +1,10 @@
 {
   "word": "Compassed",
-  "pronunciation": "COMPASSED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Embraced; surrounded; inclosed; obtained; imagined."
-  }
+  "pronunciation": "COMPASSED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Embraced; surrounded; inclosed; obtained; imagined."
+    }
+  ]
 }

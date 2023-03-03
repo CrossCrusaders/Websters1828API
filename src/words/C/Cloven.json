@@ -1,8 +1,10 @@
 {
   "word": "Cloven",
-  "pronunciation": "CLOVEN",
-  "definition": {
-    "type": "participle passive",
-    "text": "of cleave. Divided; parted; pronounced clovn."
-  }
+  "pronunciation": "CLOVEN,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "of cleave. Divided; parted; pronounced clovn."
+    }
+  ]
 }

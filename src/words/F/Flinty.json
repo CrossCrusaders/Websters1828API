@@ -1,8 +1,10 @@
 {
   "word": "Flinty",
-  "pronunciation": "FLINT'Y",
-  "definition": {
-    "type": "adjective",
-    "text": "1. Consisting of flint; as a flinty rock.\n2. Like flint; very hard, not impressible; as a flinty heart.\n3. Cruel; unmerciful; inexorable.\n4. Full of flint stones, as flinty ground.Flinty-slate, a mineral of two kinds, the common and the Lydian stone."
-  }
+  "pronunciation": "FLINT'Y,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "1. Consisting of flint; as a flinty rock.\n2. Like flint; very hard, not impressible; as a flinty heart.\n3. Cruel; unmerciful; inexorable.\n4. Full of flint stones, as flinty ground.Flinty-slate, a mineral of two kinds, the common and the Lydian stone."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Engraven",
-  "pronunciation": "ENGRA'VEN",
-  "definition": {
-    "type": "participle passive",
-    "text": "Cut or marked, as with a chisel or graver; imprinted; deeply impressed."
-  }
+  "pronunciation": "ENGRA'VEN,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Cut or marked, as with chisel or graver; imprinted; deeply impressed."
+    }
+  ]
 }

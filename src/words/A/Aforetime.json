@@ -1,8 +1,10 @@
 {
   "word": "Aforetime",
-  "pronunciation": "AFO'RETIME [afore and time.]",
-  "definition": {
-    "type": "adverb",
-    "text": "In time past; in a former time."
-  }
+  "pronunciation": "AFO'RETIME, [afore and time.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "In past; in a former time."
+    }
+  ]
 }

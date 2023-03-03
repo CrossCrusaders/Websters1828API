@@ -1,8 +1,14 @@
 {
   "word": "Kingly",
-  "pronunciation": "KING'LY",
-  "definition": {
-    "type": "adjective",
-    "text": "Belonging to a king; suitable to a king; as a kingly couch.\n1. Royal; sovereign; monarchical; as a kingly government.\n2. Noble; august; splendid; becoming a king; as kingly magnificence.KING'LY, adverb With an air of royalty; with a superior dignity.Low bow'd the rest; he, kingly did but nod."
-  }
+  "pronunciation": "KING'LY,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Kingly\n Belonging to a king; suitable to a king; as a kingly couch.\n1. Royal; sovereign; monarchical; as a kingly government.\n2. Noble; august; splendid; becoming a king; as kingly magnificence.KING'LY,"
+    },
+    {
+      "type": "adverb",
+      "text": "With an air of royalty; with a superior dignity.Low bow'd the rest; he, kingly did but nod."
+    }
+  ]
 }

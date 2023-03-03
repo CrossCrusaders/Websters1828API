@@ -1,8 +1,14 @@
 {
   "word": "Swoon",
-  "pronunciation": "SWOON",
-  "definition": {
-    "type": "verb",
-    "text": "intransitive To faint; to sink into a fainting fit, in which there is a suspension of the apparent vital functions and mental powers.The most in years swoon'd first away for pain.He seemed ready to swoon away in the surprise of joy.SWOON, noun A fainting fit; lipothymy; syncope."
-  }
+  "pronunciation": "SWOON,",
+  "definitions": [
+    {
+      "type": "verb intransitive",
+      "text": "Swoon\n To faint; to sink into a fainting fit, in which there is a suspension of the apparent vital functions and mental powers.The most in years swoon'd first away for pain.He seemed ready to swoon away in the surprise of joy.SWOON,"
+    },
+    {
+      "type": "noun",
+      "text": "A fainting fit; lipothymy; syncope."
+    }
+  ]
 }

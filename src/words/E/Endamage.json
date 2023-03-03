@@ -1,8 +1,10 @@
 {
   "word": "Endamage",
-  "pronunciation": "ENDAM'AGE [from damage.]",
-  "definition": {
-    "type": "verb transitive",
-    "text": "To bring loss or damage to; to harm; to injure; to mischief; to prejudice.\nThe trial hath endamaged thee no way.\nSo thou shalt endamage the revenue of the kings. Ezra 4:1\n3."
-  }
+  "pronunciation": "ENDAM'AGE, [from damage.]",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "To bring loss or to; to harm; to injure; to mischief; to prejudice.\nThe trial hath endamaged thee no way.\nSo thou shalt endamage the revenue of the kings. Ezra 4:13."
+    }
+  ]
 }

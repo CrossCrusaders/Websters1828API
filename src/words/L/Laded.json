@@ -1,8 +1,14 @@
 {
   "word": "Laded",
-  "pronunciation": "LA'DED",
-  "definition": {
-    "type": "participle passive",
-    "text": "1. Loaded; charged with a burden or freight.\n2. adjective Oppressed; burdened."
-  }
+  "pronunciation": "LA'DED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Laded\n LA'DEN,\n1. Loaded; charged with burden or freight.\n2."
+    },
+    {
+      "type": "adjective",
+      "text": "Oppressed; burdened."
+    }
+  ]
 }

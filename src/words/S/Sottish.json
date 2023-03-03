@@ -1,8 +1,10 @@
 {
   "word": "Sottish",
-  "pronunciation": "SOT'TISH",
-  "definition": {
-    "type": "adjective",
-    "text": "1. Dull; stupid; senseless; doltish; very foolish. How ignorant are sottish pretenders to astrology!\n2. Dull with intemperance."
-  }
+  "pronunciation": "SOT'TISH,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "1. Dull; stupid; senseless; doltish; very foolish. How ignorant are sottish pretenders to astrology!\n2. Dull with intemperance."
+    }
+  ]
 }

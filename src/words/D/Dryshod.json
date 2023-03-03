@@ -1,8 +1,10 @@
 {
   "word": "Dryshod",
-  "pronunciation": "DRYSHOD",
-  "definition": {
-    "type": "adjective",
-    "text": "Without wetting the feet. Isaiah 11:1\n5."
-  }
+  "pronunciation": "DRYSHOD,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Without wetting the feet. Isaiah 11:15."
+    }
+  ]
 }

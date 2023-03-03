@@ -1,8 +1,10 @@
 {
   "word": "Cleanness",
-  "pronunciation": "CLEANNESS",
-  "definition": {
-    "type": "noun",
-    "text": "1. Freedom from dirt, filth, and foreign matter; neatness.\n2. Freedom from infection or a foul disease.\n3. Exactness; purity; justness; correctness; used of language or style; as, cleanness of expression.\n4. Purity; innocence.In scripture, cleanness of hands denotes innocence. cleanness of teeth denotes want of provisions. Amos 4:6."
-  }
+  "pronunciation": "CLEANNESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. Freedom from dirt, filth, and foreign matter; neatness.\n2. Freedom from infection or foul disease.\n3. Exactness; purity; justness; correctness; used of language or style; as, cleanness of expression.\n4. Purity; innocence.In scripture, cleanness of hands denotes innocence. cleanness of teeth denotes want of provisions. Amos 4:6."
+    }
+  ]
 }

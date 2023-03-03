@@ -1,8 +1,10 @@
 {
   "word": "Athirst",
-  "pronunciation": "ATHIRST'",
-  "definition": {
-    "type": "adjective",
-    "text": "athrust'. [a and thirst. See Thirst.]\n1. Thirsty; wanting drink.\n2. Having a keen appetite or desire.He had a soul athirst for knowledge."
-  }
+  "pronunciation": "ATHIRST',",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "athrust'. [a and thirst. See Thirst.]\n1. Thirsty; wanting drink.\n2. Having a keen appetite or desire.He had a soul athirst for knowledge."
+    }
+  ]
 }

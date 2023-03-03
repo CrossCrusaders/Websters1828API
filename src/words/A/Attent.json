@@ -1,8 +1,10 @@
 {
   "word": "Attent",
-  "pronunciation": "ATTENT'",
-  "definition": {
-    "type": "adjective",
-    "text": "Attentive. 2 Chronicles 6:40."
-  }
+  "pronunciation": "ATTENT',",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Attentive. 2 Chronicles 6:40."
+    }
+  ]
 }

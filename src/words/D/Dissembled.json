@@ -1,8 +1,10 @@
 {
   "word": "Dissembled",
-  "pronunciation": "DISSEMBLED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Concealed under a false appearance; disguised."
-  }
+  "pronunciation": "DISSEMBLED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Concealed under a false appearance; disguised."
+    }
+  ]
 }

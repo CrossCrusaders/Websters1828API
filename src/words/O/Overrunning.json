@@ -1,8 +1,10 @@
 {
   "word": "Overrunning",
-  "pronunciation": "OVERRUN'NING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Spreading over; ravaging; changing the disposition of types."
-  }
+  "pronunciation": "OVERRUN'NING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Spreading over; ravaging; changing the disposition of types."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Beguiled",
-  "pronunciation": "BEGUI'LED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Deluded; imposed on; misled by craft; eluded by stratagem; passed pleasingly."
-  }
+  "pronunciation": "BEGUI'LED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Deluded; imposed on; misled by craft; eluded by stratagem; passed pleasingly."
+    }
+  ]
 }

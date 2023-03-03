@@ -1,8 +1,10 @@
 {
   "word": "Straitly",
-  "pronunciation": "STRAITLY",
-  "definition": {
-    "type": "adverb",
-    "text": "1. Narrowly; closely.\n2. Strictly; rigorously. [For this, strictly is now used.]\n3. Closely; intimately."
-  }
+  "pronunciation": "STRAITLY,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "1. Narrowly; closely.\n2. Strictly; rigorously. [For this, strictly is now used.]\n3. Closely; intimately."
+    }
+  ]
 }

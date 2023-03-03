@@ -1,8 +1,10 @@
 {
   "word": "Scall",
-  "pronunciation": "SCALL [See Scald and Scaldhead.]\nScab;",
-  "definition": {
-    "type": "noun",
-    "text": "scabbiness; leprosy.\nIt is a dry scall even a leprosy on the head. Leviticus 1 3:30."
-  }
+  "pronunciation": "SCALL, [See Scald and Scaldhead.]\nScab;",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Scab; scabbiness; leprosy.\nIt is dry scall even leprosy on the head. Leviticus 13:30."
+    }
+  ]
 }

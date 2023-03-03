@@ -1,8 +1,10 @@
 {
   "word": "Blindfolded",
-  "pronunciation": "BLINDFOLDED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Having the eyes covered; hindered from seeing."
-  }
+  "pronunciation": "BLINDFOLDED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Having the eyes covered; hindered from seeing."
+    }
+  ]
 }

@@ -1,8 +1,14 @@
 {
   "word": "Holpen",
-  "pronunciation": "HOLP, HOLPEN",
-  "definition": {
-    "type": "preterit tense and participle passive",
-    "text": "of help."
-  }
+  "pronunciation": "HOLP,",
+  "definitions": [
+    {
+      "type": "preterit tense",
+      "text": "Holpen\n HOLPEN the antiquated and"
+    },
+    {
+      "type": "participle passive",
+      "text": "of help."
+    }
+  ]
 }

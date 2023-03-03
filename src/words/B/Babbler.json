@@ -1,8 +1,10 @@
 {
   "word": "Babbler",
-  "pronunciation": "BAB'BLER",
-  "definition": {
-    "type": "noun",
-    "text": "An idle talker; an irrational prattler; a teller of secrets."
-  }
+  "pronunciation": "BAB'BLER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "An idle talker; an irrational prattler; teller of secrets."
+    }
+  ]
 }

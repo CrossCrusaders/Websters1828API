@@ -1,8 +1,10 @@
 {
   "word": "Fleshhook",
-  "pronunciation": "FLESH'HOOK",
-  "definition": {
-    "type": "noun",
-    "text": "A hook to draw flesh from a pot or caldron. 1 Samuel 2:1\n3."
-  }
+  "pronunciation": "FLESH'HOOK,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A to draw flesh from a pot or caldron. 1 Samuel 2:13."
+    }
+  ]
 }

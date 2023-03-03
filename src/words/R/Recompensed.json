@@ -1,8 +1,10 @@
 {
   "word": "Recompensed",
-  "pronunciation": "REC'OMPENSED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Rewarded; requited."
-  }
+  "pronunciation": "REC'OMPENSED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Rewarded; requited."
+    }
+  ]
 }

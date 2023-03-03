@@ -1,8 +1,10 @@
 {
   "word": "Leprous",
-  "pronunciation": "LEP'ROUS [See Leper.]",
-  "definition": {
-    "type": "adjective",
-    "text": "Infected with leprosy; covered with white scales.His hand was leprous as snow. Exodus 4:6."
-  }
+  "pronunciation": "LEP'ROUS, [See Leper.]",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Infected with leprosy; covered with white scales.His hand was leprous as snow. Exodus 4:6."
+    }
+  ]
 }

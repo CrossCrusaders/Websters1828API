@@ -1,8 +1,10 @@
 {
   "word": "Ministered",
-  "pronunciation": "MIN'ISTERED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Served; afforded; supplied."
-  }
+  "pronunciation": "MIN'ISTERED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Served; afforded; supplied."
+    }
+  ]
 }

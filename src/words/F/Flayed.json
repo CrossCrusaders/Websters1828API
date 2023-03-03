@@ -1,8 +1,10 @@
 {
   "word": "Flayed",
-  "pronunciation": "FLA'YED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Skinned; stripped of the skin."
-  }
+  "pronunciation": "FLA'YED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Skinned; stripped of the skin."
+    }
+  ]
 }

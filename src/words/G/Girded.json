@@ -1,8 +1,10 @@
 {
   "word": "Girded",
-  "pronunciation": "GIRD'ED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Bound; surrounded; invested; put on."
-  }
+  "pronunciation": "GIRD'ED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Bound; surrounded; invested; put on."
+    }
+  ]
 }

@@ -1,8 +1,14 @@
 {
   "word": "Chiding",
-  "pronunciation": "CHIDING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Scolding; clamoring; rebuking; making a harsh or continued noise.CHIDING, noun A scolding or clamoring; rebuke; reproof."
-  }
+  "pronunciation": "CHIDING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Chiding\n Scolding; clamoring; rebuking; making a harsh or continued noise.CHIDING,"
+    },
+    {
+      "type": "noun",
+      "text": "A scolding or clamoring; rebuke; reproof."
+    }
+  ]
 }

@@ -1,8 +1,14 @@
 {
   "word": "Aforehand",
-  "pronunciation": "AFO'REHAND [afore and hand.]",
-  "definition": {
-    "type": "adverb",
-    "text": "1. In time previous; by previous provision; as, he is ready aforehand She is come aforehand to anoint my body. Mark 1 4:8.\n2. adjective Prepared; previously provided; as, to be aforehand in business. Hence in popular language, amply provided; well supplied with the means of living; having means beyond the requirements of necessity; moderately wealthy. The word is popularly changed into aforehanded, beforehanded, or rather forehanded; as, a forehanded farmer."
-  }
+  "pronunciation": "AFO'REHAND, [afore and hand.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Aforehand\n [afore hand.]\n1. In time previous; by previous provision; as, he is ready aforehand She is come aforehand to anoint my body. Mark 14:8.\n2."
+    },
+    {
+      "type": "adjective",
+      "text": "Prepared; previously provided; as, to be aforehand in business. Hence in popular language, amply provided; well supplied with the means of living; having means beyond the requirements of necessity; moderately wealthy. The word is popularly changed into aforehanded, beforehanded, rather forehanded; as, forehanded farmer."
+    }
+  ]
 }

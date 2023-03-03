@@ -1,8 +1,14 @@
 {
   "word": "Leaven",
-  "pronunciation": "LEAVEN",
-  "definition": {
-    "type": "noun",
-    "text": "lev'n. [Latin levo, Eng. to lift.]\n\n1. A mass of sour dough, which, mixed with a larger quantity of dough or paste, produces fermentation in it and renders it light. During the seven days of the passover, no leaven was permitted to be in the houses of the Jews. Exodus 1 2:1 5.\n\n2. Any thing which makes a general change in the mass. It generally means something which corrupts or depraves that with which it is mixed.\nBeware of the leaven of the Pharisees and of the Sadducees. Matthew 1 6:6.\nLEAVEN, verb transitive lev'n.\n\n1. To excite fermentation in; to raise and make light, as dough or paste.\nA little leaven leaveneth the whole lump. 1 Corinthians 5:6.\n\n2. to taint; to imbue."
-  }
+  "pronunciation": "LEAVEN,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Leaven\n lev'n. [Latin levo, Eng. to lift.]\n1. A mass of sour dough, which, mixed with larger quantity of dough or paste, produces fermentation in it and renders it light. During the seven days of the passover, no leaven was permitted to be in the houses of the Jews. Exodus 12:15.\n2. Any thing which makes general change in the mass. It generally means something which corrupts or depraves that with which it is mixed.\nBeware of the leaven of the Pharisees and of the Sadducees. Matthew 16:6.\nLEAVEN,"
+    },
+    {
+      "type": "verb transitive",
+      "text": "lev'n.\n1. To excite fermentation in; to raise and make light, as dough or paste.\nA little leaven leaveneth the whole lump. 1 Corinthians 5:6.\n2. to taint; to imbue."
+    }
+  ]
 }

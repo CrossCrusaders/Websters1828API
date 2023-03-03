@@ -1,8 +1,10 @@
 {
   "word": "Reprove",
-  "pronunciation": "REPROVE [Latin reprobo; re and probo, to prove.]\n",
-  "definition": {
-    "type": "verb transitive",
-    "text": "1. To blame; to censure.\nI will not reprove thee for thy sacrifices - Psalms 50:8.\n\n2. To charge with a fault to the face; to chide; to reprehend. Luke 3:1 9.\n\n3. To blame for; with of; as, to reprove one of laziness.\n\n4. To convince of a fault, or to make it manifest. John 1 6:8.\n\n5. To refute; to disprove. [Not in use.]\n\n6. To excite a sense of guilt. The heart or conscience reproves us.\n\n7. To manifest silent disapprobation or blame.\nThe vicious cannot bear the presence of the good, whose very looks reprove them, and whose life is a severe, though silent admonition."
-  }
+  "pronunciation": "REPROVE, [Latin reprobo; re and probo, to prove.]\n",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "1. To blame; to censure.\nI will not reprove thee for thy sacrifices - Psalms 50:8.\n2. To charge with a fault to the face; to chide; to reprehend. Luke 3:19.\n3. To blame for; with of; as, to reprove one of laziness.\n4. To convince of a fault, or to make it manifest. John 16:8.\n5. To refute; to disprove. [Not in use.\n6. To excite a sense of guilt. The heart or conscience reproves us.\n7. To manifest silent disapprobation or blame.\nThe vicious cannot bear the presence of the good, whose very looks reprove them, and whose life is a severe, though silent admonition.]"
+    }
+  ]
 }

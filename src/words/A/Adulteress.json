@@ -1,8 +1,10 @@
 {
   "word": "Adulteress",
-  "pronunciation": "ADUL'TERESS",
-  "definition": {
-    "type": "noun",
-    "text": "A married woman guilty of incontinence."
-  }
+  "pronunciation": "ADUL'TERESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "married woman guilty of incontinence."
+    }
+  ]
 }

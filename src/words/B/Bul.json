@@ -1,8 +1,10 @@
 {
   "word": "Bul",
-  "pronunciation": "BUL",
-  "definition": {
-    "type": "",
-    "text": ""
-  }
+  "pronunciation": "BUL,noun",
+  "definitions": [
+    {
+      "type": "",
+      "text": "The common flounder."
+    }
+  ]
 }

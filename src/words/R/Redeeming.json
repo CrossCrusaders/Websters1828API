@@ -1,8 +1,10 @@
 {
   "word": "Redeeming",
-  "pronunciation": "REDEE'MING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Ransoming; procuring deliverance from captivity, capture, bondage, sin, distress or liability to suffer, by the payment of an equivalent."
-  }
+  "pronunciation": "REDEE'MING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Ransoming; procuring deliverance from captivity, capture, bondage, sin, distress or liability to suffer, by the payment of an equivalent."
+    }
+  ]
 }

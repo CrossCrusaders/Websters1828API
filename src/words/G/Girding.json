@@ -1,8 +1,14 @@
 {
   "word": "Girding",
-  "pronunciation": "GIRD'ING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Binding; surrounding; investing.GIRD'ING, noun A covering. Isaiah 3:2\n4."
-  }
+  "pronunciation": "GIRD'ING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Girding\n Binding; surrounding; investing.GIRD'ING,"
+    },
+    {
+      "type": "noun",
+      "text": "A covering. Isaiah 3:24."
+    }
+  ]
 }

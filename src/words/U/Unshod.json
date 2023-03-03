@@ -1,8 +1,10 @@
 {
   "word": "Unshod",
-  "pronunciation": "UNSHOD'",
-  "definition": {
-    "type": "adjective",
-    "text": "Not shod; having no shoes."
-  }
+  "pronunciation": "UNSHOD',",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Not shod; having no shoes."
+    }
+  ]
 }

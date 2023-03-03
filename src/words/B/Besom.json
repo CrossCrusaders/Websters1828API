@@ -1,8 +1,14 @@
 {
   "word": "Besom",
-  "pronunciation": "BE'SOM",
-  "definition": {
-    "type": "noun",
-    "text": "s as z. A broom; a brush of twigs for sweeping.I will sweep it with the besom of destruction, saith the Lord of Hosts. Isaiah 1 4:2 3.BE'SOM, verb transitive To sweep, as with a besom Rolls back all Greece, and besoms wide the plain."
-  }
+  "pronunciation": "BE'SOM,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Besom\n as z. A broom; a brush of twigs for sweeping.I will sweep it with the besom of destruction, saith the Lord of Hosts. Isaiah 14:23.BE'SOM,"
+    },
+    {
+      "type": "verb transitive",
+      "text": "To sweep, as with a besom Rolls back all Greece, and besoms wide the plain."
+    }
+  ]
 }

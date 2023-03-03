@@ -1,8 +1,10 @@
 {
   "word": "Ofttimes",
-  "pronunciation": "OFT'TIMES [oft and times.]",
-  "definition": {
-    "type": "adverb",
-    "text": "Frequently; often."
-  }
+  "pronunciation": "OFT'TIMES, [oft and times.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Frequently; often."
+    }
+  ]
 }

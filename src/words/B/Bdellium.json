@@ -1,8 +1,10 @@
 {
   "word": "Bdellium",
-  "pronunciation": "BDEL'LIUM [ Bochard and Parkhurst translate it, pearl. Genesis 2:1 \n2. But it is doubtful whether the bdellium of the scriptures is that now used.]A",
-  "definition": {
-    "type": "noun",
-    "text": "gummy resinous juice, produced by a tree in the East Indies, of which we have no satisfactory account. It is brought from the E. Indies and from Arabia, in pieces of different sizes and figures, externally of a dark reddish brown, internally, clear and not unlike to glue. To the taste, it is slightly bitterish and pungent; its odor is agreeable. In the mouth, it becomes soft and sticks to the teeth; on a red hot iron, it readily catches flame and burns with a crackling noise. It is used as a perfume and a medicine, being a weak deobstruent."
-  }
+  "pronunciation": "BDEL'LIUM, [ Bochard and Parkhurst translate it, pearl. Genesis 2:12. But it is doubtful whether the bdellium of the scriptures is that now used.]A",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A gummy resinous juice, produced by a tree in the East Indies, of which we have no satisfactory account. It is brought from the E. Indies and from Arabia, in pieces of different sizes and figures, externally of a dark reddish brown, internally, clear and not unlike to glue. To the taste, it is slightly bitterish and pungent; its odor is agreeable. In the mouth, it becomes soft and sticks to the teeth; on a red hot iron, it readily catches flame and burns with a crackling noise. It is used as a perfume and a medicine, being a weak deobstruent."
+    }
+  ]
 }

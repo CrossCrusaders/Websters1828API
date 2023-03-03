@@ -1,8 +1,10 @@
 {
   "word": "Froward",
-  "pronunciation": "FRO'WARD [Latin versus:turned or looking from.]\nPerverse,",
-  "definition": {
-    "type": "adjective",
-    "text": "that is, turning from, with aversion or reluctance; not willing to yield or comply with what is required; unyielding; ungovernable; refractory; disobedient; peevish; as a froward child.\nThey are a very froward generation, children in whom is no faith. Deuteronomy 3 2:20."
-  }
+  "pronunciation": "FRO'WARD, [Latin versus:turned or looking from.]\nPerverse,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Perverse, that is, turning from, with aversion or reluctance; not willing to yield or comply with what is required; unyielding; ungovernable; refractory; disobedient; peevish; as froward child.\nThey are very froward generation, children in whom is no faith. Deuteronomy 32:20."
+    }
+  ]
 }

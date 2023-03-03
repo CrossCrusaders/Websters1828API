@@ -1,8 +1,10 @@
 {
   "word": "Chafed",
-  "pronunciation": "CHAFED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Heated or fretted by rubbing; worn by friction."
-  }
+  "pronunciation": "CHAFED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Heated or fretted by rubbing; worn by friction."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Yesternight",
-  "pronunciation": "YESTERNIGHT [yester and night.]",
-  "definition": {
-    "type": "noun",
-    "text": "1. The last night.\n2. It is used without preposition. My brother arrived yesternight; where on or during is understood, but it may be considered as adverbially used."
-  }
+  "pronunciation": "YESTERNIGHT, [yester and night.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. The last night.\n2. It is used without preposition. My brother arrived yesternight; where on or during is understood, but it may be considered as adverbially used."
+    }
+  ]
 }

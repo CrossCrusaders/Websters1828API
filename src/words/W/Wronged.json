@@ -1,8 +1,10 @@
 {
   "word": "Wronged",
-  "pronunciation": "WRONGED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Treated unjustly; injured."
-  }
+  "pronunciation": "WRONGED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Treated unjustly; injured."
+    }
+  ]
 }

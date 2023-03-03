@@ -1,8 +1,14 @@
 {
   "word": "Anointing",
-  "pronunciation": "ANOINT'ING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Smearing with oil; pouring on oil, or other oleaginous substance; consecrating.ANOINT'ING, noun The act of smearing with oil; a consecrating."
-  }
+  "pronunciation": "ANOINT'ING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Anointing\n Smearing with oil; pouring on oil, or other oleaginous substance; consecrating.ANOINT'ING,"
+    },
+    {
+      "type": "noun",
+      "text": "The act of smearing with oil; a consecrating."
+    }
+  ]
 }

@@ -1,8 +1,18 @@
 {
   "word": "Stammering",
-  "pronunciation": "STAMMERING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "1. Stopping or hesitating in the uttering of syllables and words; stuttering.\n2. adjective Apt to stammer.STAMMERING, noun The act of stopping or hesitating in speaking; impediment in speech."
-  }
+  "pronunciation": "STAMMERING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Stammering\n1. Stopping or hesitating the uttering of syllables and words; stuttering.\n2."
+    },
+    {
+      "type": "adjective",
+      "text": "Apt to stammer.STAMMERING,"
+    },
+    {
+      "type": "noun",
+      "text": "The act of stopping or hesitating speaking; impediment speech."
+    }
+  ]
 }

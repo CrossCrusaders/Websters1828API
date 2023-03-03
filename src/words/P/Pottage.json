@@ -1,8 +1,10 @@
 {
   "word": "Pottage",
-  "pronunciation": "POT'TAGE",
-  "definition": {
-    "type": "noun",
-    "text": "Broth; soup. [See Potage, the more correct orthography.]"
-  }
+  "pronunciation": "POT'TAGE,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Broth; soup. [See Potage, the more correct orthography.]"
+    }
+  ]
 }

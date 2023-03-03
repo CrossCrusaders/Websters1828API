@@ -1,8 +1,10 @@
 {
   "word": "Manslayer",
-  "pronunciation": "MAN'SLAYER",
-  "definition": {
-    "type": "noun",
-    "text": "One that has slain a human being. The Israelites had cities of refuge for manslayers."
-  }
+  "pronunciation": "MAN'SLAYER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "One that has slain human being. The Israelites had cities of refuge for manslayers."
+    }
+  ]
 }

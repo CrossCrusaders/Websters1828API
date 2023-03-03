@@ -1,8 +1,10 @@
 {
   "word": "Mote",
-  "pronunciation": "MOTE",
-  "definition": {
-    "type": "noun",
-    "text": "A small particle; any thing proverbially small; a spot.Why beholdest thou the mote in thy brother's eye? Matthew 7:3.The little motes in the sun do ever stir, though there is no wind.MOTE, for mought, might or must, obsolete."
-  }
+  "pronunciation": "MOTE,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "in folkmote, etc. signifies a meeting.MOTE, A small particle; any thing proverbially small; a spot.Why beholdest thou the mote in thy brother's eye? Matthew 7:3.The little motes in the sun do ever stir, though there is no wind.MOTE, for mought, might or must, obsolete."
+    }
+  ]
 }

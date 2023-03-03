@@ -1,8 +1,10 @@
 {
   "word": "Respecter",
-  "pronunciation": "RESPECT'ER",
-  "definition": {
-    "type": "noun",
-    "text": "One that respects; chiefly used in the phrase, respecter of persons, which signifies a person who regards the external circumstances of others in his judgment, and suffers his opinion to be biased by them, to the prejudice of candor, justice and equity.I perceive that God is no respecter of persons. Acts 10:3\n4."
-  }
+  "pronunciation": "RESPECT'ER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "One that respects; chiefly used in the phrase, respecter of persons, which signifies a person who regards the external circumstances of others in his judgment, and suffers his opinion to be biased by them, to the prejudice of candor, justice and equity.I perceive that God is no respecter of persons. Acts 10:34."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Besought",
-  "pronunciation": "BESOUGHT'",
-  "definition": {
-    "type": "participle passive",
-    "text": "of beseech. Entreated; implored; sought by entreaty."
-  }
+  "pronunciation": "BESOUGHT',",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "besaut'. of beseech. Entreated; implored; by entreaty."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Ravished",
-  "pronunciation": "RAV'ISHED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Snatched away by violence; forced to submit to carnal embrace; delighted to ecstasy."
-  }
+  "pronunciation": "RAV'ISHED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Snatched away by violence; forced to submit to carnal embrace; delighted to ecstasy."
+    }
+  ]
 }

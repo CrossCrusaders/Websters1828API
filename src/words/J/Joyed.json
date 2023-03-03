@@ -1,8 +1,10 @@
 {
   "word": "Joyed",
-  "pronunciation": "JOY'ED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Gladdened; enjoyed."
-  }
+  "pronunciation": "JOY'ED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Gladdened; enjoyed."
+    }
+  ]
 }

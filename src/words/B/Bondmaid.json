@@ -1,8 +1,10 @@
 {
   "word": "Bondmaid",
-  "pronunciation": "BOND'MAID [bond and maid.]",
-  "definition": {
-    "type": "noun",
-    "text": "A female slave, or one bound to service without wages, in opposition to a hired servant."
-  }
+  "pronunciation": "BOND'MAID, [bond and maid.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A female slave, or one bound to service without wages, in opposition to hired servant."
+    }
+  ]
 }

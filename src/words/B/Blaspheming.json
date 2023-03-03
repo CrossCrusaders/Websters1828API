@@ -1,8 +1,10 @@
 {
   "word": "Blaspheming",
-  "pronunciation": "BLASPHE'MING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Uttering impious or reproachful words concerning God."
-  }
+  "pronunciation": "BLASPHE'MING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Uttering impious or reproachful words concerning God."
+    }
+  ]
 }

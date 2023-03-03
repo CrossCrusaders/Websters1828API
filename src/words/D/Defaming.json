@@ -1,8 +1,14 @@
 {
   "word": "Defaming",
-  "pronunciation": "DEFAMING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Slandering; injuring the character by false reports.DEFAMING, noun Defamation; slander."
-  }
+  "pronunciation": "DEFAMING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Defaming\n Slandering; injuring the character by false reports.DEFAMING,"
+    },
+    {
+      "type": "noun",
+      "text": "Defamation; slander."
+    }
+  ]
 }

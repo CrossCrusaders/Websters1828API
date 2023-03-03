@@ -1,8 +1,14 @@
 {
   "word": "Tithing",
-  "pronunciation": "TI'THING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Levying a tax on, to the amount of a tenth.TI'THING, noun A decennary; a number or company of ten householders, who dwelling near each other, were sureties or free- pledges to the king for the good behavior of each other. The institution of tithings in England is ascribed to Alfred."
-  }
+  "pronunciation": "TI'THING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Tithing\n Levying a tax on, to the amount of a tenth.TI'THING,"
+    },
+    {
+      "type": "noun",
+      "text": "A decennary; a number or company of ten householders, who dwelling near each other, were sureties or free- pledges to the king for the good behavior of each other. The institution of tithings England is ascribed to Alfred."
+    }
+  ]
 }

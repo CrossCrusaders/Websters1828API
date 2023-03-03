@@ -1,8 +1,10 @@
 {
   "word": "Disannulling",
-  "pronunciation": "DISANNULLING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Making void; depriving of authority or binding force."
-  }
+  "pronunciation": "DISANNULLING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Making void; depriving of authority or binding force."
+    }
+  ]
 }

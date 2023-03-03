@@ -1,8 +1,10 @@
 {
   "word": "Whisperer",
-  "pronunciation": "WHISPERER",
-  "definition": {
-    "type": "noun",
-    "text": "1. One who whispers.\n2. A tattler; one who tells secrets; a conveyer of intelligence secretly.\n3. A backbiter; one who slanders secretly. Proverbs 1 6:2\n8."
-  }
+  "pronunciation": "WHISPERER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. One who whispers.\n2. A tattler; one who tells secrets; a conveyer of intelligence secretly.\n3. A backbiter; one who slanders secretly. Proverbs 16:28."
+    }
+  ]
 }

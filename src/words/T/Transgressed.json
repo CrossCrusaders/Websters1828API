@@ -1,8 +1,10 @@
 {
   "word": "Transgressed",
-  "pronunciation": "TRANSGRESS'ED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Overpassed; violated."
-  }
+  "pronunciation": "TRANSGRESS'ED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Overpassed; violated."
+    }
+  ]
 }

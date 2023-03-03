@@ -1,8 +1,10 @@
 {
   "word": "Disquietness",
-  "pronunciation": "DISQUIETNESS",
-  "definition": {
-    "type": "noun",
-    "text": "Uneasiness; restlessness; disturbance of peace in body or mind."
-  }
+  "pronunciation": "DISQUIETNESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Uneasiness; restlessness; disturbance of peace in body or mind."
+    }
+  ]
 }

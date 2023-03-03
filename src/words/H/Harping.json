@@ -1,8 +1,18 @@
 {
   "word": "Harping",
-  "pronunciation": "H'ARPING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Playing on a harp; dwelling on continually.H'ARPING, noun A continual dwelling on.Making infinite merriment by harpings upon old themes.H'ARPING, noun plural harpings. In ships, harpings are the fore-parts of the wales, which encompass the bow of the ship, and are fastened to the stem. Their use is to strengthen the ship, in the place where she sustains the greatest shock in plunging into the sea.Cat-harpings, are ropes which serve to brace in the shrouds of the lower masts, behind their respective yards."
-  }
+  "pronunciation": "H'ARPING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Harping\n Playing on harp; dwelling on continually.H'ARPING,"
+    },
+    {
+      "type": "noun",
+      "text": "A continual dwelling on.Making infinite merriment by harpings upon old themes.H'ARPING,"
+    },
+    {
+      "type": "noun",
+      "text": "plural harpings. In ships, harpings are the fore-parts of the wales, which encompass the bow of the ship, and are fastened to the stem. Their use is to strengthen the ship, the place where she sustains the greatest shock plunging into the sea.Cat-harpings, are ropes which serve to brace the shrouds of the lower masts, behind their respective yards."
+    }
+  ]
 }

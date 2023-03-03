@@ -1,8 +1,10 @@
 {
   "word": "Prosperously",
-  "pronunciation": "PROS'PEROUSLY",
-  "definition": {
-    "type": "adverb",
-    "text": "With gain or increase; successfully."
-  }
+  "pronunciation": "PROS'PEROUSLY,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "With gain or increase; successfully."
+    }
+  ]
 }

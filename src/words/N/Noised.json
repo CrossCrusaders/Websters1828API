@@ -1,8 +1,10 @@
 {
   "word": "Noised",
-  "pronunciation": "NOISED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Spread by report; much talked of."
-  }
+  "pronunciation": "NOISED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Spread by report; much talked of."
+    }
+  ]
 }

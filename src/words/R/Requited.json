@@ -1,8 +1,10 @@
 {
   "word": "Requited",
-  "pronunciation": "REQUI'TED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Repaid; recompensed; rewarded."
-  }
+  "pronunciation": "REQUI'TED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Repaid; recompensed; rewarded."
+    }
+  ]
 }

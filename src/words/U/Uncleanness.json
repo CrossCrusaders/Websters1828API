@@ -1,8 +1,10 @@
 {
   "word": "Uncleanness",
-  "pronunciation": "UNCLE'ANNESS",
-  "definition": {
-    "type": "noun",
-    "text": "1. Foulness; dirtiness; filthiness.Be not troublesome to thyself or to others by uncleanness\n2. Want of ritual or ceremonial purity. Leviticus 1 5:3.\n3. Moral impurity; defilement by sin; sinfulness.I will save you from all your uncleanness Ezekiel 3 6:1\n7.\n4. Lewdness; incontinence. Colossians 3:5. 2 Peter 2:\n10."
-  }
+  "pronunciation": "UNCLE'ANNESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. Foulness; dirtiness; filthiness.Be not troublesome to thyself or to others by uncleanness\n2. Want of ritual or ceremonial purity. Leviticus 15:3.\n3. Moral impurity; defilement by sin; sinfulness.I will save you from all your uncleanness Ezekiel 36:17.\n4. Lewdness; incontinence. Colossians 3:5. 2 Peter 2:10."
+    }
+  ]
 }

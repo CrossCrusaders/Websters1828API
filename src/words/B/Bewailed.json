@@ -1,8 +1,10 @@
 {
   "word": "Bewailed",
-  "pronunciation": "BEWA'ILED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Lamented; bemoaned."
-  }
+  "pronunciation": "BEWA'ILED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Lamented; bemoaned."
+    }
+  ]
 }

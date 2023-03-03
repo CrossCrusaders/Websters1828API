@@ -1,8 +1,10 @@
 {
   "word": "Importunity",
-  "pronunciation": "IMPORTU'NITY [Latin importunitas.]Pressing",
-  "definition": {
-    "type": "noun",
-    "text": "solicitation; urgent request; application for a claim or favor, which is urged with troublesome frequency or pertinacity. Men are sometimes overcome by the importunity of their wives or children."
-  }
+  "pronunciation": "IMPORTU'NITY, [Latin importunitas.]Pressing",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Pressing solicitation; urgent request; application for a claim favor, which is urged with troublesome frequency pertinacity. Men are sometimes overcome by the importunity of their wives children."
+    }
+  ]
 }

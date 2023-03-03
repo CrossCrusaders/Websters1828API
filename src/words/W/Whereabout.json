@@ -1,8 +1,10 @@
 {
   "word": "Whereabout",
-  "pronunciation": "WHEREABOUT [where and about.]",
-  "definition": {
-    "type": "adverb",
-    "text": "1. Near what place. whereabout did you meet your friend?\n2. Near which place.\n3. Concerning which.The object whereabout they are conversant."
-  }
+  "pronunciation": "WHEREABOUT, [where and about.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "1. Near what place. whereabout did you meet your friend?\n2. Near which place.\n3. Concerning which.The object whereabout they are conversant."
+    }
+  ]
 }

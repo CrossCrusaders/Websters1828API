@@ -1,8 +1,18 @@
 {
   "word": "Bleating",
-  "pronunciation": "BLE'ATING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "or adjective Crying as a sheep.BLE'ATING, noun The cry of a sheep."
-  }
+  "pronunciation": "BLE'ATING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Bleating\n or"
+    },
+    {
+      "type": "adjective",
+      "text": "Crying as sheep.BLE'ATING,"
+    },
+    {
+      "type": "noun",
+      "text": "The cry of sheep."
+    }
+  ]
 }

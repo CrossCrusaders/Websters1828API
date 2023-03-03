@@ -1,8 +1,14 @@
 {
   "word": "Sevenfold",
-  "pronunciation": "SEV'ENFOLD [seven and fold.]",
-  "definition": {
-    "type": "adjective",
-    "text": "Repeated seven times; doubled seven times; increased to seven times the size or amount; as the sevenfold shield of Ajax; sevenfold rage.SEV'ENFOLD, adverb Seven times as much or often.Whoever slayeth Cain, vengence shall be taken on him sevenfold. Genesis 4:1\n5."
-  }
+  "pronunciation": "SEV'ENFOLD, [seven and fold.]",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Sevenfold\n [seven and fold.] Repeated seven times; doubled seven times; increased to seven times the size or amount; as the sevenfold shield of Ajax; sevenfold rage.SEV'ENFOLD,"
+    },
+    {
+      "type": "adverb",
+      "text": "times as much or often.Whoever slayeth Cain, vengence shall be taken on him sevenfold. Genesis 4:15."
+    }
+  ]
 }

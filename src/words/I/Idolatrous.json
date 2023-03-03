@@ -1,8 +1,10 @@
 {
   "word": "Idolatrous",
-  "pronunciation": "IDOL'ATROUS",
-  "definition": {
-    "type": "adjective",
-    "text": "Pertaining to idolatry; partaking of the nature of idolatry, or of the worship of false gods; consisting in the worship of idols; as idolatrous worship.\n1. Consisting in or partaking of an excessive attachment or reverence; as an idolatrous veneration for antiquity."
-  }
+  "pronunciation": "IDOL'ATROUS,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Pertaining to idolatry; partaking of the nature of idolatry, or of the worship of false gods; consisting in the worship of idols; as idolatrous worship.\n1. Consisting in or partaking of an excessive attachment or reverence; as an idolatrous veneration for antiquity."
+    }
+  ]
 }

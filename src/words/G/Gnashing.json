@@ -1,8 +1,14 @@
 {
   "word": "Gnashing",
-  "pronunciation": "GNASH'ING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "nash'ing. Striking the teeth together, as in anger, rage or pain.GNASH'ING, noun nash'ing. A grinding or striking of the teeth in rage or anguish.There shall be weeping and gnashing of teeth. Matthew 8:1\n2."
-  }
+  "pronunciation": "GNASH'ING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Gnashing\n nash'ing. Striking the teeth together, anger, rage or pain.GNASH'ING,"
+    },
+    {
+      "type": "noun",
+      "text": "nash'ing. A grinding or striking of the teeth rage or anguish.There shall be weeping and gnashing of teeth. Matthew 8:12."
+    }
+  ]
 }

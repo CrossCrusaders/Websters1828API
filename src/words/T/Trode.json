@@ -1,8 +1,14 @@
 {
   "word": "Trode",
-  "pronunciation": "TRODE",
-  "definition": {
-    "type": "preterit tense",
-    "text": "of tread.TRODE, noun Tread; footing."
-  }
+  "pronunciation": "TRODE,",
+  "definitions": [
+    {
+      "type": "preterit tense",
+      "text": "Trode\n old of tread.TRODE,"
+    },
+    {
+      "type": "noun",
+      "text": "Tread; footing."
+    }
+  ]
 }

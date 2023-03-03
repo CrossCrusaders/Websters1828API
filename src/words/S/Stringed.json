@@ -1,8 +1,10 @@
 {
   "word": "Stringed",
-  "pronunciation": "STRINGED",
-  "definition": {
-    "type": "adjective",
-    "text": "1. Having strings; as a stringed instrument.\n2. Produced by strings; as stringed noise."
-  }
+  "pronunciation": "STRINGED,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "1. Having strings; as a stringed instrument.\n2. Produced by strings; as stringed noise."
+    }
+  ]
 }

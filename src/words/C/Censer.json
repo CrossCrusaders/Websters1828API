@@ -1,8 +1,10 @@
 {
   "word": "Censer",
-  "pronunciation": "CENSER",
-  "definition": {
-    "type": "noun",
-    "text": "A vase or pan in which incense is burned. Among the Jews, a kind of chafing-dish, covered by a dome, and suspended by a chain, used to offer perfumes in sacrifices."
-  }
+  "pronunciation": "CENSER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A vase or pan in which incense is burned. Among the Jews, a kind of chafing-dish, covered by a dome, and suspended by a chain, used to offer perfumes in sacrifices."
+    }
+  ]
 }

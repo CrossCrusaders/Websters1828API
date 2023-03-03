@@ -1,8 +1,10 @@
 {
   "word": "Sodomite",
-  "pronunciation": "SOD'OMITE",
-  "definition": {
-    "type": "noun",
-    "text": "1. An inhabitant of Sodom.\n2. One guilty of sodomy."
-  }
+  "pronunciation": "SOD'OMITE,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. An inhabitant of Sodom.\n2. One guilty of sodomy."
+    }
+  ]
 }

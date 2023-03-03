@@ -1,8 +1,10 @@
 {
   "word": "Fourscore",
-  "pronunciation": "FOURSCORE [See Score.]",
-  "definition": {
-    "type": "adjective",
-    "text": "Four times twenty; eighty. It is used elliptically for fourscore years; as a man of fourscore"
-  }
+  "pronunciation": "FOURSCORE, [See Score.]",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "times twenty; eighty. It is used elliptically for fourscore years; as a man of fourscore"
+    }
+  ]
 }

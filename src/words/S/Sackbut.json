@@ -1,8 +1,10 @@
 {
   "word": "Sackbut",
-  "pronunciation": "SACK'BUT [The last syllable is the Latin buxus.]A",
-  "definition": {
-    "type": "noun",
-    "text": "wind instrument of music; a kind of trumpet, so contrived that it can be lengthened or shortened according to the tone required."
-  }
+  "pronunciation": "SACK'BUT, [The last syllable is the Latin buxus.]A",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A wind instrument of music; kind of trumpet, so contrived that it can be lengthened or shortened according to the tone required."
+    }
+  ]
 }

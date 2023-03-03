@@ -1,8 +1,10 @@
 {
   "word": "Budded",
-  "pronunciation": "BUD'DED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Put forth in buds; inoculated."
-  }
+  "pronunciation": "BUD'DED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Put forth in buds; inoculated."
+    }
+  ]
 }

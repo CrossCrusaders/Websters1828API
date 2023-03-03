@@ -1,8 +1,10 @@
 {
   "word": "Plowed",
-  "pronunciation": "PLOW'ED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Turned up with a plow; furrowed."
-  }
+  "pronunciation": "PLOW'ED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Turned up with a plow; furrowed."
+    }
+  ]
 }

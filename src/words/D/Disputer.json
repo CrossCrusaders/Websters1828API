@@ -1,8 +1,10 @@
 {
   "word": "Disputer",
-  "pronunciation": "DISPUTER",
-  "definition": {
-    "type": "noun",
-    "text": "One who disputes, or who is given to disputes; a controvertist.Where is the disputer of this world. 1 Corinthians 1:20."
-  }
+  "pronunciation": "DISPUTER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "One who disputes, or who given to disputes; a controvertist.Where the disputer of this world. 1 Corinthians 1:20."
+    }
+  ]
 }

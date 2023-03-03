@@ -1,8 +1,10 @@
 {
   "word": "Achor",
-  "pronunciation": "A'CHOR [Gr., sordes capitis.]\n",
-  "definition": {
-    "type": "noun",
-    "text": "1. The scald head, a disease forming scaly eruptions, supposed to be a critical evacuation of acrimonious humors; a species of herpes.\n\n2. In mythology, the God of flies, said to have been worshipped by the Cyreneans, to avoid being vexed by those insects."
-  }
+  "pronunciation": "A'CHOR, [Gr., sordes capitis.]\n",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. The scald head, a disease forming scaly eruptions, supposed to be a critical evacuation of acrimonious humors; a species of herpes.\n2. In mythology, the God of flies, said to have been worshipped by the Cyreneans, to avoid being vexed by those insects."
+    }
+  ]
 }

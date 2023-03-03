@@ -1,8 +1,10 @@
 {
   "word": "Coz",
   "pronunciation": "COZ.",
-  "definition": {
-    "type": "",
-    "text": ""
-  }
+  "definitions": [
+    {
+      "type": "",
+      "text": "A contraction of cousin."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Freewoman",
-  "pronunciation": "FREE'WOMAN",
-  "definition": {
-    "type": "noun",
-    "text": "A woman not a slave."
-  }
+  "pronunciation": "FREE'WOMAN,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A not slave."
+    }
+  ]
 }

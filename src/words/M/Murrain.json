@@ -1,8 +1,10 @@
 {
   "word": "Murrain",
-  "pronunciation": "MURRAIN",
-  "definition": {
-    "type": "noun",
-    "text": "mur'rin. [Latin morior, to die.]An infectious and fatal disease among cattle. Exodus 9:3."
-  }
+  "pronunciation": "MURRAIN,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "mur'rin. [Latin morior, to die.]An infectious and fatal disease among cattle. Exodus 9:3."
+    }
+  ]
 }

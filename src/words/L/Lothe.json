@@ -1,8 +1,10 @@
 {
   "word": "Lothe",
-  "pronunciation": "LOTHE",
-  "definition": {
-    "type": "verb transitive",
-    "text": "To hate; to look on with hatred or abhorrence; particularly, to feel disgust at food or drink, either from natural antipathy, or a sickly appetite, or from satiety, or from its ill taste. [See lothe ]"
-  }
+  "pronunciation": "LOTHE,",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "To hate; to look on with hatred or abhorrence; particularly, to feel disgust at food or drink, either from natural antipathy, or a sickly appetite, or from satiety, or from its ill taste. [See lothe ]"
+    }
+  ]
 }

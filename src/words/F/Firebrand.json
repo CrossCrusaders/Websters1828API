@@ -1,8 +1,10 @@
 {
   "word": "Firebrand",
-  "pronunciation": "FI'REBRAND",
-  "definition": {
-    "type": "noun",
-    "text": "1. A piece of wood kindled or on fire.\n2. An incendiary; one who inflames factions, or causes contention and mischief."
-  }
+  "pronunciation": "FI'REBRAND,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. A piece of wood kindled or on fire.\n2. An incendiary; one who inflames factions, or causes contention mischief."
+    }
+  ]
 }

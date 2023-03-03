@@ -1,8 +1,10 @@
 {
   "word": "Wist",
-  "pronunciation": "WIST",
-  "definition": {
-    "type": "preterit tense",
-    "text": "of wis."
-  }
+  "pronunciation": "WIST,",
+  "definitions": [
+    {
+      "type": "preterit tense",
+      "text": "of wis."
+    }
+  ]
 }

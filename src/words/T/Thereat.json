@@ -1,8 +1,10 @@
 {
   "word": "Thereat",
-  "pronunciation": "THEREAT' [there and at.]",
-  "definition": {
-    "type": "adverb",
-    "text": "At that place.Wide is the gate, and broad is the way, that leadeth to destruction, and many there are who go in thereat Matthew 7:1\n3.\n1. At that; at that thing or event; on that account.Every error is a stain to the beauty of nature; for which cause it blusheth thereat"
-  }
+  "pronunciation": "THEREAT', [there and at.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "At that place.Wide is the gate, and broad is the way, that leadeth to destruction, and many there are who go in thereat Matthew 7:13.\n1. At that; that thing or event; on that account.Every error is stain to the beauty of nature; for which cause it blusheth thereat"
+    }
+  ]
 }

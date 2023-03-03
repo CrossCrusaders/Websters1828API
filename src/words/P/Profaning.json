@@ -1,8 +1,10 @@
 {
   "word": "Profaning",
-  "pronunciation": "PROFA'NING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Violating; treating with irreverence; polluting."
-  }
+  "pronunciation": "PROFA'NING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Violating; treating with irreverence; polluting."
+    }
+  ]
 }

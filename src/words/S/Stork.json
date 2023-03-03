@@ -1,8 +1,10 @@
 {
   "word": "Stork",
-  "pronunciation": "STORK",
-  "definition": {
-    "type": "noun",
-    "text": "A large fowl of the genus Ardea or Heron kind."
-  }
+  "pronunciation": "STORK,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A large fowl of the genus Ardea Heron kind."
+    }
+  ]
 }

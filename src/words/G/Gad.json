@@ -1,8 +1,14 @@
 {
   "word": "Gad",
-  "pronunciation": "GAD",
-  "definition": {
-    "type": "noun",
-    "text": "1. A wedge or ingot of steel.\n2. A style or graver.\n3. A punch of iron with a wooden handle, used by miners.GAD, verb intransitive\n1. To walk about; to rove or ramble idly or without any fixed purpose.Give the water no passage, neither a wicked woman liberty to gad abroad.\n2. To ramble in growth; as the gadding vine."
-  }
+  "pronunciation": "GAD,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Gad\n1. A wedge or ingot of steel.\n2. A style or graver.\n3. A punch of iron with wooden handle, used by miners.GAD,"
+    },
+    {
+      "type": "verb intransitive",
+      "text": "1. To walk about; to rove or ramble idly or without any fixed purpose.Give the water no passage, neither wicked woman liberty to gad abroad.\n2. To ramble in growth; as the gadding vine."
+    }
+  ]
 }

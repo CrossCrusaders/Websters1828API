@@ -1,8 +1,10 @@
 {
   "word": "Shipmaster",
-  "pronunciation": "SHIP'M'ASTER [ship and master.]",
-  "definition": {
-    "type": "noun",
-    "text": "The captain, master or commander of a ship."
-  }
+  "pronunciation": "SHIP'M'ASTER, [ship and master.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The captain, or commander of ship."
+    }
+  ]
 }

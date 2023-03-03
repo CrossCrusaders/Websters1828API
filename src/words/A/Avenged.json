@@ -1,8 +1,10 @@
 {
   "word": "Avenged",
-  "pronunciation": "AVENG'ED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Satisfied by the punishment of the offender; vindicated; punished."
-  }
+  "pronunciation": "AVENG'ED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Satisfied by the punishment of the offender; vindicated; punished."
+    }
+  ]
 }

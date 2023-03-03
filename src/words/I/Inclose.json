@@ -1,8 +1,10 @@
 {
   "word": "Inclose",
-  "pronunciation": "INCLO'SE",
-  "definition": {
-    "type": "verb transitive",
-    "text": "s as z. [Latin inclusus, includo; in and claudo, or cludo.]\n1. To surround; to shut in; to confine on all sides; as, to inclose a field with a fence; to inclose a fort or an army with troops; to inclose a town with walls.\n2. To separate from common grounds by a fence; as, to inclose lands.\n3. To include; to shut or confine; as, to inclose trinkets in a box.\n4. To environ; to encompass.\n5. To cover with a wrapper or envelop; to cover under seal; as, to inclose a letter or a bank note."
-  }
+  "pronunciation": "INCLO'SE,",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "as z. [Latin inclusus, includo; in and claudo, or cludo.]\n1. To surround; to shut in; to confine on all sides; as, to inclose a field with a fence; to inclose a fort or an army with troops; to inclose a town with walls.\n2. To separate from common grounds by a fence; as, to inclose lands.\n3. To include; to shut or confine; as, to inclose trinkets in a box.\n4. To environ; to encompass.\n5. To cover with a wrapper or envelop; to cover under seal; as, to inclose a letter or a bank note."
+    }
+  ]
 }

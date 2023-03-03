@@ -1,8 +1,10 @@
 {
   "word": "Inditing",
-  "pronunciation": "INDI'TING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Committing to words in writing; dictating what shall be written."
-  }
+  "pronunciation": "INDI'TING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Committing to words writing; dictating what shall be written."
+    }
+  ]
 }

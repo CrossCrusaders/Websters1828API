@@ -1,8 +1,10 @@
 {
   "word": "Gat",
-  "pronunciation": "GAT",
-  "definition": {
-    "type": "preterit tense",
-    "text": "of get."
-  }
+  "pronunciation": "GAT,",
+  "definitions": [
+    {
+      "type": "preterit tense",
+      "text": "of get."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Carpus",
-  "pronunciation": "CARPUS",
-  "definition": {
-    "type": "noun",
-    "text": "The wrist, but not an English word."
-  }
+  "pronunciation": "CARPUS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The wrist, but not an English word."
+    }
+  ]
 }

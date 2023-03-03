@@ -1,8 +1,10 @@
 {
   "word": "Yoked",
-  "pronunciation": "YOKED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Confined in a yoke; joined; coupled."
-  }
+  "pronunciation": "YOKED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Confined in a yoke; joined; coupled."
+    }
+  ]
 }

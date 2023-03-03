@@ -1,8 +1,10 @@
 {
   "word": "Brier",
-  "pronunciation": "BRI'ER",
-  "definition": {
-    "type": "noun",
-    "text": "1. In a general sense, a prickly plant or shrub. Is.v.\n6. Judges 8:7.\n2. In a limited sense, the sweet-brier and the wild-brier, species of the rose."
-  }
+  "pronunciation": "BRI'ER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. In a general sense, a prickly plant or shrub. Is.v.\n6. Judges 8:7.\n2. In a limited sense, the sweet-brier and the wild-brier, species of the rose."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Appeased",
-  "pronunciation": "APPE'ASED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Quieted; calmed; stilled; pacified."
-  }
+  "pronunciation": "APPE'ASED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Quieted; calmed; stilled; pacified."
+    }
+  ]
 }

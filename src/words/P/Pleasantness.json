@@ -1,8 +1,10 @@
 {
   "word": "Pleasantness",
-  "pronunciation": "PLEASANTNESS",
-  "definition": {
-    "type": "noun",
-    "text": "plez'antness. State of being pleasant or agreeable; as the pleasantness of a situation.\n1. Cheerfulness; gayety; merriment; as the pleasantness of youth."
-  }
+  "pronunciation": "PLEASANTNESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "plez'antness. State of being pleasant or agreeable; the pleasantness of situation.\n1. Cheerfulness; gayety; merriment; the pleasantness of youth."
+    }
+  ]
 }

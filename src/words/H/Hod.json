@@ -1,8 +1,10 @@
 {
   "word": "Hod",
-  "pronunciation": "HOD",
-  "definition": {
-    "type": "noun",
-    "text": "A kind of tray for carrying mortar and brick, used in bricklaying. It is fitted with a handle and borne on the shoulder."
-  }
+  "pronunciation": "HOD,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A kind of tray for carrying mortar and brick, used in bricklaying. It is fitted with a handle and borne on the shoulder."
+    }
+  ]
 }

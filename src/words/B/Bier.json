@@ -1,8 +1,10 @@
 {
   "word": "Bier",
-  "pronunciation": "BIER [Latin feretrum, from fero. See Bear.]\nA",
-  "definition": {
-    "type": "noun",
-    "text": "carriage or frame of wood for conveying dead human bodies to the grave.\nFirst Occurrence in the Bible(KJV): 2 Samuel 3:3 1"
-  }
+  "pronunciation": "BIER, [Latin feretrum, from fero. See Bear.]\nA",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A carriage or frame of wood for conveying dead human bodies to the grave.\nFirst Occurrence in the Bible(KJV): 2 Samuel 3:31"
+    }
+  ]
 }

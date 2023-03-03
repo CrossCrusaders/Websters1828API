@@ -1,8 +1,10 @@
 {
   "word": "Infolding",
-  "pronunciation": "INFOLDING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Involving; wrapping up; clasping."
-  }
+  "pronunciation": "INFOLDING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Involving; wrapping up; clasping."
+    }
+  ]
 }

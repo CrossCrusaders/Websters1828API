@@ -1,8 +1,10 @@
 {
   "word": "Ministration",
-  "pronunciation": "MINISTRA'TION [Latin ministratio.]",
-  "definition": {
-    "type": "noun",
-    "text": "The act of performing service as a subordinate agent; agency; intervention for aid or service.\n-- Because their widows were neglected in the daily ministrations. Acts 6:1.\n\n1. Office of a minister; service; ecclesiastical function.\nAs soon as the days of his ministration were ended. Luke 1:2\n3."
-  }
+  "pronunciation": "MINISTRA'TION, [Latin ministratio.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The act of performing service as subordinate agent; agency; intervention for aid or service.\n-- Because their widows were neglected the daily ministrations. Acts 6:1.\n1. Office of minister; service; ecclesiastical function.\nAs soon as the days of his ministration were ended. Luke 1:23."
+    }
+  ]
 }

@@ -1,8 +1,14 @@
 {
   "word": "Purging",
-  "pronunciation": "PURG'ING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Cleansing; purifying; carrying off impurities or superfluous matter.PURG'ING, noun A diarrhea or dysentery; preternatural evacuation by stool; looseness of bowels."
-  }
+  "pronunciation": "PURG'ING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Purging\n Cleansing; purifying; carrying off impurities or superfluous matter.PURG'ING,"
+    },
+    {
+      "type": "noun",
+      "text": "A diarrhea or dysentery; preternatural evacuation by stool; looseness of bowels."
+    }
+  ]
 }

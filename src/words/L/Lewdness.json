@@ -1,8 +1,10 @@
 {
   "word": "Lewdness",
-  "pronunciation": "LEWD'NESS",
-  "definition": {
-    "type": "noun",
-    "text": "1. The unlawful indulgence of lust; fornication, or adultery.\n2. In Scripture, it generally denotes idolatry.\n3. Licentiousness; shamelessness."
-  }
+  "pronunciation": "LEWD'NESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. The unlawful indulgence of lust; fornication, or adultery.\n2. In Scripture, it generally denotes idolatry.\n3. Licentiousness; shamelessness."
+    }
+  ]
 }

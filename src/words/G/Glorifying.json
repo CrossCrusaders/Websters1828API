@@ -1,8 +1,10 @@
 {
   "word": "Glorifying",
-  "pronunciation": "GLO'RIFYING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Praising; honoring in worship; exalting to glory; honoring; extolling."
-  }
+  "pronunciation": "GLO'RIFYING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Praising; honoring worship; exalting to glory; honoring; extolling."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Sivan",
-  "pronunciation": "SIV'AN",
-  "definition": {
-    "type": "noun",
-    "text": "The third month of the Jewish ecclesiastical year, answering to part of our May and part of June."
-  }
+  "pronunciation": "SIV'AN,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The third month of the Jewish ecclesiastical year, answering to part of our May and part of June."
+    }
+  ]
 }

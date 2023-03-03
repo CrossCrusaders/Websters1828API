@@ -1,8 +1,10 @@
 {
   "word": "Embroiderer",
-  "pronunciation": "EMBROID'ERER",
-  "definition": {
-    "type": "noun",
-    "text": "One who embroiders."
-  }
+  "pronunciation": "EMBROID'ERER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "One who embroiders."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Woof",
-  "pronunciation": "WOOF",
-  "definition": {
-    "type": "noun",
-    "text": "[Gr.]\n1. The threads that cross the warp in weaving; the weft.\n2. Texture; cloth; as a pall of softest woof"
-  }
+  "pronunciation": "WOOF,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. The threads that cross the warp in weaving; the weft.\n2. Texture; cloth; as a pall softest woof"
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Israelite",
-  "pronunciation": "IS'RAELITE",
-  "definition": {
-    "type": "noun",
-    "text": "A descendant of Israel or Jacob; a Jew."
-  }
+  "pronunciation": "IS'RAELITE,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A descendant of or Jacob; Jew."
+    }
+  ]
 }

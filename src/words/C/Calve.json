@@ -1,8 +1,10 @@
 {
   "word": "Calve",
-  "pronunciation": "CALVE",
-  "definition": {
-    "type": "verb",
-    "text": "intransitive\n1. To bring forth young, as a cow.\n2. In a metaphorical sense, and sometimes by way of reproach, as when applied to the human race, to bring forth; to produce."
-  }
+  "pronunciation": "CALVE,",
+  "definitions": [
+    {
+      "type": "verb intransitive",
+      "text": "1. To bring forth young, as cow.\n2. In metaphorical sense, and sometimes by way of reproach, as when applied to the human race, to bring forth; to produce."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Slanderously",
-  "pronunciation": "SL'ANDEROUSLY",
-  "definition": {
-    "type": "adverb",
-    "text": "With slander; calumniously; with false and malicious reproach."
-  }
+  "pronunciation": "SL'ANDEROUSLY,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "With slander; calumniously; with false malicious reproach."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Baken",
-  "pronunciation": "BA'KEN",
-  "definition": {
-    "type": "participle passive",
-    "text": "The same as baked, and nearly obsolete."
-  }
+  "pronunciation": "BA'KEN,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "The same as baked, and nearly obsolete."
+    }
+  ]
 }

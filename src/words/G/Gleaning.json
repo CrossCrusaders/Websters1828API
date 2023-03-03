@@ -1,8 +1,14 @@
 {
   "word": "Gleaning",
-  "pronunciation": "GLE'ANING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Gathering what reapers leave; collecting in small detached parcels.GLE'ANING, noun The act of gathering after reapers.\n1. That which is collected by gleaning"
-  }
+  "pronunciation": "GLE'ANING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Gleaning\n Gathering what reapers leave; collecting small detached parcels.GLE'ANING,"
+    },
+    {
+      "type": "noun",
+      "text": "The act of gathering after reapers.\n1. That which is collected by gleaning"
+    }
+  ]
 }

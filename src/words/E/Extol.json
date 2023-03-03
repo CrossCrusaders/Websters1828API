@@ -1,8 +1,10 @@
 {
   "word": "Extol",
-  "pronunciation": "EXTOL' [Latin extollo; ex and tollo, to raise.]To",
-  "definition": {
-    "type": "verb transitive",
-    "text": "raise in words or eulogy; to praise; to exalt in commendation; to magnify. We extol virtues, noble exploits, and heroism. Men are too much disposed to extol the rich and despise the poor.EXTOL him that rideth upon the heavens by his name Jah. Psalms 6 8:4."
-  }
+  "pronunciation": "EXTOL', [Latin extollo; ex and tollo, to raise.]To",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "To raise in words or eulogy; praise; exalt in commendation; magnify. We extol virtues, noble exploits, and heroism. Men are too much disposed extol the rich and despise the poor.EXTOL him that rideth upon the heavens by his name Jah. Psalms 68:4."
+    }
+  ]
 }

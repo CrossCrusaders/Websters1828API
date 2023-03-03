@@ -1,8 +1,10 @@
 {
   "word": "Hatefully",
-  "pronunciation": "HA'TEFULLY",
-  "definition": {
-    "type": "adverb",
-    "text": "Odiously; with great dislike.\n1. Malignantly; maliciously. Ezekiel 2 3:2\n9."
-  }
+  "pronunciation": "HA'TEFULLY,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Odiously; with great dislike.\n1. Malignantly; maliciously. Ezekiel 23:29."
+    }
+  ]
 }

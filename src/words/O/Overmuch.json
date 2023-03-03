@@ -1,8 +1,18 @@
 {
   "word": "Overmuch",
-  "pronunciation": "OVERMUCH'",
-  "definition": {
-    "type": "adjective",
-    "text": "Too much; exceeding what is necessary or proper.OVERMUCH', adverb In too great a degree.OVERMUCH', noun More than sufficient."
-  }
+  "pronunciation": "OVERMUCH',",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Overmuch\n Too much; exceeding what is necessary or proper.OVERMUCH',"
+    },
+    {
+      "type": "adverb",
+      "text": "In too great a degree.OVERMUCH',"
+    },
+    {
+      "type": "noun",
+      "text": "More than sufficient."
+    }
+  ]
 }

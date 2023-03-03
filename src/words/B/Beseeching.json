@@ -1,8 +1,10 @@
 {
   "word": "Beseeching",
-  "pronunciation": "BESEE'CHING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Entreating."
-  }
+  "pronunciation": "BESEE'CHING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Entreating."
+    }
+  ]
 }

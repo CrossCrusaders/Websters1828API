@@ -1,8 +1,14 @@
 {
   "word": "Repenting",
-  "pronunciation": "REPENT'ING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Grieving for what is past; feeling pain or contrition for sin.\nREPENT'ING, noun Act of repenting Hosea 11:8."
-  }
+  "pronunciation": "REPENT'ING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Repenting\n Grieving for what is past; feeling pain or contrition for sin.\nREPENT'ING,"
+    },
+    {
+      "type": "noun",
+      "text": "Act of repenting Hosea 11:8."
+    }
+  ]
 }

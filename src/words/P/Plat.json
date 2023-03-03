@@ -1,8 +1,22 @@
 {
   "word": "Plat",
-  "pronunciation": "PLAT [from plait, or plat flat.]\nTo",
-  "definition": {
-    "type": "verb transitive",
-    "text": "weave; to form by texture. Matthew 2 7:2 9.\nPLAT, noun [Latin latus; or from the root of place.] A small piece of ground, usually a portion of flat even ground; as a flowery plat; a plat of willows.\nPLAT, adjective Plain; flat. [Not used.]\nPLAT, adverb Plainly; flatly; downright. [Not used.]\n\n1. Smoothly; evenly. [Not used.]"
-  }
+  "pronunciation": "PLAT, [from plait, or plat flat.]\nTo [Latin latus; or from the root of place.]",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "Plat\n [from plait, or plat flat.]\nTo weave; to form by texture. Matthew 27:29.\nPLAT,"
+    },
+    {
+      "type": "noun",
+      "text": "A small piece of ground, usually portion of flat even ground; as flowery plat; plat of willows.\nPLAT,"
+    },
+    {
+      "type": "adjective",
+      "text": "Plain; flat. [Not used.]\nPLAT,"
+    },
+    {
+      "type": "adverb",
+      "text": "Plainly; flatly; downright. [Not used.]\n1. Smoothly; evenly. [Not used.]"
+    }
+  ]
 }

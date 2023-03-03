@@ -1,8 +1,10 @@
 {
   "word": "Troubler",
-  "pronunciation": "TROUBLER",
-  "definition": {
-    "type": "noun",
-    "text": "trub'ler. One who disturbs; one who afflicts or molests; a disturber; as a troubler of the peace.The rich troublers of the world's repose."
-  }
+  "pronunciation": "TROUBLER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "trub'ler. One who disturbs; one who afflicts or molests; a disturber; as a troubler of the peace.The rich troublers of the world's repose."
+    }
+  ]
 }

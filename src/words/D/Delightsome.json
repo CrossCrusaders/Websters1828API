@@ -1,8 +1,10 @@
 {
   "word": "Delightsome",
-  "pronunciation": "DELIGHTSOME",
-  "definition": {
-    "type": "adjective",
-    "text": "Very pleasing; delightful."
-  }
+  "pronunciation": "DELIGHTSOME,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Very pleasing; delightful."
+    }
+  ]
 }

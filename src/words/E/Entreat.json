@@ -1,8 +1,10 @@
 {
   "word": "Entreat",
-  "pronunciation": "ENTRE'AT",
-  "definition": {
-    "type": "verb",
-    "text": "intransitive To make an earnest petition or request.The Janizaries entreated for them, as valiant men.\n1. To offer a treaty. [Not used.]\n2. To treat; to discourse. [Not used.]"
-  }
+  "pronunciation": "ENTRE'AT,",
+  "definitions": [
+    {
+      "type": "verb intransitive",
+      "text": "To make an earnest petition or request.The Janizaries entreated for them, as valiant men.\n1. To offer treaty. [Not used.]\n2. To treat; to discourse. [Not used.]"
+    }
+  ]
 }

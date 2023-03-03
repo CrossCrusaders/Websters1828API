@@ -1,8 +1,10 @@
 {
   "word": "Durst",
-  "pronunciation": "DURST",
-  "definition": {
-    "type": "preterit tense",
-    "text": "Of dare."
-  }
+  "pronunciation": "DURST,",
+  "definitions": [
+    {
+      "type": "preterit tense",
+      "text": "Of dare."
+    }
+  ]
 }

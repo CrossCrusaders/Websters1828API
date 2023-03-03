@@ -1,8 +1,10 @@
 {
   "word": "Threescore",
-  "pronunciation": "THREE'SCORE [three and score.]",
-  "definition": {
-    "type": "adjective",
-    "text": "Thrice twenty; sixty; as threescore years."
-  }
+  "pronunciation": "THREE'SCORE, [three and score.]",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Thrice twenty; sixty; as threescore years."
+    }
+  ]
 }

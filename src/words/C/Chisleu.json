@@ -1,8 +1,10 @@
 {
   "word": "Chisleu",
-  "pronunciation": "CHISLEU",
-  "definition": {
-    "type": "noun",
-    "text": "The ninth month of the Jewish year, answering to a part of November and a part of December, in the modern division of the year."
-  }
+  "pronunciation": "CHISLEU,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The ninth month of the Jewish year, answering to a part of November and a part of December, in the modern division of the year."
+    }
+  ]
 }

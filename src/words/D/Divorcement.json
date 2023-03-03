@@ -1,8 +1,10 @@
 {
   "word": "Divorcement",
-  "pronunciation": "DIVORCEMENT",
-  "definition": {
-    "type": "noun",
-    "text": "Divorce; dissolution of the marriage tie.Let him write her a bill of divorcement Deuteronomy 2 4:1."
-  }
+  "pronunciation": "DIVORCEMENT,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Divorce; dissolution of the marriage tie.Let him write her a bill of divorcement Deuteronomy 24:1."
+    }
+  ]
 }

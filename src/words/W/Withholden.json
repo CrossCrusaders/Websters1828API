@@ -1,8 +1,14 @@
 {
   "word": "Withholden",
-  "pronunciation": "WITHHOLDEN",
-  "definition": {
-    "type": "participle passive",
-    "text": "The old participle of withhold; now obsolete. We use withheld."
-  }
+  "pronunciation": "WITHHOLDEN,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Withholden\n The"
+    },
+    {
+      "type": "participle",
+      "text": "of withhold; now obsolete. We use withheld."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Recompensing",
-  "pronunciation": "REC'OMPENSING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Rewarding; compensating; requiting."
-  }
+  "pronunciation": "REC'OMPENSING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Rewarding; compensating; requiting."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Undefiled",
-  "pronunciation": "UNDEFI'LED",
-  "definition": {
-    "type": "adjective",
-    "text": "Not defiled; not polluted; not vitiated."
-  }
+  "pronunciation": "UNDEFI'LED,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Not defiled; not polluted; not vitiated."
+    }
+  ]
 }

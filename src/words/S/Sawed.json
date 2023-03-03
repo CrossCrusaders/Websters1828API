@@ -1,8 +1,10 @@
 {
   "word": "Sawed",
-  "pronunciation": "SAW'ED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Cut, divided or formed with a saw."
-  }
+  "pronunciation": "SAW'ED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Cut, divided or formed with saw."
+    }
+  ]
 }

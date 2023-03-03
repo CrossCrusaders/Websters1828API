@@ -1,8 +1,10 @@
 {
   "word": "Tola",
-  "pronunciation": "TO'LA",
-  "definition": {
-    "type": "noun",
-    "text": "In India, a weight for gold and silver, but different in different places."
-  }
+  "pronunciation": "TO'LA,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "In India, weight for gold and silver, but different in different places."
+    }
+  ]
 }

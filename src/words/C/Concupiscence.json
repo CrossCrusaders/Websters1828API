@@ -1,8 +1,10 @@
 {
   "word": "Concupiscence",
-  "pronunciation": "CONCUPISCENCE [Latin , to covet or lust after, to desire or covet.]",
-  "definition": {
-    "type": "noun",
-    "text": "Lust; unlawful or irregular desire of sexual pleasure. In a more general sense, the coveting of carnal things, or an irregular appetite for worldly good; inclination for unlawful enjoyments.We know even secret concupiscence to be sin.Sin, taking occasion by the commandment, wrought in me all manner of concupiscence Romans 7:8."
-  }
+  "pronunciation": "CONCUPISCENCE, [Latin , to covet or lust after, to desire or covet.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Lust; unlawful or irregular desire of sexual pleasure. In a more general sense, the coveting of carnal things, or an irregular appetite for worldly good; inclination for unlawful enjoyments.We know even secret concupiscence to be sin.Sin, taking occasion by the commandment, wrought in me all manner of concupiscence Romans 7:8."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Arrayed",
-  "pronunciation": "ARRA'YED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Set in order, or in lines; arranged in order for attack or defense; dressed; adorned by dress; impaneled, as a jury; enveloped."
-  }
+  "pronunciation": "ARRA'YED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Set in order, or in lines; arranged in order for attack or defense; dressed; adorned by dress; impaneled, as jury; enveloped."
+    }
+  ]
 }

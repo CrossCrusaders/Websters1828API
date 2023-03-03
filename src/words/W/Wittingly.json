@@ -1,8 +1,10 @@
 {
   "word": "Wittingly",
-  "pronunciation": "WITTINGLY [See Wit.]",
-  "definition": {
-    "type": "adverb",
-    "text": "Knowingly; with knowledge; by design.He knowingly and wittingly brought evil into the world."
-  }
+  "pronunciation": "WITTINGLY, [See Wit.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Knowingly; with knowledge; by design.He knowingly and wittingly brought evil into the world."
+    }
+  ]
 }

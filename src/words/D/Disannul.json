@@ -1,8 +1,10 @@
 {
   "word": "Disannul",
-  "pronunciation": "DISANNUL [dis and annul. In this instance, the prefix dis is improperly used, and of no effect. But its use is well established.]",
-  "definition": {
-    "type": "verb transitive",
-    "text": "To annul; to make void; to deprive of authority or force; to nullify; to abolish; as, to disannul a law or an ordinance.Wilt thou also disannul my judgment? Job 40:8. Galatians 3:1\n5."
-  }
+  "pronunciation": "DISANNUL, [dis and annul. In this instance, the prefix dis is improperly used, and of no effect. But its use is well established.]",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "To annul; to make void; to deprive of authority or force; to nullify; to abolish; as, to disannul law or ordinance.Wilt thou also disannul my judgment? Job 40:8. Galatians 3:15."
+    }
+  ]
 }

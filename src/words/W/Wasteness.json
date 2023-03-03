@@ -1,8 +1,10 @@
 {
   "word": "Wasteness",
-  "pronunciation": "WASTENESS",
-  "definition": {
-    "type": "noun",
-    "text": "A desolate state; solitude.That day is a day of wrath, a day of trouble and distress, a day of wasteness Zephaniah 1:1\n5."
-  }
+  "pronunciation": "WASTENESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A desolate state; solitude.That day is day of wrath, day of trouble and distress, day of wasteness Zephaniah 1:15."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Edify",
-  "pronunciation": "ED'IFY [Latin oedifico; oedes, a house, and facio, to make.]",
-  "definition": {
-    "type": "verb transitive",
-    "text": "1. To build, in a literal sense. [Not now used.]\n2. To instruct and improve the mind in knowledge generally, and particularly in moral and religious knowledge, in faith and holiness.Edify one another. 1 Thessalonians 5:11.\n3. To teach or persuade. [Not used.]"
-  }
+  "pronunciation": "ED'IFY, [Latin oedifico; oedes, a house, and facio, to make.]",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "1. To build, in a literal sense. [Not now used.\n2. To instruct and improve the mind in knowledge generally, and particularly in moral and religious knowledge, in faith and holiness.Edify one another. 1 Thessalonians 5:11.\n3. To teach or persuade. [Not used.]]"
+    }
+  ]
 }

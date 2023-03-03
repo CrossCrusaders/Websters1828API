@@ -1,8 +1,10 @@
 {
   "word": "Bondservant",
-  "pronunciation": "BOND'SERVANT [bond and servant.]",
-  "definition": {
-    "type": "noun",
-    "text": "A slave; one who is subjected to the authority of another, or whose person and liberty are restrained."
-  }
+  "pronunciation": "BOND'SERVANT, [bond and servant.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A slave; one who is subjected to the authority of another, or whose person and liberty are restrained."
+    }
+  ]
 }

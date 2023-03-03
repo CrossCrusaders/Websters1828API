@@ -1,8 +1,10 @@
 {
   "word": "Guiltiness",
-  "pronunciation": "GUILT'INESS",
-  "definition": {
-    "type": "noun",
-    "text": "The state of being guilty; wickedness; criminality; guilt."
-  }
+  "pronunciation": "GUILT'INESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The state of being guilty; wickedness; criminality; guilt."
+    }
+  ]
 }

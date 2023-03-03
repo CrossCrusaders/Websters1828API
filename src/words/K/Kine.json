@@ -1,8 +1,10 @@
 {
   "word": "Kine",
-  "pronunciation": "KINE",
-  "definition": {
-    "type": "",
-    "text": ""
-  }
+  "pronunciation": "KINE,",
+  "definitions": [
+    {
+      "type": "",
+      "text": "plural of cow. But cows, the regular plural, is now general use."
+    }
+  ]
 }

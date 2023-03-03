@@ -1,8 +1,10 @@
 {
   "word": "Whited",
-  "pronunciation": "WHITED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Made white; whitened."
-  }
+  "pronunciation": "WHITED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Made white; whitened."
+    }
+  ]
 }

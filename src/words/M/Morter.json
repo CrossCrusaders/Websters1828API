@@ -1,8 +1,10 @@
 {
   "word": "Morter",
-  "pronunciation": "MOR'TER",
-  "definition": {
-    "type": "noun",
-    "text": "A lamp or light."
-  }
+  "pronunciation": "MOR'TER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A lamp light."
+    }
+  ]
 }

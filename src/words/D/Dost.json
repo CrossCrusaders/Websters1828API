@@ -1,8 +1,10 @@
 {
   "word": "Dost",
-  "pronunciation": "DOST",
-  "definition": {
-    "type": "",
-    "text": ""
-  }
+  "pronunciation": "DOST,",
+  "definitions": [
+    {
+      "type": "",
+      "text": "the second person of do, used int he solemn style; thou dost"
+    }
+  ]
 }

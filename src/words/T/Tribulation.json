@@ -1,8 +1,10 @@
 {
   "word": "Tribulation",
-  "pronunciation": "TRIBULA'TION [Latin tribulo, to thrash, to beat.]",
-  "definition": {
-    "type": "noun",
-    "text": "Severe affliction; distresses of life; vexations. In Scripture, it often denotes the troubles and distresses which proceed from persecution.When tribulation or persecution ariseth because of the word, he is offended. Matthew 1 3:2 1.In the world ye shall have tribulation John 1 6:33."
-  }
+  "pronunciation": "TRIBULA'TION, [Latin tribulo, to thrash, to beat.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Severe affliction; distresses of life; vexations. In Scripture, it often denotes the troubles and distresses which proceed from persecution.When tribulation or persecution ariseth because of the word, he is offended. Matthew 13:21.In the world ye shall have tribulation John 16:33."
+    }
+  ]
 }

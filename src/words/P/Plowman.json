@@ -1,8 +1,14 @@
 {
   "word": "Plowman",
-  "pronunciation": "PLOW'MAN",
-  "definition": {
-    "type": "noun",
-    "text": "One that plows or holds a plow.At last the robber binds the plowman and carries him off with the oxen.\n1. A cultivator of grain; a husbandman.\n2. A rustic; a countryman; a hardy laborer.PLOW'-MONDAY, noun The Monday after twelfth-day."
-  }
+  "pronunciation": "PLOW'MAN,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Plowman\n One that plows or holds plow.At last the robber binds the plowman and carries him off with the oxen.\n1. A cultivator of grain; husbandman.\n2. A rustic; countryman; hardy laborer.PLOW'-MONDAY,"
+    },
+    {
+      "type": "noun",
+      "text": "The Monday after twelfth-day."
+    }
+  ]
 }

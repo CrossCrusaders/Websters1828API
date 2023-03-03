@@ -1,8 +1,10 @@
 {
   "word": "Fleshly",
-  "pronunciation": "FLESH'LY",
-  "definition": {
-    "type": "adjective",
-    "text": "1. Pertaining to the flesh; corporeal.\n2. Carnal; worldly; lascivious.Abstain from fleshly lusts. 1 Peter 2:11.\n3. Animal; not vegetable.\n4. Human; not celestial; not spiritual or divine.Vain of fleshly arm.Fleshly wisdom. 2 Corinthians 1:1\n2."
-  }
+  "pronunciation": "FLESH'LY,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "1. Pertaining to the flesh; corporeal.\n2. Carnal; worldly; lascivious.Abstain from fleshly lusts. 1 Peter 2:11.\n3. Animal; not vegetable.\n4. Human; not celestial; not spiritual or divine.Vain of fleshly arm.Fleshly wisdom. 2 Corinthians 1:12."
+    }
+  ]
 }

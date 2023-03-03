@@ -1,8 +1,10 @@
 {
   "word": "Sheal",
-  "pronunciation": "SHEAL",
-  "definition": {
-    "type": "",
-    "text": ""
-  }
+  "pronunciation": "SHEAL,",
+  "definitions": [
+    {
+      "type": "",
+      "text": "to shell, not used."
+    }
+  ]
 }

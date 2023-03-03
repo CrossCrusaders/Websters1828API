@@ -1,8 +1,10 @@
 {
   "word": "Ospray",
-  "pronunciation": "OS'PRAY [Latin ossifraga; as, a bone, and frango, to break; the bone-breaker.]The",
-  "definition": {
-    "type": "noun",
-    "text": "sea-eagle, a fowl of the genus Falco or hawk, of the size of a peacock. This is our fish hawk. It feeds on fish which it takes by suddenly darting upon them, when near the surface of the water."
-  }
+  "pronunciation": "OS'PRAY, [Latin ossifraga; as, a bone, and frango, to break; the bone-breaker.]The",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The sea-eagle, fowl of the genus Falco or hawk, of the size of peacock. This is our fish hawk. It feeds on fish which it takes by suddenly darting upon them, when near the surface of the water."
+    }
+  ]
 }

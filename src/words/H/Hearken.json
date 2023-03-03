@@ -1,8 +1,14 @@
 {
   "word": "Hearken",
-  "pronunciation": "HE'ARKEN",
-  "definition": {
-    "type": "verb",
-    "text": "intransitive h'arken.\n1. To listen; to lend the ear; to attend to what is uttered, with eagerness or curiosity.The furies hearken and their snakes uncurl.\n2. To attend; to regard; to give heed to what is uttered; to observe or obey.Hearken, O Israel, to the statutes and the judgments which I teach you. Deuteronomy 4:1.\n3. To listen; ; to attend; to grant or comply with.Hearken thou to the supplication of thy servant.l Kings 8.HE'ARKEN, verb transitive h'arken. To hear by listening. [Little Used.]"
-  }
+  "pronunciation": "HE'ARKEN,",
+  "definitions": [
+    {
+      "type": "verb intransitive",
+      "text": "Hearken\n h'arken.\n1. To listen; to lend the ear; to attend to what is uttered, with eagerness or curiosity.The furies hearken and their snakes uncurl.\n2. To attend; to regard; to give heed to what is uttered; to observe or obey.Hearken, O Israel, to the statutes and the judgments which I teach you. Deuteronomy 4:1.\n3. To listen; ; to attend; to grant or comply with.Hearken thou to the supplication of thy servant.l Kings 8.HE'ARKEN,"
+    },
+    {
+      "type": "verb transitive",
+      "text": "h'arken. To hear by listening. [Little Used.]"
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Perdition",
-  "pronunciation": "PERDI'TION [Latin perditio, from perdo, to lose, to ruin.]",
-  "definition": {
-    "type": "noun",
-    "text": "1. Entire loss or ruin; utter destruction; as the perdition of the Turkish fleet.[In this sense, the word is now nearly or wholly obsolete.]\n2. The utter loss of the soul or of final happiness in a future state; future misery or eternal death. The impenitent sinner is condemned to final perdition If we reject the truth, we seal our own perdition\n3. Loss. [Not used.]"
-  }
+  "pronunciation": "PERDI'TION, [Latin perditio, from perdo, to lose, to ruin.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. Entire loss or ruin; utter destruction; as the perdition of the Turkish fleet.[In this sense, the word is now nearly or wholly obsolete.\n2. The utter loss of the soul or of final happiness in a future state; future misery or eternal death. The impenitent sinner is condemned to final perdition If we reject the truth, we seal our own perdition\n3. Loss. [Not used.]]"
+    }
+  ]
 }

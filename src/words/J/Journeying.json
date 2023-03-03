@@ -1,8 +1,14 @@
 {
   "word": "Journeying",
-  "pronunciation": "JOUR'NEYING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Traveling; passing from place to place.JOUR'NEYING, noun A traveling or passing from one place to another; as the journeyings of the children of Israel."
-  }
+  "pronunciation": "JOUR'NEYING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Journeying\n Traveling; passing from place to place.JOUR'NEYING,"
+    },
+    {
+      "type": "noun",
+      "text": "A traveling or passing from one place to another; as the journeyings of the children of Israel."
+    }
+  ]
 }

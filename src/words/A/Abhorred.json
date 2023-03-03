@@ -1,8 +1,10 @@
 {
   "word": "Abhorred",
-  "pronunciation": "ABHOR'RED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Hated extremely, detested."
-  }
+  "pronunciation": "ABHOR'RED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Hated extremely, detested."
+    }
+  ]
 }

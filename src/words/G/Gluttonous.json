@@ -1,8 +1,10 @@
 {
   "word": "Gluttonous",
-  "pronunciation": "GLUT'TONOUS",
-  "definition": {
-    "type": "adjective",
-    "text": "Given to excessive eating; indulging the appetite for food to excess; as a gluttonous age.\n1. Consisting in excessive eating; as gluttonous delight."
-  }
+  "pronunciation": "GLUT'TONOUS,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Given excessive eating; indulging the appetite for food excess; as a gluttonous age.\n1. Consisting in excessive eating; as gluttonous delight."
+    }
+  ]
 }

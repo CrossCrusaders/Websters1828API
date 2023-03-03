@@ -1,8 +1,10 @@
 {
   "word": "Gazer",
-  "pronunciation": "GA'ZER",
-  "definition": {
-    "type": "noun",
-    "text": "One who gazes; one who looks steadily and intently, from delight, admiration or study."
-  }
+  "pronunciation": "GA'ZER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "One who gazes; one who looks steadily and intently, from delight, admiration or study."
+    }
+  ]
 }

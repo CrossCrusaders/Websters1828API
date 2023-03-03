@@ -1,8 +1,10 @@
 {
   "word": "Whereon",
-  "pronunciation": "WHEREON [where and on.]",
-  "definition": {
-    "type": "adverb",
-    "text": "1. On which; as the ground whereon we tread.\n2. On what. whereon do we stand?"
-  }
+  "pronunciation": "WHEREON, [where and on.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "1. On which; as the ground whereon we tread.\n2. On what. whereon do we stand?"
+    }
+  ]
 }

@@ -1,8 +1,18 @@
 {
   "word": "Forbearing",
-  "pronunciation": "FORBEARING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "1. Ceasing; pausing; withholding from action; exercising patience and indulgence.\n2. adjective Patient; long suffering.FORBEARING, noun A ceasing or restraining from action; patience; long suffering."
-  }
+  "pronunciation": "FORBEARING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Forbearing\n1. Ceasing; pausing; withholding from action; exercising patience and indulgence.\n2."
+    },
+    {
+      "type": "adjective",
+      "text": "Patient; long suffering.FORBEARING,"
+    },
+    {
+      "type": "noun",
+      "text": "A ceasing restraining from action; patience; long suffering."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Greediness",
-  "pronunciation": "GREE'DINESS",
-  "definition": {
-    "type": "noun",
-    "text": "Keenness of appetite for food or drink; ravenousness; voracity.Fox in stealth, wolf in greediness\n1. Ardent desire."
-  }
+  "pronunciation": "GREE'DINESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Keenness of appetite for food or drink; ravenousness; voracity.Fox stealth, wolf greediness\n1. Ardent desire."
+    }
+  ]
 }

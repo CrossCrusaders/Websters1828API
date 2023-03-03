@@ -1,8 +1,10 @@
 {
   "word": "Abhor",
-  "pronunciation": "ABHOR' [L abhorreo, of ab and horreo, to set up bristles, shiver or shake; to look terrible.]\n",
-  "definition": {
-    "type": "verb transitive",
-    "text": "1. To hate extremely, or with contempt; to lothe, detest or abominate.\n\n2. To despise or neglect. Psalms 22:2\n4. Amos 6:8.\n\n3. To cast off or reject. Psalm 8 9:3\n8."
-  }
+  "pronunciation": "ABHOR', [L abhorreo, of ab and horreo, to set up bristles, shiver or shake; to look terrible.]\n",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "1. To hate extremely, with contempt; to lothe, detest abominate.\n2. To despise neglect. Psalms 22:24. Amos 6:8.\n3. To cast off reject. Psalm 89:38."
+    }
+  ]
 }

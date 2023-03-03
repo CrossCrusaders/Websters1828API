@@ -1,8 +1,10 @@
 {
   "word": "Abasing",
-  "pronunciation": "ABA'SING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Humbling, depressing, bringing low."
-  }
+  "pronunciation": "ABA'SING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Humbling, depressing, bringing low."
+    }
+  ]
 }

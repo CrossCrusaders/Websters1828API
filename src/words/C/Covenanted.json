@@ -1,8 +1,10 @@
 {
   "word": "Covenanted",
-  "pronunciation": "COVENANTED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Pledged or promised by covenant."
-  }
+  "pronunciation": "COVENANTED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Pledged or promised by covenant."
+    }
+  ]
 }

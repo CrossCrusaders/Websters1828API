@@ -1,8 +1,10 @@
 {
   "word": "Contrariwise",
-  "pronunciation": "CONTRARIWISE [contrary and wise, manner.]",
-  "definition": {
-    "type": "adverb",
-    "text": "On the contrary; oppositely; on the other hand.Not rendering evil for evil, nor railing for railing; but contrariwise blessing. 1 Peter 3:9."
-  }
+  "pronunciation": "CONTRARIWISE, [contrary and wise, manner.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "On the contrary; oppositely; the other hand.Not rendering evil for evil, nor railing for railing; but contrariwise blessing. 1 Peter 3:9."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Delicateness",
-  "pronunciation": "DELICATENESS",
-  "definition": {
-    "type": "noun",
-    "text": "The state of being delicate; tenderness; softness; effeminacy. Deuteronomy 2 8:5\n6."
-  }
+  "pronunciation": "DELICATENESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The state of being delicate; tenderness; softness; effeminacy. Deuteronomy 28:56."
+    }
+  ]
 }

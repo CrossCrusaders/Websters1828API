@@ -1,8 +1,10 @@
 {
   "word": "Minish",
-  "pronunciation": "MIN'ISH [Latin minuo, to lessen.]To",
-  "definition": {
-    "type": "verb transitive",
-    "text": "lessen; to diminish. [See Diminish.]"
-  }
+  "pronunciation": "MIN'ISH, [Latin minuo, to lessen.]To",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "To lessen; to diminish. [See Diminish.]"
+    }
+  ]
 }

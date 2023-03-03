@@ -1,8 +1,10 @@
 {
   "word": "Graved",
-  "pronunciation": "GRA'VED [See the Verb.]",
-  "definition": {
-    "type": "participle passive",
-    "text": "Carved; engraved; cleaned, as a ship."
-  }
+  "pronunciation": "GRA'VED, [See the Verb.]",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Carved; engraved; cleaned, as ship."
+    }
+  ]
 }

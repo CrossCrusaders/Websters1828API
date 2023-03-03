@@ -1,8 +1,10 @@
 {
   "word": "Bountifulness",
-  "pronunciation": "BOUN'TIFULNESS",
-  "definition": {
-    "type": "noun",
-    "text": "The quality of being bountiful; liberality in the bestowment of gifts and favors."
-  }
+  "pronunciation": "BOUN'TIFULNESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The quality of being bountiful; liberality in the bestowment of gifts and favors."
+    }
+  ]
 }

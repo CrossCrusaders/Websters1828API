@@ -1,8 +1,10 @@
 {
   "word": "Uncircumcised",
-  "pronunciation": "UNCIR'CUMCISED",
-  "definition": {
-    "type": "adjective",
-    "text": "s as z. Not circumcised."
-  }
+  "pronunciation": "UNCIR'CUMCISED,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "as z. Not circumcised."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Oblation",
-  "pronunciation": "OBLA'TION [Latin oblatio, from offero; ob and fero, to bear or bring.]Any",
-  "definition": {
-    "type": "noun",
-    "text": "thing offered or presented in worship or sacred service; an offering; a sacrifice.Bring no more vain oblations. Isaiah 1:1\n3."
-  }
+  "pronunciation": "OBLA'TION, [Latin oblatio, from offero; ob and fero, to bear or bring.]Any",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Any thing offered or presented in worship or sacred service; an offering; sacrifice.Bring no more vain oblations. Isaiah 1:13."
+    }
+  ]
 }

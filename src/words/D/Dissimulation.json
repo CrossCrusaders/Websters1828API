@@ -1,8 +1,10 @@
 {
   "word": "Dissimulation",
-  "pronunciation": "DISSIMULATION [Latin , to make like; like.]",
-  "definition": {
-    "type": "noun",
-    "text": "The act of dissembling; a hiding under a false appearance; a feigning; false pretension; hypocrisy. dissimulation may be simply concealment of the opinions, sentiments or purpose; but it includes also the assuming of a false or counterfeit appearance which conceals the real opinions or purpose. dissimulation among statesmen is sometimes regarded as a necessary vice, or as no vice at all.Let love be without dissimulation Romans 1 2:9."
-  }
+  "pronunciation": "DISSIMULATION, [Latin , to make like; like.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The act of dissembling; hiding under false appearance; feigning; false pretension; hypocrisy. dissimulation may be simply concealment of the opinions, sentiments or purpose; but it includes also the assuming of false or counterfeit appearance which conceals the real opinions or purpose. dissimulation among statesmen sometimes regarded as necessary vice, or as no vice all.Let love be without dissimulation Romans 12:9."
+    }
+  ]
 }

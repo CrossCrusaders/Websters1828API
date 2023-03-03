@@ -1,8 +1,10 @@
 {
   "word": "Zealously",
-  "pronunciation": "ZEALOUSLY",
-  "definition": {
-    "type": "adverb",
-    "text": "Zelusly. With passionate ardor; with eagerness.It is good to be zealously affected always in a good thing. Galatians 4:1\n7."
-  }
+  "pronunciation": "ZEALOUSLY,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Zelusly. With passionate ardor; with eagerness.It is good to be zealously affected always in good thing. Galatians 4:17."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Twined",
-  "pronunciation": "TWI'NED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Twisted; wound round."
-  }
+  "pronunciation": "TWI'NED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Twisted; wound round."
+    }
+  ]
 }

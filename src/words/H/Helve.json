@@ -1,8 +1,14 @@
 {
   "word": "Helve",
-  "pronunciation": "HELVE",
-  "definition": {
-    "type": "noun",
-    "text": "helv. The handle of an ax or hatchet.HELVE, verb transitive helv. To furnish with a helve as an ax."
-  }
+  "pronunciation": "HELVE,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Helve\n helv. The handle of an ax or hatchet.HELVE,"
+    },
+    {
+      "type": "verb transitive",
+      "text": "helv. To furnish with a helve as an ax."
+    }
+  ]
 }

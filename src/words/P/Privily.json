@@ -1,8 +1,10 @@
 {
   "word": "Privily",
-  "pronunciation": "PRIV'ILY [from privy.]",
-  "definition": {
-    "type": "adverb",
-    "text": "Privately; secretly.\n- False teachers among you, who shall privily bring in damnable heresies. 2 Peter 2:1."
-  }
+  "pronunciation": "PRIV'ILY, [from privy.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Privately; secretly.\n- False teachers among you, who shall privily bring in damnable heresies. 2 Peter 2:1."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Causeless",
-  "pronunciation": "CAUSELESS",
-  "definition": {
-    "type": "adjective",
-    "text": "1. Having no cause, or producing agent.\n2. Without just ground, reason or motive; as causeless hatred; causeless fear. Proverbs 2 6:2."
-  }
+  "pronunciation": "CAUSELESS,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "1. Having no cause, or producing agent.\n2. Without just ground, reason or motive; as causeless hatred; causeless fear. Proverbs 26:2."
+    }
+  ]
 }

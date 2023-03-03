@@ -1,8 +1,14 @@
 {
   "word": "Revile",
-  "pronunciation": "REVI'LE [re and vile.]To",
-  "definition": {
-    "type": "verb transitive",
-    "text": "reproach; to treat with opprobrious and contemptuous language.She revileth him to his face.Thou shalt not revile the gods. Exodus 22:2 8.Blessed are ye when men shall revile you. Matthew 5:11.REVI'LE, noun Reproach; contumely; contemptuous language. [Not in use.]"
-  }
+  "pronunciation": "REVI'LE, [re and vile.]To",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "Revile\n [re and vile.]To reproach; to treat with opprobrious and contemptuous language.She revileth him to his face.Thou shalt not revile the gods. Exodus 22:28.Blessed are ye when men shall revile you. Matthew 5:11.REVI'LE,"
+    },
+    {
+      "type": "noun",
+      "text": "Reproach; contumely; contemptuous language. [Not in use.]"
+    }
+  ]
 }

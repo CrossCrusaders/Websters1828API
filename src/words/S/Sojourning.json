@@ -1,8 +1,14 @@
 {
   "word": "Sojourning",
-  "pronunciation": "SO'JOURNING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Dwelling for a time.SO'JOURNING, noun The act of dwelling in a place for a time; also, the time of abode. Exodus 1 2:40."
-  }
+  "pronunciation": "SO'JOURNING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Sojourning\n Dwelling for a time.SO'JOURNING,"
+    },
+    {
+      "type": "noun",
+      "text": "The act of dwelling a place for a time; also, the time of abode. Exodus 12:40."
+    }
+  ]
 }

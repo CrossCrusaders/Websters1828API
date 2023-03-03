@@ -1,8 +1,10 @@
 {
   "word": "Wringed",
-  "pronunciation": "WRINGED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Twisted; pressed; distressed; extorted."
-  }
+  "pronunciation": "WRINGED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Twisted; pressed; distressed; extorted."
+    }
+  ]
 }

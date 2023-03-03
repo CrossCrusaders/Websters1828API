@@ -1,8 +1,10 @@
 {
   "word": "Unprofitableness",
-  "pronunciation": "UNPROF'ITABLENESS",
-  "definition": {
-    "type": "noun",
-    "text": "The state of producing no profit or good; uselessness; inutility."
-  }
+  "pronunciation": "UNPROF'ITABLENESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The state producing no or good; uselessness; inutility."
+    }
+  ]
 }

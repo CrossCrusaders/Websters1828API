@@ -1,8 +1,10 @@
 {
   "word": "Spake",
-  "pronunciation": "SPAKE",
-  "definition": {
-    "type": "preterit tense",
-    "text": "of speak; nearly obsolete. We not use spoke."
-  }
+  "pronunciation": "SPAKE,",
+  "definitions": [
+    {
+      "type": "preterit tense",
+      "text": "of speak; nearly obsolete. We not use spoke."
+    }
+  ]
 }

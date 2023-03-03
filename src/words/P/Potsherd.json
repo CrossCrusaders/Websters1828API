@@ -1,8 +1,10 @@
 {
   "word": "Potsherd",
-  "pronunciation": "POT'SHERD",
-  "definition": {
-    "type": "noun",
-    "text": "A piece or fragment of a broken pot. Job 2:8."
-  }
+  "pronunciation": "POT'SHERD,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A piece or fragment of a broken pot. Job 2:8."
+    }
+  ]
 }

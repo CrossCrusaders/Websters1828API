@@ -1,8 +1,10 @@
 {
   "word": "Withal",
-  "pronunciation": "WITHAL",
-  "definition": {
-    "type": "adverb",
-    "text": "Withaul. [with and all.]\n1. With the rest; together with; likewise; at the same time.If you choose that, then I am yours withal How modest in exception, and withal how terrible in constant resolution!\n2. It is sometimes used for with. But the word is not elegant, nor much used."
-  }
+  "pronunciation": "WITHAL,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Withaul. [with and all.]\n1. the rest; together with; likewise; at the same time.If you choose that, then I am yours withal How modest in exception, and withal how terrible in constant resolution!\n2. It is sometimes used for with. But the word is not elegant, nor much used."
+    }
+  ]
 }

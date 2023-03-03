@@ -1,8 +1,10 @@
 {
   "word": "Belial",
-  "pronunciation": "BE'LIAL",
-  "definition": {
-    "type": "noun",
-    "text": "As a noun, unprofitableness; wickedness. As an adjective, worthless; wicked. In a collective sense, wicked men."
-  }
+  "pronunciation": "BE'LIAL,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "As noun, unprofitableness; wickedness. As an adjective, worthless; wicked. In collective sense, wicked men."
+    }
+  ]
 }

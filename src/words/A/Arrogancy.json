@@ -1,8 +1,10 @@
 {
   "word": "Arrogancy",
-  "pronunciation": "AR'ROGANCY",
-  "definition": {
-    "type": "noun",
-    "text": "Arrogance. [This orthography is less usual.]"
-  }
+  "pronunciation": "AR'ROGANCY,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Arrogance. [This orthography is less usual.]"
+    }
+  ]
 }

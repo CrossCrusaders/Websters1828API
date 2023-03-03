@@ -1,8 +1,10 @@
 {
   "word": "Filthiness",
-  "pronunciation": "FILTH'INESS",
-  "definition": {
-    "type": "noun",
-    "text": "1. The state of being filthy.\n\n2. Foulness; dirtiness; filth; nastiness.\nCarry forth the filthiness out of the holy place. 2 Chronicles 2 9:5.\n\n3. Corruption; pollution; defilement by sin; impurity.\nLet us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God. 2 Corinthians 7:1."
-  }
+  "pronunciation": "FILTH'INESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. The state of being filthy.\n2. Foulness; dirtiness; filth; nastiness.\nCarry forth the filthiness out of the holy place. 2 Chronicles 29:5.\n3. Corruption; pollution; defilement by sin; impurity.\nLet us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness the fear of God. 2 Corinthians 7:1."
+    }
+  ]
 }

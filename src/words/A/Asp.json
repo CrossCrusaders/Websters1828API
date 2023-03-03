@@ -1,8 +1,10 @@
 {
   "word": "Asp",
-  "pronunciation": "'ASP",
-  "definition": {
-    "type": "noun",
-    "text": "A plant."
-  }
+  "pronunciation": "'ASP,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "ASPAL'ATHUS, plant."
+    }
+  ]
 }

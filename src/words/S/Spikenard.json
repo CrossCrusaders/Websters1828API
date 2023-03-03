@@ -1,8 +1,10 @@
 {
   "word": "Spikenard",
-  "pronunciation": "SPIKENARD",
-  "definition": {
-    "type": "noun",
-    "text": "spik'nard. [Latin spica nardi.]\n1. A plant of the genus Nardus.\n2. The oil of balsam procured from the spikenard"
-  }
+  "pronunciation": "SPIKENARD,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "spik'nard. [Latin spica nardi.]\n1. A plant of the genus Nardus.\n2. The oil of balsam procured from the spikenard"
+    }
+  ]
 }

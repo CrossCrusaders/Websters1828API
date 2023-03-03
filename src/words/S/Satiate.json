@@ -1,8 +1,14 @@
 {
   "word": "Satiate",
-  "pronunciation": "SATIATE",
-  "definition": {
-    "type": "verb transitive",
-    "text": "sa'shate. [Latin satiatus, from satio. See sate.]\n1. To fill; to satisfy appetite or desire; to feed to the full, or to furnish enjoyment to the extent of desire; as, to satiate appetite or sense.\n2. To fill to the extent of want; as, to satiate the earth or plants with water.\n3. To glut; to fill beyond natural desire.He may be satiated, but not satisfied.\n4. To gratify desire to the utmost.I may yet survive the malice of my enemies, although they should be satiated with my blood.\n5. To saturate. [Not unusual. See saturate.]SA'TIATE, adjective Filled to satiety; glutted; followed by with or of. the former is most common; as satiate of applause. [Unusual.]"
-  }
+  "pronunciation": "SATIATE,",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "Satiate\n sa'shate. [Latin satiatus, from satio. See sate.]\n1. To fill; to satisfy appetite or desire; to feed to the full, or to furnish enjoyment to the extent of desire; as, to satiate appetite or sense.\n2. To fill to the extent of want; as, to satiate the earth or plants with water.\n3. To glut; to fill beyond natural desire.He may be satiated, but not satisfied.\n4. To gratify desire to the utmost.I may yet survive the malice of my enemies, although they should be satiated with my blood.\n5. To saturate. [Not unusual. See saturate.]SA'TIATE,"
+    },
+    {
+      "type": "adjective",
+      "text": "Filled to satiety; glutted; followed by with or of. the former is most common; as satiate of applause. [Unusual.]"
+    }
+  ]
 }

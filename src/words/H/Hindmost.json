@@ -1,8 +1,10 @@
 {
   "word": "Hindmost",
-  "pronunciation": "HINDMOST",
-  "definition": {
-    "type": "adjective",
-    "text": "The last; that is in the rear of all others.He met thee in the way, and smote the hindmost of thee. Deuteronomy 2 5:1\n8."
-  }
+  "pronunciation": "HINDMOST,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "The last; that is the rear of all others.He met thee the way, and smote the hindmost of thee. Deuteronomy 25:18."
+    }
+  ]
 }

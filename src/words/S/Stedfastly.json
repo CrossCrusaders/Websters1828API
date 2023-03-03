@@ -1,8 +1,10 @@
 {
   "word": "Stedfastly",
-  "pronunciation": "STEADFASTLY",
-  "definition": {
-    "type": "adverb",
-    "text": "Firmly; with constancy or steadiness of mind.Steadfastly believe that whatever God has revealed is infallibly true."
-  }
+  "pronunciation": "STEADFASTLY,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "STEDFASTLY Firmly; with constancy or steadiness of mind.Steadfastly believe that whatever God has revealed is infallibly true."
+    }
+  ]
 }

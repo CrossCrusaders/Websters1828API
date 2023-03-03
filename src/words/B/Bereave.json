@@ -1,8 +1,18 @@
 {
   "word": "Bereave",
-  "pronunciation": "BERE'AVE",
-  "definition": {
-    "type": "verb transitive",
-    "text": "preterit tense bereaved, bereft: participle passive bereaved, bereft.\n\n1. To deprive; to strip; to make destitute; with of before the thing taken away.\nMe have ye bereaved of my children. Genesis 4 2:3 6.\nIt is sometimes used without of, and is particularly applied to express the loss of friends by death.\n\n2. To take away from."
-  }
+  "pronunciation": "BERE'AVE,",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "Bereave"
+    },
+    {
+      "type": "preterit tense",
+      "text": "bereaved, bereft:"
+    },
+    {
+      "type": "participle passive",
+      "text": "bereaved, bereft.\n1. To deprive; to strip; to make destitute; with of before the thing taken away.\nMe have ye bereaved of my children. Genesis 42:36.\nIt is sometimes used without of, and is particularly applied to express the loss of friends by death.\n2. To take away from."
+    }
+  ]
 }

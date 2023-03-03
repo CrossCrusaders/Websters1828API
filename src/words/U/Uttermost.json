@@ -1,8 +1,14 @@
 {
   "word": "Uttermost",
-  "pronunciation": "UT'TERMOST [utter and most.]",
-  "definition": {
-    "type": "adjective",
-    "text": "Extreme; being in the furthest, greatest or highest degree; as the uttermost extent or end; the uttermost distress.\nUT'TERMOST, noun The greatest. the uttermost we can do is to be patient.\nTo the uttermost in the most extensive degree; fully.\nHebrews 7:2\n5."
-  }
+  "pronunciation": "UT'TERMOST, [utter and most.]",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Uttermost\n [utter and most.] Extreme; being in the furthest, greatest or highest degree; as the uttermost extent or end; the uttermost distress.\nUT'TERMOST,"
+    },
+    {
+      "type": "noun",
+      "text": "The greatest. the uttermost we can do is to be patient.\nTo the uttermost in the extensive degree; fully.\nHebrews 7:25."
+    }
+  ]
 }

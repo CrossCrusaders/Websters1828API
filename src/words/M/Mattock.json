@@ -1,8 +1,10 @@
 {
   "word": "Mattock",
-  "pronunciation": "MAT'TOCK",
-  "definition": {
-    "type": "noun",
-    "text": "A tool to grub up weeds or roots; a grubbing hoe."
-  }
+  "pronunciation": "MAT'TOCK,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A tool grub up weeds or roots; grubbing hoe."
+    }
+  ]
 }

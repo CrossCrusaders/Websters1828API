@@ -1,8 +1,10 @@
 {
   "word": "Victual",
   "pronunciation": "VICTUAL.",
-  "definition": {
-    "type": "verb transitive",
-    "text": "vit'l. [from victual the noun.]\n1. To supply with provisions for subsistence; as, to victual an army; to victual a garrison.\n2. To store with provisions; as, to victual a ship."
-  }
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "VICTUAL, vit'l. [from victual the noun.\n1. To supply with provisions for subsistence; as, to victual an army; to victual garrison.\n2. To store with provisions; as, to victual ship.]"
+    }
+  ]
 }

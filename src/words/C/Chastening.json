@@ -1,8 +1,14 @@
 {
   "word": "Chastening",
-  "pronunciation": "CHASTENING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Correcting; afflicting for correction.\nCHASTENING, noun Correction; punishment for the purpose of reclaiming.\nNo chastening for the present seemeth to be joyous but grievous. Hebrews 1 2:11."
-  }
+  "pronunciation": "CHASTENING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Chastening\n Correcting; afflicting for correction.\nCHASTENING,"
+    },
+    {
+      "type": "noun",
+      "text": "Correction; punishment for the purpose of reclaiming.\nNo chastening for the present seemeth to be joyous but grievous. Hebrews 12:11."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Assaying",
-  "pronunciation": "ASSA'YING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Trying by some standard; examining by experiment, as metals; proving; attempting."
-  }
+  "pronunciation": "ASSA'YING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Trying by some standard; examining by experiment, as metals; proving; attempting."
+    }
+  ]
 }

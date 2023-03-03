@@ -1,8 +1,10 @@
 {
   "word": "Perjured",
-  "pronunciation": "PER'JURED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Guilty of perjury; having sworn falsely."
-  }
+  "pronunciation": "PER'JURED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Guilty of perjury; having sworn falsely."
+    }
+  ]
 }

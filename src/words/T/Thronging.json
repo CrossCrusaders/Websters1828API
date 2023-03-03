@@ -1,8 +1,14 @@
 {
   "word": "Thronging",
-  "pronunciation": "THRONG'ING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Crowding together; pressing with a multitude of persons.THRONG'ING, noun The act of crowding together."
-  }
+  "pronunciation": "THRONG'ING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Thronging\n Crowding together; pressing with a multitude of persons.THRONG'ING,"
+    },
+    {
+      "type": "noun",
+      "text": "The act of crowding together."
+    }
+  ]
 }

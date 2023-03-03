@@ -1,8 +1,10 @@
 {
   "word": "Loftiness",
-  "pronunciation": "LOFT'INESS",
-  "definition": {
-    "type": "noun",
-    "text": "1. Height; elevation in place or position; altitude; as the loftiness of a mountain.\n2. Pride; haughtiness.Augustus and Tiberius had loftiness enough in their tempers -\n3. Elevation of attitude or mien; as loftiness of carriage.\n4. Sublimity; elevation of diction or sentiment.Three poets in three distant ages born; the first in loftiness of thought surpass'd; the next in majesty; in both the last."
-  }
+  "pronunciation": "LOFT'INESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. Height; elevation place or position; altitude; as the loftiness a mountain.\n2. Pride; haughtiness.Augustus and Tiberius had loftiness enough their tempers -\n3. Elevation attitude or mien; as loftiness carriage.\n4. Sublimity; elevation diction or sentiment.Three poets three distant ages born; the first loftiness thought surpass'd; the next majesty; both the last."
+    }
+  ]
 }

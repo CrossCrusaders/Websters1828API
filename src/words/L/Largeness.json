@@ -1,8 +1,10 @@
 {
   "word": "Largeness",
-  "pronunciation": "L'ARGENESS",
-  "definition": {
-    "type": "noun",
-    "text": "1. Bigness; bulk; magnitude; as the largeness of an animal.\n2. Greatness; comprehension; as the largeness of mind or of capacity.\n3. Extent; extensiveness; as largeness of views.\n4. Extension; amplitude; liberality; as the largeness of an offer; largeness of heart.\n5. Wideness; extent; as the largeness of a river."
-  }
+  "pronunciation": "L'ARGENESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. Bigness; bulk; magnitude; as the largeness of an animal.\n2. Greatness; comprehension; as the largeness of mind or of capacity.\n3. Extent; extensiveness; as largeness of views.\n4. Extension; amplitude; liberality; as the largeness of an offer; largeness of heart.\n5. Wideness; extent; as the largeness of river."
+    }
+  ]
 }

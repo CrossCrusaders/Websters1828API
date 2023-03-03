@@ -1,8 +1,10 @@
 {
   "word": "Ambushment",
-  "pronunciation": "AM'BUSHMENT",
-  "definition": {
-    "type": "noun",
-    "text": "An ambush; which see."
-  }
+  "pronunciation": "AM'BUSHMENT,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "An ambush; which see."
+    }
+  ]
 }

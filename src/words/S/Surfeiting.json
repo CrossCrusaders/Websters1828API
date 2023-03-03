@@ -1,8 +1,14 @@
 {
   "word": "Surfeiting",
-  "pronunciation": "SUR'FEITING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Oppressing the system by excessive eating and drinking; cloying; loading or filling to disgust.SUR'FEITING, noun The act of feeding to excess; gluttony. Luke 2 1:3\n4."
-  }
+  "pronunciation": "SUR'FEITING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Surfeiting\n Oppressing the system by excessive eating and drinking; cloying; loading or filling to disgust.SUR'FEITING,"
+    },
+    {
+      "type": "noun",
+      "text": "The act of feeding to excess; gluttony. Luke 21:34."
+    }
+  ]
 }

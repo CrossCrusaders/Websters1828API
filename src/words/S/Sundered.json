@@ -1,8 +1,10 @@
 {
   "word": "Sundered",
-  "pronunciation": "SUN'DERED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Separated; divided; parted."
-  }
+  "pronunciation": "SUN'DERED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Separated; divided; parted."
+    }
+  ]
 }

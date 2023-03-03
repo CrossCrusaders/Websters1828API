@@ -1,8 +1,10 @@
 {
   "word": "Disfigure",
-  "pronunciation": "DISFIGURE [dis and figure.]",
-  "definition": {
-    "type": "verb transitive",
-    "text": "1. To change to a worse form; to mar external figure; to impair shape or form and render it less perfect and beautiful; as, the loss of a limb disfigures the body.\n2. To mar; to impair; to injure beauty, symmetry or excellence."
-  }
+  "pronunciation": "DISFIGURE, [dis and figure.]",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "1. To change to a worse form; to mar external figure; to impair shape or form and render it less perfect and beautiful; as, the loss of a limb disfigures the body.\n2. To mar; to impair; to injure beauty, symmetry or excellence."
+    }
+  ]
 }

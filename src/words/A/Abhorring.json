@@ -1,8 +1,10 @@
 {
   "word": "Abhorring",
-  "pronunciation": "ABHOR'RING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Having great aversion, detesting. As a noun, it is used in Isaiah lxvi, for the object of hatred - 'An abhorring to all flesh.'"
-  }
+  "pronunciation": "ABHOR'RING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Having great aversion, detesting. As a noun, it is used Isaiah lxvi, for the object of hatred - 'An abhorring to all flesh.'"
+    }
+  ]
 }

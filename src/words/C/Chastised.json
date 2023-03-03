@@ -1,8 +1,10 @@
 {
   "word": "Chastised",
-  "pronunciation": "CHASTISED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Punished; corrected."
-  }
+  "pronunciation": "CHASTISED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Punished; corrected."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Maimed",
-  "pronunciation": "MA'IMED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Crippled; disabled in limbs; lame."
-  }
+  "pronunciation": "MA'IMED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Crippled; disabled in limbs; lame."
+    }
+  ]
 }

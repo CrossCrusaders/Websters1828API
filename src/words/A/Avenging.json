@@ -1,8 +1,10 @@
 {
   "word": "Avenging",
-  "pronunciation": "AVENG'ING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Executing vengeance; taking satisfaction for an injury by the punishment of the offender; vindicating."
-  }
+  "pronunciation": "AVENG'ING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Executing vengeance; taking satisfaction for an injury by the punishment of the offender; vindicating."
+    }
+  ]
 }

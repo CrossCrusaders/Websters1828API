@@ -1,8 +1,10 @@
 {
   "word": "Despiteful",
-  "pronunciation": "DESPITEFUL",
-  "definition": {
-    "type": "adjective",
-    "text": "Full of spite; malicious; malignant; as a despiteful enemy.\nHater of God, despiteful, proud, boasters. Romans 1:30."
-  }
+  "pronunciation": "DESPITEFUL,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Full of spite; malicious; malignant; as a despiteful enemy.\nHater of God, despiteful, proud, boasters. Romans 1:30."
+    }
+  ]
 }

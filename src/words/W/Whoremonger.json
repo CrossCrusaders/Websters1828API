@@ -1,8 +1,10 @@
 {
   "word": "Whoremonger",
-  "pronunciation": "WHOREMONGER",
-  "definition": {
-    "type": "noun",
-    "text": "The same as whoremaster."
-  }
+  "pronunciation": "WHOREMONGER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The same as whoremaster."
+    }
+  ]
 }

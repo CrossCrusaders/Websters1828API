@@ -1,8 +1,10 @@
 {
   "word": "Wrathful",
-  "pronunciation": "WRATHFUL",
-  "definition": {
-    "type": "adjective",
-    "text": "1. Very angry; greatly incensed. The king was very wrathful\n2. Springing from wrath, or expressing it; as wrathful passions; a wrathful countenance."
-  }
+  "pronunciation": "WRATHFUL,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "1. Very angry; greatly incensed. The king was very wrathful\n2. Springing from wrath, or expressing it; as wrathful passions; wrathful countenance."
+    }
+  ]
 }

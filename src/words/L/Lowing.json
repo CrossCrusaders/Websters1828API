@@ -1,8 +1,14 @@
 {
   "word": "Lowing",
-  "pronunciation": "LOWING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Bellowing, as an ox.LOWING, noun the bellowing or cry of cattle."
-  }
+  "pronunciation": "LOWING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Lowing\n Bellowing, as an ox.LOWING,"
+    },
+    {
+      "type": "noun",
+      "text": "the bellowing or cry of cattle."
+    }
+  ]
 }

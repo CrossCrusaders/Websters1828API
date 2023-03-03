@@ -1,8 +1,14 @@
 {
   "word": "Communing",
-  "pronunciation": "COMMUNING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Conversing familiarly; having familiar intercourse.COMMUNING, noun Familiar converse; private intercourse."
-  }
+  "pronunciation": "COMMUNING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Communing\n Conversing familiarly; having familiar intercourse.COMMUNING,"
+    },
+    {
+      "type": "noun",
+      "text": "Familiar converse; private intercourse."
+    }
+  ]
 }

@@ -1,8 +1,14 @@
 {
   "word": "Cankered",
-  "pronunciation": "CANKERED",
-  "definition": {
-    "type": "participle passive",
-    "text": "1. Corrupted.\n2. adjective Crabbed; uncivil."
-  }
+  "pronunciation": "CANKERED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Cankered\n1. Corrupted.\n2."
+    },
+    {
+      "type": "adjective",
+      "text": "Crabbed; uncivil."
+    }
+  ]
 }

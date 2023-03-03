@@ -1,8 +1,10 @@
 {
   "word": "Dismaying",
-  "pronunciation": "DISMAYING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Depriving of courage."
-  }
+  "pronunciation": "DISMAYING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Depriving of courage."
+    }
+  ]
 }

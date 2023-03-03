@@ -1,8 +1,10 @@
 {
   "word": "Mammon",
-  "pronunciation": "MAM'MON",
-  "definition": {
-    "type": "noun",
-    "text": "Riches; wealth; or the god of riches.\nYe cannot serve God and mammon Matthew 6:2\n4."
-  }
+  "pronunciation": "MAM'MON,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Riches; wealth; or the god of riches.\nYe cannot serve God and mammon Matthew 6:24."
+    }
+  ]
 }

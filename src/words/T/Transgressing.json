@@ -1,8 +1,10 @@
 {
   "word": "Transgressing",
-  "pronunciation": "TRANSGRESS'ING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Passing beyond; surpassing; violating; sinning."
-  }
+  "pronunciation": "TRANSGRESS'ING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Passing beyond; surpassing; violating; sinning."
+    }
+  ]
 }

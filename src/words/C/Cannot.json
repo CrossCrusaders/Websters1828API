@@ -1,8 +1,10 @@
 {
   "word": "Cannot",
-  "pronunciation": "CANNOT",
-  "definition": {
-    "type": "[can and not.]",
-    "text": ""
-  }
+  "pronunciation": "CANNOT,",
+  "definitions": [
+    {
+      "type": "",
+      "text": "These words are usually united, but perhaps without good reason; canst and are never united."
+    }
+  ]
 }

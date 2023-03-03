@@ -1,8 +1,10 @@
 {
   "word": "Deadness",
-  "pronunciation": "DEAD'NESS",
-  "definition": {
-    "type": "noun",
-    "text": "ded'ness.\n1. Want of natural life or vital power, in an animal or plant; as the deadness of a limb, of a body, or of a tree.\n2. Want of animation; dullness; languor; as the deadness of the eye.\n3. Want of warmth or ardor; coldness; frigidity; as the deadness of the affections.\n4. State of being incapable of conception, according to the ordinary laws of nature. Romans 4:1\n9.\n5. Indifference; mortification of the natural desires; alienation of heart from temporal pleasures; as deadness to the world."
-  }
+  "pronunciation": "DEAD'NESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "ded'ness.\n1. Want of natural life or vital power, in an animal or plant; as the deadness of limb, of body, or of tree.\n2. Want of animation; dullness; languor; as the deadness of the eye.\n3. Want of warmth or ardor; coldness; frigidity; as the deadness of the affections.\n4. State of being incapable of conception, according to the ordinary laws of nature. Romans 4:19.\n5. Indifference; mortification of the natural desires; alienation of heart from temporal pleasures; as deadness to the world."
+    }
+  ]
 }

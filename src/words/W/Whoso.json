@@ -1,8 +1,10 @@
 {
   "word": "Whoso",
-  "pronunciation": "WHOSO",
-  "definition": {
-    "type": "pronoun",
-    "text": "Hooso. Any person whatever."
-  }
+  "pronunciation": "WHOSO,",
+  "definitions": [
+    {
+      "type": "pronoun",
+      "text": "Hooso. Any person whatever."
+    }
+  ]
 }

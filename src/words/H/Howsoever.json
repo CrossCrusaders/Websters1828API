@@ -1,8 +1,10 @@
 {
   "word": "Howsoever",
-  "pronunciation": "HOWSOEV'ER [how, so, and ever.]",
-  "definition": {
-    "type": "adverb",
-    "text": "1. In what manner soever.\n2. Although.[For this word, however is generally used.]"
-  }
+  "pronunciation": "HOWSOEV'ER, [how, so, and ever.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "1. In what manner soever.\n2. Although.[For this word, however is generally used.]"
+    }
+  ]
 }

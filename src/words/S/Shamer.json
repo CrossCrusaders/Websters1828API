@@ -1,8 +1,10 @@
 {
   "word": "Shamer",
-  "pronunciation": "SHA'MER",
-  "definition": {
-    "type": "noun",
-    "text": "One who makes ashamed; that which confounds."
-  }
+  "pronunciation": "SHA'MER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "One who makes ashamed; that which confounds."
+    }
+  ]
 }

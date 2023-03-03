@@ -1,8 +1,10 @@
 {
   "word": "Furbish",
-  "pronunciation": "FUR'BISH",
-  "definition": {
-    "type": "verb transitive",
-    "text": "To rub or scour to brightness; to polish; to burnish; as, to furbish a sword or spear; to furbish arms."
-  }
+  "pronunciation": "FUR'BISH,",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "To rub or scour to brightness; to polish; to burnish; as, to furbish a sword or spear; to furbish arms."
+    }
+  ]
 }

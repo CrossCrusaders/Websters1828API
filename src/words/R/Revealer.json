@@ -1,8 +1,10 @@
 {
   "word": "Revealer",
-  "pronunciation": "REVE'ALER",
-  "definition": {
-    "type": "noun",
-    "text": "1. One that discloses or makes known.\n2. One that brings to view."
-  }
+  "pronunciation": "REVE'ALER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. One that discloses or makes known.\n2. One that brings to view."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Loosing",
-  "pronunciation": "LOOS'ING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Setting free from confinement."
-  }
+  "pronunciation": "LOOS'ING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Setting free from confinement."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Foreknowledge",
-  "pronunciation": "FOREKNOWL'EDGE",
-  "definition": {
-    "type": "noun",
-    "text": "Knowledge of a thing before it happens; prescience.If I foreknew, foreknowledge had no influence on their fault."
-  }
+  "pronunciation": "FOREKNOWL'EDGE,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Knowledge of a thing before it happens; prescience.If I foreknew, foreknowledge had influence on their fault."
+    }
+  ]
 }

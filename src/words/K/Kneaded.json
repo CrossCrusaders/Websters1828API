@@ -1,8 +1,10 @@
 {
   "word": "Kneaded",
-  "pronunciation": "KNE'ADED",
-  "definition": {
-    "type": "participle passive",
-    "text": "ne'aded. Worked and pressed together."
-  }
+  "pronunciation": "KNE'ADED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "ne'aded. Worked and pressed together."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Unrighteous",
-  "pronunciation": "UNRIGHTEOUS",
-  "definition": {
-    "type": "adjective",
-    "text": "unri'chus.\n1. Not righteous; not just; not conformed in heart and life to the divine law; evil; wicked; used of persons.\n2. Unjust; contrary to law and equity; as an unrighteous decree or sentence."
-  }
+  "pronunciation": "UNRIGHTEOUS,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "unri'chus.\n1. Not righteous; not just; not conformed in heart and life to the divine law; evil; wicked; used of persons.\n2. Unjust; contrary to law and equity; as an unrighteous decree or sentence."
+    }
+  ]
 }

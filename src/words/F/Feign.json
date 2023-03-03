@@ -1,8 +1,10 @@
 {
   "word": "Feign",
-  "pronunciation": "FEIGN",
-  "definition": {
-    "type": "verb transitive",
-    "text": "fane. [Latin fingo. The Latin forms fictum, fictus, whence figura, figure, also fucus.]\n1. To invent or imagine; to form an idea or conception of something not real.There are no such things done as thou sayest, but thou feignest them out of thine own heart. Nehemiah 6:8.\n2. To make a show of; to pretend; to assume a false appearance; to counterfeit.I pray thee, feign thyself to be a mourner. 2 Samuel 1 4:2.She feigns a laugh.\n3. To represent falsely; to pretend; to form and relate a fictitious tale.The poet did feign that Orpheus drew trees, stones, and floods.\n4. To dissemble; to conceal. obsolete"
-  }
+  "pronunciation": "FEIGN,",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "fane. [Latin fingo. The Latin forms fictum, fictus, whence figura, figure, also fucus.]\n1. To invent or imagine; to form an idea or conception of something not real.There are no such things done as thou sayest, but thou feignest them out of thine own heart. Nehemiah 6:8.\n2. To make a show of; to pretend; to assume a false appearance; to counterfeit.I pray thee, feign thyself to be a mourner. 2 Samuel 14:2.She feigns a laugh.\n3. To represent falsely; to pretend; to form and relate a fictitious tale.The poet did feign that Orpheus drew trees, stones, and floods.\n4. To dissemble; to conceal. obsolete"
+    }
+  ]
 }

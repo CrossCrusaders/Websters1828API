@@ -1,8 +1,10 @@
 {
   "word": "Affectioned",
-  "pronunciation": "AFFEC'TIONED",
-  "definition": {
-    "type": "adjective",
-    "text": "1. Disposed; having an affection of heart.Be ye kindly affectioned one to another. Romans 1 2:\n10.\n2. Affected; conceited. obsolete"
-  }
+  "pronunciation": "AFFEC'TIONED,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "1. Disposed; having an affection of heart.Be ye kindly affectioned to another. Romans 12:10.\n2. Affected; conceited. obsolete"
+    }
+  ]
 }

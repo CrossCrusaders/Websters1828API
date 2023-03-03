@@ -1,8 +1,10 @@
 {
   "word": "Frowardly",
-  "pronunciation": "FRO'WARDLY",
-  "definition": {
-    "type": "adverb",
-    "text": "Perversely; in a peevish manner."
-  }
+  "pronunciation": "FRO'WARDLY,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Perversely; in peevish manner."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Quieted",
-  "pronunciation": "QUI'ETED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Made still; calmed; pacified."
-  }
+  "pronunciation": "QUI'ETED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Made still; calmed; pacified."
+    }
+  ]
 }

@@ -1,8 +1,14 @@
 {
   "word": "Holyday",
-  "pronunciation": "HOL'YDAY",
-  "definition": {
-    "type": "noun",
-    "text": "A day set apart for commemorating some important event in history; a festival intended to celebrate some event deemed auspicious to the welfare of a nation; particularly an anniversary festival, devoted to religious solemnities; as christmas holydays.\n1. A day of joy and gayety.\n2. A day of exemption from labor; a day of amusement.HOL'YDAY, adjective Pertaining to a festival; as a holyday suit of clothes."
-  }
+  "pronunciation": "HOL'YDAY,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Holyday\n A set apart for commemorating some important event in history; festival intended to celebrate some event deemed auspicious to the welfare of nation; particularly an anniversary festival, devoted to religious solemnities; as christmas holydays.\n1. A of joy and gayety.\n2. A of exemption from labor; of amusement.HOL'YDAY,"
+    },
+    {
+      "type": "adjective",
+      "text": "Pertaining to festival; as holyday suit of clothes."
+    }
+  ]
 }

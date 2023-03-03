@@ -1,8 +1,10 @@
 {
   "word": "Outwent",
-  "pronunciation": "OUTWENT'",
-  "definition": {
-    "type": "preterit tense",
-    "text": "of outgo."
-  }
+  "pronunciation": "OUTWENT',",
+  "definitions": [
+    {
+      "type": "preterit tense",
+      "text": "of outgo."
+    }
+  ]
 }

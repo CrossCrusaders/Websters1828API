@@ -1,8 +1,10 @@
 {
   "word": "Obeisance",
-  "pronunciation": "OBE'ISANCE [Latin obedio.]A",
-  "definition": {
-    "type": "noun",
-    "text": "bow or courtesy; an act of reverence made by an inclination of the body or the knee. Genesis 3 7:7."
-  }
+  "pronunciation": "OBE'ISANCE, [Latin obedio.]A",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A bow or courtesy; act of reverence made by inclination of the body or the knee. Genesis 37:7."
+    }
+  ]
 }

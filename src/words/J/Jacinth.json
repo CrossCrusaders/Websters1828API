@@ -1,8 +1,10 @@
 {
   "word": "Jacinth",
-  "pronunciation": "JA'CINTH [a different orthography of Hyacinth.]",
-  "definition": {
-    "type": "noun",
-    "text": "1. A genus of plants. [See Hyacinth.]\n2. A species of pellucid gems. [See Hyacinth.] Revelation 2 1:20."
-  }
+  "pronunciation": "JA'CINTH, [a different orthography of Hyacinth.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. A genus of plants. [See Hyacinth.\n2. A species of pellucid gems. [See Hyacinth.] Revelation 21:20.]"
+    }
+  ]
 }

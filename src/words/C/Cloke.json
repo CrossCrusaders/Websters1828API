@@ -1,8 +1,14 @@
 {
   "word": "Cloke",
-  "pronunciation": "CLOKE",
-  "definition": {
-    "type": "noun",
-    "text": "1. A loose outer garment worn over other clothes both by men and women.He was clad with zeal as a cloke Isaiah 5 9:1\n7.\n2. A cover; that which conceals; a disguise or pretext; an excuse; a fair pretense.Not using your liberty for a cloke of maliciousness. 1 Peter 2:1 6.They have no cloke for their sin. John 1 5:22.CLOKE, verb transitive\n1. To cover with a cloke\n2. To hide; to conceal; to use a false covering."
-  }
+  "pronunciation": "CLOKE,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Cloke\n1. A loose outer garment worn over other clothes both by men and women.He was clad with zeal as a cloke Isaiah 59:17.\n2. A cover; that which conceals; a disguise or pretext; an excuse; a fair pretense.Not using your liberty for a cloke of maliciousness. 1 Peter 2:16.They have no cloke for their sin. John 15:22.CLOKE,"
+    },
+    {
+      "type": "verb transitive",
+      "text": "1. To cover with a cloke\n2. To hide; to conceal; to use a false covering."
+    }
+  ]
 }

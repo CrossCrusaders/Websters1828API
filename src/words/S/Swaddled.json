@@ -1,8 +1,10 @@
 {
   "word": "Swaddled",
-  "pronunciation": "SWAD'DLED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Swathed; bound in tight clothes."
-  }
+  "pronunciation": "SWAD'DLED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Swathed; bound in tight clothes."
+    }
+  ]
 }

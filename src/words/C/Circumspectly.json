@@ -1,8 +1,10 @@
 {
   "word": "Circumspectly",
-  "pronunciation": "CIRCUMSPECTLY",
-  "definition": {
-    "type": "adverb",
-    "text": "Cautiously; with watchfulness every way; with attention to guard against surprise or danger."
-  }
+  "pronunciation": "CIRCUMSPECTLY,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Cautiously; with watchfulness every way; with attention to guard against surprise or danger."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Hearkening",
-  "pronunciation": "HE'ARKENING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "h'arkening. Listening; attending; observing."
-  }
+  "pronunciation": "HE'ARKENING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "h'arkening. Listening; attending; observing."
+    }
+  ]
 }

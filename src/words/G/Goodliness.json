@@ -1,8 +1,10 @@
 {
   "word": "Goodliness",
-  "pronunciation": "GOOD'LINESS [from goodly.]",
-  "definition": {
-    "type": "noun",
-    "text": "Beauty of form; grace; elegance.Her goodliness was full of harmony to his eyes."
-  }
+  "pronunciation": "GOOD'LINESS, [from goodly.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Beauty of form; grace; elegance.Her goodliness was full of harmony to his eyes."
+    }
+  ]
 }

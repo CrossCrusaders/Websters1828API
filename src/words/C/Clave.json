@@ -1,8 +1,10 @@
 {
   "word": "Clave",
-  "pronunciation": "CLAVE",
-  "definition": {
-    "type": "preterit tense",
-    "text": "Of cleave."
-  }
+  "pronunciation": "CLAVE,",
+  "definitions": [
+    {
+      "type": "preterit tense",
+      "text": "Of cleave."
+    }
+  ]
 }

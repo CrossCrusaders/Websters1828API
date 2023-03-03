@@ -1,8 +1,10 @@
 {
   "word": "Inclosed",
-  "pronunciation": "INCLO'SED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Surrounded; encompassed; confined on all sides; covered and sealed; fenced."
-  }
+  "pronunciation": "INCLO'SED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Surrounded; encompassed; confined on all sides; covered and sealed; fenced."
+    }
+  ]
 }

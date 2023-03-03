@@ -1,8 +1,10 @@
 {
   "word": "Thankfulness",
-  "pronunciation": "THANK'FULNESS",
-  "definition": {
-    "type": "",
-    "text": ""
-  }
+  "pronunciation": "THANK'FULNESS,noun",
+  "definitions": [
+    {
+      "type": "",
+      "text": "Expression of gratitude; acknowledgment of favor.\n1. Gratitude; lively sense of good received.The celebration of these holy mysteries being ended, retire with all thankfulness of heart for having been admitted to that heavenly feast."
+    }
+  ]
 }

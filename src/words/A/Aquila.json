@@ -1,8 +1,10 @@
 {
   "word": "Aquila",
-  "pronunciation": "AQ'UILA [Latin whence aquilinus.]In",
-  "definition": {
-    "type": "noun",
-    "text": "ornithology, the eagle. Also a northern constellation containing, according to the British catalogue, 7 1 stars."
-  }
+  "pronunciation": "AQ'UILA, [Latin whence aquilinus.]In",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "In ornithology, the eagle. Also northern constellation containing, according to the British catalogue, 71 stars."
+    }
+  ]
 }

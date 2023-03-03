@@ -1,8 +1,10 @@
 {
   "word": "Kinswoman",
-  "pronunciation": "KINS'WOMAN",
-  "definition": {
-    "type": "noun",
-    "text": "A female relation."
-  }
+  "pronunciation": "KINS'WOMAN,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A female relation."
+    }
+  ]
 }

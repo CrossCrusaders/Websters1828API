@@ -1,8 +1,14 @@
 {
   "word": "Bruit",
-  "pronunciation": "BRUIT",
-  "definition": {
-    "type": "noun",
-    "text": "Report; rumor; fame.BRUIT, verb transitive To report; to noise abroad."
-  }
+  "pronunciation": "BRUIT,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Bruit\n Report; rumor; fame.BRUIT,"
+    },
+    {
+      "type": "verb transitive",
+      "text": "To report; to noise abroad."
+    }
+  ]
 }

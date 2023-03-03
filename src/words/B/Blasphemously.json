@@ -1,8 +1,10 @@
 {
   "word": "Blasphemously",
-  "pronunciation": "BLAS'PHEMOUSLY",
-  "definition": {
-    "type": "adverb",
-    "text": "Impiously; with impious irreverence to God."
-  }
+  "pronunciation": "BLAS'PHEMOUSLY,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Impiously; with impious irreverence to God."
+    }
+  ]
 }

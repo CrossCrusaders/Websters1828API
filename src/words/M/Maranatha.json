@@ -1,8 +1,10 @@
 {
   "word": "Maranatha",
-  "pronunciation": "MARANA'THA",
-  "definition": {
-    "type": "noun",
-    "text": "The Lord comes or has come; a word used by the apostle Paul in expressing a curse. This word was used in anathematizing persons for great crimes; as much as to say, 'may the Lord come quickly to take vengeance on thee for thy crimes.'"
-  }
+  "pronunciation": "MARANA'THA,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The Lord comes or has come; word used by the apostle Paul in expressing curse. This word was used in anathematizing persons for great crimes; as much as to say, 'may the Lord come quickly to take vengeance on thee for thy crimes.'"
+    }
+  ]
 }

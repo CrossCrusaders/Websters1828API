@@ -1,8 +1,10 @@
 {
   "word": "Teraphim",
-  "pronunciation": "TER'APHIM",
-  "definition": {
-    "type": "noun",
-    "text": "[Heb.] Household deities or images."
-  }
+  "pronunciation": "TER'APHIM,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Household deities or images."
+    }
+  ]
 }

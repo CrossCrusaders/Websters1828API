@@ -1,8 +1,10 @@
 {
   "word": "Overpass",
-  "pronunciation": "OVERP'ASS",
-  "definition": {
-    "type": "verb transitive",
-    "text": "1. To cross; to go over.\n2. To overlook; to pass without regard.\n3. To omit, as in reckoning.\n4. To omit; not to receive or include."
-  }
+  "pronunciation": "OVERP'ASS,",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "1. To cross; to go over.\n2. To overlook; to without regard.\n3. To omit, in reckoning.\n4. To omit; not to receive or include."
+    }
+  ]
 }

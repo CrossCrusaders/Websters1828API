@@ -1,8 +1,10 @@
 {
   "word": "Sorrowed",
-  "pronunciation": "SOR'ROWED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Accompanied with sorrow. [Not in use.]"
-  }
+  "pronunciation": "SOR'ROWED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Accompanied with sorrow. [Not in use.]"
+    }
+  ]
 }

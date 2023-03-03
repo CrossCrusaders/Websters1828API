@@ -1,8 +1,10 @@
 {
   "word": "Stripling",
-  "pronunciation": "STRIPLING [from strip, stripe; primarily a tall slender youth, one that shoots up suddenly.]",
-  "definition": {
-    "type": "noun",
-    "text": "A youth in the state of adolescence, or just passing from boyhood to manhood; a lad.\nAnd the king said, inquire thou whose son the stripling is. 1 Samuel 1 7:5\n6."
-  }
+  "pronunciation": "STRIPLING, [from strip, stripe; primarily a tall slender youth, one that shoots up suddenly.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A youth the state of adolescence, or just passing from boyhood to manhood; a lad.\nAnd the king said, inquire thou whose son the stripling is. 1 Samuel 17:56."
+    }
+  ]
 }

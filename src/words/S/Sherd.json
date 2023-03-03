@@ -1,8 +1,10 @@
 {
   "word": "Sherd",
-  "pronunciation": "SHERD",
-  "definition": {
-    "type": "noun",
-    "text": "A pragment; usually written shard, which see."
-  }
+  "pronunciation": "SHERD,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A pragment; usually written shard, which see."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Carefulness",
-  "pronunciation": "CAREFULNESS",
-  "definition": {
-    "type": "noun",
-    "text": "1. Anxiety; solicitude.Drink thy water with trembling and with carefulness Ezekiel 1 2:1\n8.\n2. Heedfulness; caution; vigilance, in guarding against evil, and providing for safety."
-  }
+  "pronunciation": "CAREFULNESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. Anxiety; solicitude.Drink thy water with trembling and with carefulness Ezekiel 12:18.\n2. Heedfulness; caution; vigilance, in guarding against evil, and providing for safety."
+    }
+  ]
 }

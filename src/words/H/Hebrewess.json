@@ -1,8 +1,10 @@
 {
   "word": "Hebrewess",
-  "pronunciation": "HE'BREWESS",
-  "definition": {
-    "type": "noun",
-    "text": "An Israelitish woman."
-  }
+  "pronunciation": "HE'BREWESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "An Israelitish woman."
+    }
+  ]
 }

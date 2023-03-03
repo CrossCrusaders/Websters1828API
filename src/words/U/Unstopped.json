@@ -1,8 +1,14 @@
 {
   "word": "Unstopped",
-  "pronunciation": "UNSTOP'PED",
-  "definition": {
-    "type": "participle passive",
-    "text": "1. Opened.\n2. adjective Not meeting any resistance."
-  }
+  "pronunciation": "UNSTOP'PED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Unstopped\n1. Opened.\n2."
+    },
+    {
+      "type": "adjective",
+      "text": "Not meeting any resistance."
+    }
+  ]
 }

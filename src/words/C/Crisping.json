@@ -1,8 +1,10 @@
 {
   "word": "Crisping",
-  "pronunciation": "CRISPING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Curling; frizzling."
-  }
+  "pronunciation": "CRISPING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Curling; frizzling."
+    }
+  ]
 }

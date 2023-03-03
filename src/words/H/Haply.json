@@ -1,8 +1,10 @@
 {
   "word": "Haply",
-  "pronunciation": "HAP'LY",
-  "definition": {
-    "type": "adverb",
-    "text": "By chance; perhaps; it may be.Lest haply ye be found to fight against God. Acts 5:3\n9.\n1. By accident; casually."
-  }
+  "pronunciation": "HAP'LY,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "By chance; perhaps; it may be.Lest haply ye be found to fight against God. Acts 5:39.\n1. By accident; casually."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Stanched",
-  "pronunciation": "STANCHED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Stopped or restrained from flowing."
-  }
+  "pronunciation": "STANCHED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Stopped or restrained from flowing."
+    }
+  ]
 }

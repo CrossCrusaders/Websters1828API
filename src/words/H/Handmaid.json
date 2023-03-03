@@ -1,8 +1,10 @@
 {
   "word": "Handmaid",
-  "pronunciation": "HAND'MAIDHAND'MAIDEN",
-  "definition": {
-    "type": "noun",
-    "text": "A maid that waits at hand; a female servant or attendant."
-  }
+  "pronunciation": "HAND'MAIDHAND'MAIDEN,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A that waits at hand; female servant or attendant."
+    }
+  ]
 }

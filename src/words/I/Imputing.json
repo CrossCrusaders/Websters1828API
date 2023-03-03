@@ -1,8 +1,10 @@
 {
   "word": "Imputing",
-  "pronunciation": "IMPU'TING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Charging to the account of; attributing; ascribing."
-  }
+  "pronunciation": "IMPU'TING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Charging to the account of; attributing; ascribing."
+    }
+  ]
 }

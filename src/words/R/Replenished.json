@@ -1,8 +1,10 @@
 {
   "word": "Replenished",
-  "pronunciation": "REPLEN'ISHED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Filled; abundantly supplied."
-  }
+  "pronunciation": "REPLEN'ISHED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Filled; abundantly supplied."
+    }
+  ]
 }

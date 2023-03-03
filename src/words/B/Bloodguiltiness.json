@@ -1,8 +1,10 @@
 {
   "word": "Bloodguiltiness",
-  "pronunciation": "BLOOD'GUILTINESS [blood and guilt.]",
-  "definition": {
-    "type": "noun",
-    "text": "The guilt or crime of shedding blood. Psalms 5 1:1\n4."
-  }
+  "pronunciation": "BLOOD'GUILTINESS, [blood and guilt.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The or crime of shedding blood. Psalms 51:14."
+    }
+  ]
 }

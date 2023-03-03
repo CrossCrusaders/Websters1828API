@@ -1,8 +1,10 @@
 {
   "word": "Plenteousness",
-  "pronunciation": "PLEN'TEOUSNESS",
-  "definition": {
-    "type": "noun",
-    "text": "Abundance; copious supply; plenty; as the seven years of plenteousness in Egypt."
-  }
+  "pronunciation": "PLEN'TEOUSNESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Abundance; copious supply; plenty; as the seven years of plenteousness in Egypt."
+    }
+  ]
 }

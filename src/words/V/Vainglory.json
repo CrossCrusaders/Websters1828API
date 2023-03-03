@@ -1,8 +1,10 @@
 {
   "word": "Vainglory",
-  "pronunciation": "VAINGLO'RY [vain and glory.]",
-  "definition": {
-    "type": "noun",
-    "text": "Exclusive vanity excited by one's own performances; empty pride; undue elation of mind.He hath nothing of vainglory Let nothing be done through strife or vainglory Philippians 2:3."
-  }
+  "pronunciation": "VAINGLO'RY, [vain and glory.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Exclusive vanity excited by one's own performances; empty pride; undue elation of mind.He hath nothing of vainglory Let nothing be done through strife vainglory Philippians 2:3."
+    }
+  ]
 }

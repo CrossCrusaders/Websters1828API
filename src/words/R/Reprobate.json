@@ -1,8 +1,18 @@
 {
   "word": "Reprobate",
-  "pronunciation": "REPROBATE [Latin reprobatus, reprobo, to disallow; re and probo, to prove.]\n",
-  "definition": {
-    "type": "adjective",
-    "text": "1. Not enduring proof or trial; not of standard purity or fineness; disallowed; rejected.\nREPROBATE silver shall men call them, because the Lord hath rejected them. Jeremiah 6:30.\n\n2. Abandoned in sin; lost to virtue or grace.\nThey profess that they know God, but in works deny him, being abominable and disobedient, and to every good work reprobate Titus 1:1 6.\n\n3. Abandoned to error, or in apostasy. 2 Timothy 3:8.\nREP'ROBATE, noun A person abandoned to sin; one lost to virtue and religion.\nI acknowledge myself a reprobate a villain, a traitor to the king.\nREP'ROBATE, verb transitive\n1. To disapprove with detestation or marks of extreme dislike; to disallow; to reject. It expresses more than disapprove or disallow. We disapprove of slight faults and improprieties; we reprobate what is mean or criminal.\n\n2. In a milder sense, to disallow.\nSuch an answer as this, is reprobated and disallowed of in law.\n\n3. To abandon to wickedness and eternal destruction.\n\n4. To abandon to his sentence, without hope of pardon.\nDrive him out to reprobated exile."
-  }
+  "pronunciation": "REPROBATE, [Latin reprobatus, reprobo, to disallow; re and probo, to prove.]\n",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "1. Not enduring proof or trial; not of standard purity or fineness; disallowed; rejected.\nREPROBATE silver shall men call them, because the Lord hath rejected them. Jeremiah 6:30.\n2. Abandoned in sin; lost to virtue or grace.\nThey profess that they know God, but in works deny him, being abominable and disobedient, and to every good work reprobate Titus 1:16.\n3. Abandoned to error, or in apostasy. 2 Timothy 3:8.\nREP'ROBATE,"
+    },
+    {
+      "type": "noun",
+      "text": "A person abandoned to sin; one lost to virtue and religion.\nI acknowledge myself reprobate villain, traitor to the king.\nREP'ROBATE,"
+    },
+    {
+      "type": "verb transitive",
+      "text": "1. To disapprove with detestation or marks of extreme dislike; to disallow; to reject. It expresses more than disapprove or disallow. We disapprove of slight faults and improprieties; we reprobate what is mean or criminal.\n2. In milder sense, to disallow.\nSuch an answer as this, is reprobated and disallowed of in law.\n3. To abandon to wickedness and eternal destruction.\n4. To abandon to his sentence, without hope of pardon.\nDrive him out to reprobated exile."
+    }
+  ]
 }

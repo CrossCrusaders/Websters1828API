@@ -1,8 +1,10 @@
 {
   "word": "Lasciviousness",
-  "pronunciation": "LASCIV'IOUSNESS",
-  "definition": {
-    "type": "noun",
-    "text": "1. Looseness; irregular indulgence of animal desires; wantonness; lustfulness.\nWho, being past feeling, have given themselves over to lasciviousness Ephesians  4:1 9.\n\n2. Tendency to excite lust, and promote irregular indulgences.\nThe reason pretended by Augustus was, the lasciviousness of his Elegies and his Art of Love."
-  }
+  "pronunciation": "LASCIV'IOUSNESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. Looseness; irregular indulgence of animal desires; wantonness; lustfulness.\nWho, being past feeling, have given themselves over to lasciviousness Ephesians  4:19.\n2. Tendency to excite lust, and promote irregular indulgences.\nThe reason pretended by Augustus was, the lasciviousness of his Elegies and his Art of Love."
+    }
+  ]
 }

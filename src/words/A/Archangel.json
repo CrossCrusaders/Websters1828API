@@ -1,8 +1,10 @@
 {
   "word": "Archangel",
-  "pronunciation": "ARCHAN'GEL",
-  "definition": {
-    "type": "noun",
-    "text": "1. An angel of the highest order; an angel occupying the eighth rank in the celestiai hierarchy.\n2. The name of several plants, as the dead-nettle, or lamium; a species of melittis; and the galeopsis or hedge-nettle."
-  }
+  "pronunciation": "ARCHAN'GEL,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. An of the highest order; occupying the eighth rank in the celestiai hierarchy.\n2. The name of several plants, as the dead-nettle, or lamium; species of melittis; and the galeopsis or hedge-nettle."
+    }
+  ]
 }

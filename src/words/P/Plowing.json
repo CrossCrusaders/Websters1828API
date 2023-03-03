@@ -1,8 +1,14 @@
 {
   "word": "Plowing",
-  "pronunciation": "PLOW'ING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Turning up with a plow; furrowing.PLOW'ING, noun The operation of turning up ground with a plow; as the first and second plowing; three plowings."
-  }
+  "pronunciation": "PLOW'ING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Plowing\n Turning up with a plow; furrowing.PLOW'ING,"
+    },
+    {
+      "type": "noun",
+      "text": "The operation of turning up ground with a plow; as the first and second plowing; three plowings."
+    }
+  ]
 }

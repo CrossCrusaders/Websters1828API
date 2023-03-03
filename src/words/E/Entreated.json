@@ -1,8 +1,10 @@
 {
   "word": "Entreated",
-  "pronunciation": "ENTRE'ATED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Earnestly supplicated, besought or solicited; importuned; urgently requested.\n1. Prevailed on by urgent solicitation; consenting to grant what is desired.\n2. Used; managed."
-  }
+  "pronunciation": "ENTRE'ATED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Earnestly supplicated, besought or solicited; importuned; urgently requested.\n1. Prevailed on by urgent solicitation; consenting to grant what is desired.\n2. Used; managed."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Extolled",
-  "pronunciation": "EXTOL'LED",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Exalted in commendation; praised; magnified."
-  }
+  "pronunciation": "EXTOL'LED,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Exalted in commendation; praised; magnified."
+    }
+  ]
 }

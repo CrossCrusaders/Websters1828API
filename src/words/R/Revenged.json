@@ -1,8 +1,10 @@
 {
   "word": "Revenged",
-  "pronunciation": "REVENG'ED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Punished in return for an injury; spitefully punished. The injury is revenged"
-  }
+  "pronunciation": "REVENG'ED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Punished in return for an injury; spitefully punished. The injury is revenged"
+    }
+  ]
 }

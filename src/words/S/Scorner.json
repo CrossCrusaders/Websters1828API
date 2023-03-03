@@ -1,8 +1,10 @@
 {
   "word": "Scorner",
-  "pronunciation": "SCORN'ER",
-  "definition": {
-    "type": "noun",
-    "text": "1. One that scorns; a contemner; a despiser.\nThey are great scorners of death.\n\n2. A scoffer; a derider; in Scripture, one who scoffs at religion, its ordinances and teachers, and who makes a mock of sin and the judgments and threatenings of God against sinners. Proverbs 1:22, Proverbs 1 9:2 5"
-  }
+  "pronunciation": "SCORN'ER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. One that scorns; a contemner; a despiser.\nThey are great scorners of death.\n2. A scoffer; a derider; in Scripture, one who scoffs at religion, its ordinances and teachers, and who makes a mock of sin and the judgments and threatenings of God against sinners. Proverbs 1:22, Proverbs 19:25"
+    }
+  ]
 }

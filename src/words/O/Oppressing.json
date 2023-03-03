@@ -1,8 +1,10 @@
 {
   "word": "Oppressing",
-  "pronunciation": "OPPRESS'ING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Overburdening."
-  }
+  "pronunciation": "OPPRESS'ING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Overburdening."
+    }
+  ]
 }

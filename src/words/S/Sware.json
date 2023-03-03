@@ -1,8 +1,10 @@
 {
   "word": "Sware",
-  "pronunciation": "SWARE",
-  "definition": {
-    "type": "preterit tense",
-    "text": "of swear. We now use swore.\nSWARE"
-  }
+  "pronunciation": "SWARE,",
+  "definitions": [
+    {
+      "type": "preterit tense",
+      "text": "old of swear. We now use swore.SWARE"
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Chode",
-  "pronunciation": "CHODE",
-  "definition": {
-    "type": "preterit",
-    "text": "of chide, which see."
-  }
+  "pronunciation": "CHODE,",
+  "definitions": [
+    {
+      "type": "preterit",
+      "text": "the old of chide, which see."
+    }
+  ]
 }

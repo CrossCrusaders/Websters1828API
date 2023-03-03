@@ -1,8 +1,10 @@
 {
   "word": "Shittah",
-  "pronunciation": "SHIT'TAH",
-  "definition": {
-    "type": "noun",
-    "text": "In Scripture, a sort of precious wood of which the tables, altars and"
-  }
+  "pronunciation": "SHIT'TAH,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "In Scripture, sort of precious wood of which the tables, altars and"
+    }
+  ]
 }

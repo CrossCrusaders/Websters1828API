@@ -1,8 +1,10 @@
 {
   "word": "Cornfloor",
-  "pronunciation": "CORNFLOOR",
-  "definition": {
-    "type": "noun",
-    "text": "A floor for corn, or for thrashing corn. Isaiah 2 1:\n10. Hosea  9:1."
-  }
+  "pronunciation": "CORNFLOOR,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A for corn, for thrashing corn. Isaiah 21:10. Hosea  9:1."
+    }
+  ]
 }

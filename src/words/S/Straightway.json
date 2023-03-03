@@ -1,8 +1,10 @@
 {
   "word": "Straightway",
-  "pronunciation": "STRAIGHTWAY [straight and way.]",
-  "definition": {
-    "type": "adverb",
-    "text": "Immediately; without loss of time; without delay.\nHe took the damsel by the hand, and said to her, Talitha cumi--and straightway the damsel arose. Mark 5:4 1- 4\n2. [Straightways is obsolete.]"
-  }
+  "pronunciation": "STRAIGHTWAY, [straight and way.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Immediately; without loss of time; without delay.\nHe took the damsel by the hand, and said to her, Talitha cumi--and straightway the damsel arose. Mark 5:41-\n42. [Straightways is obsolete.]"
+    }
+  ]
 }

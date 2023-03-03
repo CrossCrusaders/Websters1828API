@@ -1,8 +1,10 @@
 {
   "word": "Admonish",
-  "pronunciation": "ADMON'ISH [Latin admoneo, ad and moneo, to teach, warn, admonish ]\n",
-  "definition": {
-    "type": "verb transitive",
-    "text": "1. To warn or notify of a fault; to reprove with mildness.\nCount him not as an enemy, but admonish him as a brother. 2 Thessalonians 3:1 5.\n\n2. To counsel against wrong practices; to caution or advise.\nAdmonish one another in psalms and hymns. Colossians 3:1 6.\n\n3. To instruct or direct.\nMoses was admonished of God, when he was about to make the tabernacle. Hebrews 8:5.\n\n4. In ecclesiastical affairs, to reprove a member of the church for a fault, either publicly or privately; the first step of church discipline. It is followed by of, or against; as, to admonish of a fault committed, or against committing a fault. It has a like use in colleges."
-  }
+  "pronunciation": "ADMON'ISH, [Latin admoneo, ad and moneo, to teach, warn, admonish ]\n",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "1. To warn or notify of a fault; to reprove with mildness.\nCount him not as an enemy, but admonish him as a brother. 2 Thessalonians 3:15.\n2. To counsel against wrong practices; to caution or advise.\nAdmonish one another in psalms and hymns. Colossians 3:16.\n3. To instruct or direct.\nMoses was admonished of God, when he was about to make the tabernacle. Hebrews 8:5.\n4. In ecclesiastical affairs, to reprove a member of the church for a fault, either publicly or privately; the first step of church discipline. It followed by of, or against; as, to admonish of a fault committed, or against committing a fault. It has a like use in colleges."
+    }
+  ]
 }

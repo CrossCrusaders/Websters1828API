@@ -1,8 +1,10 @@
 {
   "word": "Stacte",
-  "pronunciation": "STACTE [Latin , Gr.]",
-  "definition": {
-    "type": "noun",
-    "text": "A fatty resinous liquid matter, of the nature of liquid myrrh, very odoriferous and highly valued. But it is said we have none but what is adulterated, and what is so called is liquid storax."
-  }
+  "pronunciation": "STACTE, [Latin , Gr.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A fatty resinous liquid matter, of the nature of liquid myrrh, very odoriferous and highly valued. But it is said we have none but what is adulterated, and what is so called is liquid storax."
+    }
+  ]
 }

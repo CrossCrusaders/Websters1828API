@@ -1,8 +1,10 @@
 {
   "word": "Haughtiness",
-  "pronunciation": "HAUGHTINESS",
-  "definition": {
-    "type": "noun",
-    "text": "hau'tiness. The quality of being haughty; pride mingled with some degree of contempt for others; arrogance.I will lay low the haughtiness of the terrible. Isaiah 1 3:11."
-  }
+  "pronunciation": "HAUGHTINESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "hau'tiness. The quality of being haughty; pride mingled with some degree of contempt for others; arrogance.I will lay low the haughtiness of the terrible. Isaiah 13:11."
+    }
+  ]
 }

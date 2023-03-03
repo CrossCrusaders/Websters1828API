@@ -1,8 +1,10 @@
 {
   "word": "Jah",
-  "pronunciation": "JAH",
-  "definition": {
-    "type": "noun",
-    "text": "Jehovah."
-  }
+  "pronunciation": "JAH,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Jehovah."
+    }
+  ]
 }

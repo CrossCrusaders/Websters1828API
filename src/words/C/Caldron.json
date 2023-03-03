@@ -1,8 +1,10 @@
 {
   "word": "Caldron",
-  "pronunciation": "CALDRON",
-  "definition": {
-    "type": "noun",
-    "text": "A large kettle or boiler, of copper, or other metal, furnished with a movable handle or bail, with which to hang it on a chimney hook."
-  }
+  "pronunciation": "CALDRON,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A large kettle or boiler, of copper, or other metal, furnished with movable handle or bail, with which to hang it chimney hook."
+    }
+  ]
 }

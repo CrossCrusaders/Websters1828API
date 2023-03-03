@@ -1,8 +1,18 @@
 {
   "word": "Tarry",
-  "pronunciation": "TAR'RY",
-  "definition": {
-    "type": "verb",
-    "text": "intransitive [Latin taurus, a bull.]\n1. To stay; to abide; to continue; to lodge.Tarry all night and wash your feet. Genesis 1 9:2.\n2. To stay behind. Exodus 1 2:3\n9.\n3. To stay in expectation; to wait.Tarry ye here for us, till we come again to you. Exodus 2 4:1\n4.\n4. To delay; to put off going or coming; to defer.Come down to me, tarry not. Genesis 4 5:9.\n5. To remain; to stay.He that telleth lies, shall not tarry in my sight. Psalms 10 1:7.TAR'RY, verb transitive To wait for.I cannot tarry dinner. [Not in use.]T'ARRY, adjective [from tar.] Consisting of tar, or like tar."
-  }
+  "pronunciation": "TAR'RY, [Latin taurus, a bull.] [from tar.]",
+  "definitions": [
+    {
+      "type": "verb intransitive",
+      "text": "Tarry\n [Latin taurus, bull.]\n1. To stay; to abide; to continue; to lodge.Tarry all night and wash your feet. Genesis 19:2.\n2. To stay behind. Exodus 12:39.\n3. To stay in expectation; to wait.Tarry ye here for us, till we come again to you. Exodus 24:14.\n4. To delay; to put off going or coming; to defer.Come down to me, tarry not. Genesis 45:9.\n5. To remain; to stay.He that telleth lies, shall not tarry in my sight. Psalms 101:7.TAR'RY,"
+    },
+    {
+      "type": "verb transitive",
+      "text": "To wait for.I cannot tarry dinner. [Not in use.]T'ARRY,"
+    },
+    {
+      "type": "adjective",
+      "text": "Consisting of tar, or like tar."
+    }
+  ]
 }

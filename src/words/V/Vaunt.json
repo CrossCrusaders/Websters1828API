@@ -1,8 +1,22 @@
 {
   "word": "Vaunt",
-  "pronunciation": "V'AUNT",
-  "definition": {
-    "type": "verb",
-    "text": "intransitive [Latin vanus. This ought to be written vant.]To boast; to make a vain display of one's own worth, attainments or decorations; to talk with vain ostentation; to brag.Pride - prompts a man to vaunt and overvalue what he is.V'AUNT, verb transitive To boast of; to make a vain display of.My vanquisher, spoil'd of his vaunted spoil.Charity vaunteth not itself. 1 Corinthians 1 3:4.V'AUNT, noun Boast; a vain display of what one is or has, or has done; ostentation from vanity.Him I seduc'd with other vaunts and other promises.V'AUNT, noun The first part. [Not used.]"
-  }
+  "pronunciation": "V'AUNT, [Latin vanus. This ought to be written vant.]To",
+  "definitions": [
+    {
+      "type": "verb intransitive",
+      "text": "Vaunt\n [Latin vanus. This ought to be written vant.]To boast; to make vain display of one's own worth, attainments or decorations; to talk with vain ostentation; to brag.Pride - prompts man to vaunt and overvalue what he is.V'AUNT,"
+    },
+    {
+      "type": "verb transitive",
+      "text": "To boast of; to make vain display of.My vanquisher, spoil'd of his vaunted spoil.Charity vaunteth not itself. 1 Corinthians 13:4.V'AUNT,"
+    },
+    {
+      "type": "noun",
+      "text": "Boast; vain display of what one is or has, or has done; ostentation from vanity.Him I seduc'd with other vaunts and other promises.V'AUNT,"
+    },
+    {
+      "type": "noun",
+      "text": "The first part. [Not used.]"
+    }
+  ]
 }

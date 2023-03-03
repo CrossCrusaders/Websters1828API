@@ -1,8 +1,10 @@
 {
   "word": "Deepness",
-  "pronunciation": "DEEPNESS",
-  "definition": {
-    "type": "noun",
-    "text": "1. Depth; remoteness from the surface in a descending line; interior distance from the surface; profundity.\nAnd forthwith they sprung up, because they had no deepness of earth. Matthew 1 3:5\n\n2. Craft; insidiousness."
-  }
+  "pronunciation": "DEEPNESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. Depth; remoteness from the surface in a descending line; interior distance from the surface; profundity.\nAnd forthwith they sprung up, because they had no deepness of earth. Matthew 13:5\n2. Craft; insidiousness."
+    }
+  ]
 }

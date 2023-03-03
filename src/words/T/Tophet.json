@@ -1,8 +1,10 @@
 {
   "word": "Tophet",
-  "pronunciation": "TO'PHET [Heb. tophet a drum.]",
-  "definition": {
-    "type": "noun",
-    "text": "Hell; so called from a place east of Jerusalem where children were burnt to Moloch, and where drums were used to drown their cries."
-  }
+  "pronunciation": "TO'PHET, [Heb. tophet a drum.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Hell; so called from a place east of Jerusalem where children were burnt to Moloch, and where drums were used to drown their cries."
+    }
+  ]
 }

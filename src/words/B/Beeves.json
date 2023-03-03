@@ -1,8 +1,10 @@
 {
   "word": "Beeves",
-  "pronunciation": "BEEVES",
-  "definition": {
-    "type": "noun",
-    "text": "plural of beef. Cattle; quadrupeds of the bovine genus, called in England, black cattle."
-  }
+  "pronunciation": "BEEVES,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "plural of beef. Cattle; quadrupeds of the bovine genus, called in England, black cattle."
+    }
+  ]
 }

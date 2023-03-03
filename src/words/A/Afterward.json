@@ -1,8 +1,10 @@
 {
   "word": "Afterward",
-  "pronunciation": "'AFTERWARD [See Ward.]",
-  "definition": {
-    "type": "adverb",
-    "text": "In later or subsequent time."
-  }
+  "pronunciation": "'AFTERWARD, [See Ward.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "or 'AFTERWARDS, [See Ward.] In later or subsequent time."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Slandered",
-  "pronunciation": "SLA'NDERED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Defamed; injured in good name by false and malicious reports."
-  }
+  "pronunciation": "SLA'NDERED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Defamed; injured in good name by false malicious reports."
+    }
+  ]
 }

@@ -1,8 +1,14 @@
 {
   "word": "Scorning",
-  "pronunciation": "SCORN'ING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Holding in great contempt; despising; disdaining.SCORN'ING, noun The act of contemning; a treating with contempt, slight or disdain.How long will the scorners delight in their scorning?Proverbs 1:22. Psalms 1 2 3:4."
-  }
+  "pronunciation": "SCORN'ING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Scorning\n Holding great contempt; despising; disdaining.SCORN'ING,"
+    },
+    {
+      "type": "noun",
+      "text": "The act of contemning; a treating with contempt, slight disdain.How long will the scorners delight their scorning?Proverbs 1:22. Psalms 123:4."
+    }
+  ]
 }

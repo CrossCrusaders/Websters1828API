@@ -1,8 +1,10 @@
 {
   "word": "Rewarder",
-  "pronunciation": "REWARD'ER",
-  "definition": {
-    "type": "noun",
-    "text": "One who rewards; one that requites or recompenses. Hebrews 11:6."
-  }
+  "pronunciation": "REWARD'ER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "One who rewards; one that requites or recompenses. Hebrews 11:6."
+    }
+  ]
 }

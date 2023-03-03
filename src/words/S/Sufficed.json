@@ -1,8 +1,10 @@
 {
   "word": "Sufficed",
-  "pronunciation": "SUFFICED",
-  "definition": {
-    "type": "participle passive",
-    "text": "suffi'zed. Satisfied; adequately supplied."
-  }
+  "pronunciation": "SUFFICED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "suffi'zed. Satisfied; adequately supplied."
+    }
+  ]
 }

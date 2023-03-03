@@ -1,8 +1,10 @@
 {
   "word": "Evermore",
-  "pronunciation": "EVERMO'RE [ever and more.]",
-  "definition": {
-    "type": "adverb",
-    "text": "Always; eternally.Religion prefers the pleasures which flow from the presence of God for evermore\n1. Always; at all times; as evermore guided by truth."
-  }
+  "pronunciation": "EVERMO'RE, [ever and more.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Always; eternally.Religion prefers the pleasures which flow from the presence of God for evermore\n1. Always; at all times; as evermore guided by truth."
+    }
+  ]
 }

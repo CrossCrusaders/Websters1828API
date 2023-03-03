@@ -1,8 +1,10 @@
 {
   "word": "Guiltless",
-  "pronunciation": "GUILT'LESS",
-  "definition": {
-    "type": "adjective",
-    "text": "Free from guilt, crime or offense; innocent.The Lord will not hold him guiltless that taketh his name in vain. Exodus 20:7.\n1. Not produced by the slaughter of animals.But from the mountain's grassy sideA guiltless feast I bring."
-  }
+  "pronunciation": "GUILT'LESS,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Free from guilt, crime or offense; innocent.The Lord will not hold him guiltless that taketh his name in vain. Exodus 20:7.\n1. Not produced by the slaughter of animals.But from the mountain's grassy sideA guiltless feast I bring."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Wast",
-  "pronunciation": "WAST",
-  "definition": {
-    "type": "",
-    "text": ""
-  }
+  "pronunciation": "WAST,",
+  "definitions": [
+    {
+      "type": "",
+      "text": "past tense of the substantive verb, in the second person; as, thou wast"
+    }
+  ]
 }

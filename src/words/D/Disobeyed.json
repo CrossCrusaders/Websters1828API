@@ -1,8 +1,10 @@
 {
   "word": "Disobeyed",
-  "pronunciation": "DISOBEYED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Not obeyed; neglected; transgressed."
-  }
+  "pronunciation": "DISOBEYED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Not obeyed; neglected; transgressed."
+    }
+  ]
 }

@@ -1,8 +1,14 @@
 {
   "word": "Forsaking",
-  "pronunciation": "FORSA'KING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Leaving or deserting.FORSA'KING, noun The act of deserting; dereliction."
-  }
+  "pronunciation": "FORSA'KING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Forsaking\n Leaving deserting.FORSA'KING,"
+    },
+    {
+      "type": "noun",
+      "text": "The act of deserting; dereliction."
+    }
+  ]
 }

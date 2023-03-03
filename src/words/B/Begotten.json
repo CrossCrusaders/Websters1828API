@@ -1,8 +1,10 @@
 {
   "word": "Begotten",
-  "pronunciation": "BEGOT'",
-  "definition": {
-    "type": "participle passive",
-    "text": "of get. Procreated; generated."
-  }
+  "pronunciation": "BEGOT',",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "BEGOT'TEN, of get. Procreated; generated."
+    }
+  ]
 }

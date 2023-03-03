@@ -1,8 +1,10 @@
 {
   "word": "Vilely",
-  "pronunciation": "VI'LELY",
-  "definition": {
-    "type": "adverb",
-    "text": "1. Basely; meanly; shamefully; as Hector vilely dragged about the walls of Troy.\n2. In a cowardly manner. 2 Samuel 1:2 1.The Volscians vilely yielded the town."
-  }
+  "pronunciation": "VI'LELY,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "1. Basely; meanly; shamefully; as Hector vilely dragged about the walls of Troy.\n2. In a cowardly manner. 2 Samuel 1:21.The Volscians vilely yielded the town."
+    }
+  ]
 }

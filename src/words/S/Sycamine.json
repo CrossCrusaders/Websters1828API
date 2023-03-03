@@ -1,8 +1,10 @@
 {
   "word": "Sycamine",
   "pronunciation": "SYCAMINE.",
-  "definition": {
-    "type": "[See Sycamore.]",
-    "text": ""
-  }
+  "definitions": [
+    {
+      "type": "",
+      "text": ""
+    }
+  ]
 }

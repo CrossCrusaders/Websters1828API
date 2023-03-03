@@ -1,8 +1,10 @@
 {
   "word": "Soothsayer",
-  "pronunciation": "SOOTH'SAYER",
-  "definition": {
-    "type": "noun",
-    "text": "A foreteller; a prognosticator; one who undertakes to foretell future events without inspiration."
-  }
+  "pronunciation": "SOOTH'SAYER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A foreteller; prognosticator; one who undertakes to foretell future events without inspiration."
+    }
+  ]
 }

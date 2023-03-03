@@ -1,8 +1,10 @@
 {
   "word": "Abominably",
-  "pronunciation": "ABOM'INABLY",
-  "definition": {
-    "type": "adverb",
-    "text": "1. Very odiously; detestably; sinfully. 1 Kings 2 1:2\n6.\n2. In vulgar language, extremely, excessively."
-  }
+  "pronunciation": "ABOM'INABLY,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "1. Very odiously; detestably; sinfully. 1 Kings 21:26.\n2. In vulgar language, extremely, excessively."
+    }
+  ]
 }

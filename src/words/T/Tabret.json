@@ -1,8 +1,10 @@
 {
   "word": "Tabret",
-  "pronunciation": "TAB'RET [See Tabor.]",
-  "definition": {
-    "type": "noun",
-    "text": "A tabor. 1 Samuel 1 8:6."
-  }
+  "pronunciation": "TAB'RET, [See Tabor.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A tabor. 1 Samuel 18:6."
+    }
+  ]
 }

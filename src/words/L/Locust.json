@@ -1,8 +1,14 @@
 {
   "word": "Locust",
-  "pronunciation": "LO'CUST [Latin locusta.]",
-  "definition": {
-    "type": "noun",
-    "text": "An insect of the genus Gryllus. These insects are at times so numerous in Africa and the S. of Asia as to devour every green thing, and when they migrate, they fly in an immense cloud.LO'CUST, noun A name of several plants and trees; as a species of Melianthus, and of Ceratonia."
-  }
+  "pronunciation": "LO'CUST, [Latin locusta.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Locust\n [Latin locusta.] An insect of the genus Gryllus. These insects are at times so numerous in Africa and the S. of Asia as to devour every green thing, and when they migrate, they fly in an immense cloud.LO'CUST,"
+    },
+    {
+      "type": "noun",
+      "text": "A name of several plants and trees; as a species of Melianthus, and of Ceratonia."
+    }
+  ]
 }

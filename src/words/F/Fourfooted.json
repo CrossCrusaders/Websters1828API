@@ -1,8 +1,10 @@
 {
   "word": "Fourfooted",
-  "pronunciation": "FOURFOOTED",
-  "definition": {
-    "type": "adjective",
-    "text": "Quadruped; having four feet; as the horse and the ox."
-  }
+  "pronunciation": "FOURFOOTED,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Quadruped; having four feet; as the horse and the ox."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Saltness",
-  "pronunciation": "SALT'NESS",
-  "definition": {
-    "type": "noun",
-    "text": "1. The quality of being impregnated with salt; as the saltness of sea water or of provisions.\n\n2. Taste of salt.\nFirst occurrence in the Bible(KJV): Mark 9:50"
-  }
+  "pronunciation": "SALT'NESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. The quality of being impregnated with salt; as the saltness of sea water or of provisions.\n2. Taste of salt.\nFirst occurrence in the Bible(KJV): Mark 9:50"
+    }
+  ]
 }

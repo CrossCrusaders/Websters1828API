@@ -1,8 +1,10 @@
 {
   "word": "Falsifying",
-  "pronunciation": "FALS'IFYING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Counterfeiting; forging; lying; proving to be false; violating."
-  }
+  "pronunciation": "FALS'IFYING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Counterfeiting; forging; lying; proving to be false; violating."
+    }
+  ]
 }

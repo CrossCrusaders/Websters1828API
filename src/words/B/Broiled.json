@@ -1,8 +1,10 @@
 {
   "word": "Broiled",
-  "pronunciation": "BROIL'ED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Agitated or dressed by heat."
-  }
+  "pronunciation": "BROIL'ED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Agitated or dressed by heat."
+    }
+  ]
 }

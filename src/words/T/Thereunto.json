@@ -1,8 +1,10 @@
 {
   "word": "Thereunto",
-  "pronunciation": "THEREUNTO' [there and to or unto.]",
-  "definition": {
-    "type": "adverb",
-    "text": "To that or this.\nAdd the fifth part thereto. Leviticus 5:1\n6."
-  }
+  "pronunciation": "THEREUNTO', [there and to or unto.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "To that or this.\nAdd the fifth part thereto. Leviticus 5:16."
+    }
+  ]
 }

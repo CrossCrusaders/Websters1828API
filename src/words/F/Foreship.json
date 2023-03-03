@@ -1,8 +1,10 @@
 {
   "word": "Foreship",
-  "pronunciation": "FO'RESHIP",
-  "definition": {
-    "type": "noun",
-    "text": "The forepart of a ship. Acts 2 8:1."
-  }
+  "pronunciation": "FO'RESHIP,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The forepart of a ship. Acts 28:1."
+    }
+  ]
 }

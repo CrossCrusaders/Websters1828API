@@ -1,8 +1,10 @@
 {
   "word": "Wilily",
-  "pronunciation": "WILILY [from wily.]",
-  "definition": {
-    "type": "adverb",
-    "text": "By stratagem; with insidious art. Joshua 9:4."
-  }
+  "pronunciation": "WILILY, [from wily.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "By stratagem; with insidious art. Joshua 9:4."
+    }
+  ]
 }

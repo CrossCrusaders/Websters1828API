@@ -1,8 +1,10 @@
 {
   "word": "Sith",
-  "pronunciation": "SITH",
-  "definition": {
-    "type": "adverb",
-    "text": "Since; in later times."
-  }
+  "pronunciation": "SITH,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Since; in later times."
+    }
+  ]
 }

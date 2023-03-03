@@ -1,8 +1,14 @@
 {
   "word": "Digged",
-  "pronunciation": "DIGGED",
-  "definition": {
-    "type": "preterit tense and participle passive",
-    "text": "of dig."
-  }
+  "pronunciation": "DIGGED,",
+  "definitions": [
+    {
+      "type": "preterit tense",
+      "text": "Digged\n and"
+    },
+    {
+      "type": "participle passive",
+      "text": "of dig."
+    }
+  ]
 }

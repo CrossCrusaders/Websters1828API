@@ -1,8 +1,10 @@
 {
   "word": "Badness",
-  "pronunciation": "BAD'NESS",
-  "definition": {
-    "type": "noun",
-    "text": "The state of being bad, evil, vicious or depraved; want of good qualities, natural or moral; as the badness of the heart, of the season, of the roads, _ c."
-  }
+  "pronunciation": "BAD'NESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The state of being bad, evil, vicious or depraved; want of good qualities, natural or moral; as the badness of the heart, of the season, of the roads, _ c."
+    }
+  ]
 }

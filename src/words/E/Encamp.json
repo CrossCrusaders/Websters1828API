@@ -1,8 +1,14 @@
 {
   "word": "Encamp",
-  "pronunciation": "ENCAMP'",
-  "definition": {
-    "type": "verb",
-    "text": "intransitive [from camp.] To pitch tents or form huts, as an army; to halt on a march, spread tents and remain for a night or for a longer time, as an army or company.\nThey encamped in Etham. Exodus 1 3:20.\nThe Levites shall encamp about the tabernacle. Numbers 1:50.\n\n1. To pitch tents for the purpose of a siege; to besiege.\nENCAMP against the city and take it. 2 Samuel 1 2:2 8.\nENCAMP', verb transitive To form into a camp; to place a marching army or company in a temporary habitation or quarters."
-  }
+  "pronunciation": "ENCAMP', [from camp.]",
+  "definitions": [
+    {
+      "type": "verb intransitive",
+      "text": "Encamp\n [from camp.] To pitch tents or form huts, as an army; to halt on march, spread tents and remain for night or for longer time, as an army or company.\nThey encamped in Etham. Exodus 13:20.\nThe Levites shall encamp about the tabernacle. Numbers 1:50.\n1. To pitch tents for the purpose of siege; to besiege.\nENCAMP against the city and take it. 2 Samuel 12:28.\nENCAMP',"
+    },
+    {
+      "type": "verb transitive",
+      "text": "To form into camp; to place marching army or company in temporary habitation or quarters."
+    }
+  ]
 }

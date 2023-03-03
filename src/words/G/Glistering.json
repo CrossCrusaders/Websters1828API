@@ -1,8 +1,10 @@
 {
   "word": "Glistering",
-  "pronunciation": "GLIS'TERING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Shining; sparkling with light."
-  }
+  "pronunciation": "GLIS'TERING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Shining; sparkling with light."
+    }
+  ]
 }

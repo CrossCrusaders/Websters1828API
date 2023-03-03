@@ -1,8 +1,10 @@
 {
   "word": "Straitness",
-  "pronunciation": "STRAITNESS",
-  "definition": {
-    "type": "noun",
-    "text": "1. Narrowness; as the straitness of a place; straitness of mind; straitness of circumstances.\n2. Strictness; rigor; as the straitness of a mans proceedings.\n3. Distress; difficulty; pressure from necessity of any kind, particularly from poverty.\n4. Want; scarcity; or rather narrowness; as the straitness of the conveniences of life."
-  }
+  "pronunciation": "STRAITNESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. Narrowness; as the straitness of place; straitness of mind; straitness of circumstances.\n2. Strictness; rigor; as the straitness of mans proceedings.\n3. Distress; difficulty; pressure from necessity of any kind, particularly from poverty.\n4. Want; scarcity; or rather narrowness; as the straitness of the conveniences of life."
+    }
+  ]
 }

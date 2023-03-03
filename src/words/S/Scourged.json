@@ -1,8 +1,10 @@
 {
   "word": "Scourged",
-  "pronunciation": "SCOURG'ED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Whipped; lashed; punished severely; harassed."
-  }
+  "pronunciation": "SCOURG'ED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Whipped; lashed; punished severely; harassed."
+    }
+  ]
 }

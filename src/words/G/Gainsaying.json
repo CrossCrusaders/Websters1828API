@@ -1,8 +1,10 @@
 {
   "word": "Gainsaying",
-  "pronunciation": "GAINSA'YING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Contradicting; denying; opposing."
-  }
+  "pronunciation": "GAINSA'YING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Contradicting; denying; opposing."
+    }
+  ]
 }

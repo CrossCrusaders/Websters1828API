@@ -1,8 +1,10 @@
 {
   "word": "Discomfited",
-  "pronunciation": "DISCOMFITED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Routed; defeated; overthrown."
-  }
+  "pronunciation": "DISCOMFITED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Routed; defeated; overthrown."
+    }
+  ]
 }

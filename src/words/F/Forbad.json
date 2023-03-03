@@ -1,8 +1,10 @@
 {
   "word": "Forbad",
-  "pronunciation": "FORBAD'",
-  "definition": {
-    "type": "preterit tense",
-    "text": "of forbid."
-  }
+  "pronunciation": "FORBAD',",
+  "definitions": [
+    {
+      "type": "preterit tense",
+      "text": "of forbid."
+    }
+  ]
 }

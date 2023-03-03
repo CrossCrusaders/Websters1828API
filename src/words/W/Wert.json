@@ -1,8 +1,10 @@
 {
   "word": "Wert",
-  "pronunciation": "WERT",
-  "definition": {
-    "type": "[See Were.]\nWerth,",
-    "text": ""
-  }
+  "pronunciation": "WERT,",
+  "definitions": [
+    {
+      "type": "",
+      "text": "the second person singular of the subjunctive imperfect tense of be. [See Were.]\nWerth, worth, in names, signifies a farm, court or village.\nFirst occurrence in the Bible(KJV): Job 8:6"
+    }
+  ]
 }

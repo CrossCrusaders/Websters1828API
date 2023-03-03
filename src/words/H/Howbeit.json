@@ -1,8 +1,10 @@
 {
   "word": "Howbeit",
-  "pronunciation": "HOWBE'IT [how, be, and it.]",
-  "definition": {
-    "type": "adverb",
-    "text": "Be it as it may; nevertheless; notwithstanding; yet; but; however."
-  }
+  "pronunciation": "HOWBE'IT, [how, be, and it.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Be as may; nevertheless; notwithstanding; yet; but; however."
+    }
+  ]
 }

@@ -1,8 +1,14 @@
 {
   "word": "Foretell",
-  "pronunciation": "FORETELL'",
-  "definition": {
-    "type": "verb transitive",
-    "text": "1. To predict; to tell before an event happens; to prophesy.\n\n2. To foretoken; to foreshow.\nFORETELL', verb intransitive To utter prediction or prophecy.\nAll the prophets from Samuel, and those that follow after, as many as have spoken, have likewise foretold of these days.\nActs 3:2\n4."
-  }
+  "pronunciation": "FORETELL',",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "Foretell\n1. To predict; to before an event happens; to prophesy.\n2. To foretoken; to foreshow.\nFORETELL',"
+    },
+    {
+      "type": "verb intransitive",
+      "text": "To utter prediction prophecy.\nAll the prophets from Samuel, and those that follow after, as many as have spoken, have likewise foretold of these days.\nActs 3:24."
+    }
+  ]
 }

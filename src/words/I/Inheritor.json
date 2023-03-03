@@ -1,8 +1,10 @@
 {
   "word": "Inheritor",
-  "pronunciation": "INHER'ITOR",
-  "definition": {
-    "type": "noun",
-    "text": "An heir; one who inherits or may inherit."
-  }
+  "pronunciation": "INHER'ITOR,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "An heir; one who inherits may inherit."
+    }
+  ]
 }

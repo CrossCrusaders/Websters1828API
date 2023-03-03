@@ -1,8 +1,10 @@
 {
   "word": "Gourd",
-  "pronunciation": "GOURD",
-  "definition": {
-    "type": "noun",
-    "text": "A plant and its fruit, of the genus Cucurbita. There are several species, as the bottle-gourd, the shell-gourd or calabash, the warted gourd etc. The shell is sometimes used for a piggin or for a bottle.\nFirst Occurrence in the Bible(KJV): Jonah 4:6"
-  }
+  "pronunciation": "GOURD,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A plant and its fruit, of the genus Cucurbita. There are several species, as the bottle-gourd, the shell-gourd or calabash, the warted gourd etc. The shell is sometimes used for a piggin or for a bottle.\nFirst Occurrence in the Bible(KJV): Jonah 4:6"
+    }
+  ]
 }

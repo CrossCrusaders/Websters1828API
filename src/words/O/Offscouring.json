@@ -1,8 +1,10 @@
 {
   "word": "Offscouring",
-  "pronunciation": "OFF'SCOURING [off and scour.]",
-  "definition": {
-    "type": "noun",
-    "text": "That which is scoured off; hence, refuse; rejected matter; that which is vile or despised. Lamentations 3:4\n5. 1 Corinthians 4:1\n3."
-  }
+  "pronunciation": "OFF'SCOURING, [off and scour.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "That which is scoured off; hence, refuse; rejected matter; that which is vile or despised. Lamentations 3:45. 1 Corinthians 4:13."
+    }
+  ]
 }

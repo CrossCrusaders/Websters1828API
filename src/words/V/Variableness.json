@@ -1,8 +1,10 @@
 {
   "word": "Variableness",
-  "pronunciation": "VA'RIABLENESS",
-  "definition": {
-    "type": "noun",
-    "text": "1. Susceptibility of change; liableness or aptness to alter; changeableness; as the variableness of the weather.\n2. Inconstancy; fickleness; unsteadiness; levity; as the variableness of human passions."
-  }
+  "pronunciation": "VA'RIABLENESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. Susceptibility of change; liableness or aptness to alter; changeableness; as the variableness of the weather.\n2. Inconstancy; fickleness; unsteadiness; levity; as the variableness of human passions."
+    }
+  ]
 }

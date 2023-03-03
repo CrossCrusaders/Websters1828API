@@ -1,8 +1,10 @@
 {
   "word": "Drave",
-  "pronunciation": "DRAVE",
-  "definition": {
-    "type": "participle",
-    "text": "of drive. We now use drove."
-  }
+  "pronunciation": "DRAVE,",
+  "definitions": [
+    {
+      "type": "participle",
+      "text": "the old of drive. We now use drove."
+    }
+  ]
 }

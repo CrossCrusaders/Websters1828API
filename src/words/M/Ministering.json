@@ -1,8 +1,10 @@
 {
   "word": "Ministering",
-  "pronunciation": "MIN'ISTERING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Attending and serving as a subordinate agent; serving under superior authority. Hebrews 1:1\n4.\n1. Affording aid or supplies; administering things needful."
-  }
+  "pronunciation": "MIN'ISTERING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Attending and serving as a subordinate agent; serving under superior authority. Hebrews 1:14.\n1. Affording aid or supplies; administering things needful."
+    }
+  ]
 }

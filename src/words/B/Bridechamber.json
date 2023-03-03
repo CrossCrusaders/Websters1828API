@@ -1,8 +1,10 @@
 {
   "word": "Bridechamber",
-  "pronunciation": "BRI'DECHAMBER",
-  "definition": {
-    "type": "noun",
-    "text": "The nuptial apartment. Matthew 9:1\n5."
-  }
+  "pronunciation": "BRI'DECHAMBER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The nuptial apartment. Matthew 9:15."
+    }
+  ]
 }

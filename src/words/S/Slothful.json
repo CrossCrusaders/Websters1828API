@@ -1,8 +1,10 @@
 {
   "word": "Slothful",
-  "pronunciation": "SLOTH'FUL",
-  "definition": {
-    "type": "adjective",
-    "text": "Inactive; sluggish; lazy; indolent; idle. He that is slothful in his work, is brother to him that is a great waster. Proverbs 1 8:9."
-  }
+  "pronunciation": "SLOTH'FUL,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Inactive; sluggish; lazy; indolent; idle. He that is slothful in his work, is brother to him that is a great waster. Proverbs 18:9."
+    }
+  ]
 }

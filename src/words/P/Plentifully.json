@@ -1,8 +1,10 @@
 {
   "word": "Plentifully",
-  "pronunciation": "PLEN'TIFULLY",
-  "definition": {
-    "type": "adverb",
-    "text": "Copiously; abundantly; with ample supply."
-  }
+  "pronunciation": "PLEN'TIFULLY,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Copiously; abundantly; with ample supply."
+    }
+  ]
 }

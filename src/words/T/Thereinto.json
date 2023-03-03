@@ -1,8 +1,10 @@
 {
   "word": "Thereinto",
-  "pronunciation": "THEREINTO' [there and into.]",
-  "definition": {
-    "type": "adverb",
-    "text": "Into that."
-  }
+  "pronunciation": "THEREINTO', [there and into.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Into that."
+    }
+  ]
 }

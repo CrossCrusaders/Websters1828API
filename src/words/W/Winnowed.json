@@ -1,8 +1,10 @@
 {
   "word": "Winnowed",
-  "pronunciation": "WINNOWED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Separated from the chaff by wind; sifted; examined."
-  }
+  "pronunciation": "WINNOWED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Separated from the chaff by wind; sifted; examined."
+    }
+  ]
 }

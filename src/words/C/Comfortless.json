@@ -1,8 +1,10 @@
 {
   "word": "Comfortless",
-  "pronunciation": "COMFORTLESS",
-  "definition": {
-    "type": "adjective",
-    "text": "Without comfort; without any thing to alleviate misfortune, or distress.I will not leave you comfortless John 1 4:1\n8."
-  }
+  "pronunciation": "COMFORTLESS,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Without comfort; without any thing to alleviate misfortune, distress.I will not leave you comfortless John 14:18."
+    }
+  ]
 }

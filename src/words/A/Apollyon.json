@@ -1,8 +1,10 @@
 {
   "word": "Apollyon",
-  "pronunciation": "APOL'LYON [Gr. destroying.]The",
-  "definition": {
-    "type": "noun",
-    "text": "destroyer; a name used Revelation 9:11, for the angel of the bottomless pit, answering to the Hebrew Abaddon."
-  }
+  "pronunciation": "APOL'LYON, [Gr. destroying.]The",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The destroyer; a name used Revelation 9:11, for the angel of the bottomless pit, answering to the Hebrew Abaddon."
+    }
+  ]
 }

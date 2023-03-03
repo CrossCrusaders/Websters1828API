@@ -1,8 +1,10 @@
 {
   "word": "Sheepfold",
-  "pronunciation": "SHEE'PFOLD [sheep and fold.]",
-  "definition": {
-    "type": "noun",
-    "text": "A place where sheep are collected or confined."
-  }
+  "pronunciation": "SHEE'PFOLD, [sheep and fold.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A place where sheep are collected or confined."
+    }
+  ]
 }

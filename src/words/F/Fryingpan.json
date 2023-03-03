@@ -1,8 +1,10 @@
 {
   "word": "Fryingpan",
-  "pronunciation": "FRY'INGPAN",
-  "definition": {
-    "type": "noun",
-    "text": "a pan with a long handle, used for frying meat and vegetables."
-  }
+  "pronunciation": "FRY'INGPAN,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "with long handle, used for frying meat and vegetables."
+    }
+  ]
 }

@@ -1,8 +1,14 @@
 {
   "word": "Exhort",
-  "pronunciation": "EXHORT'",
-  "definition": {
-    "type": "verb transitive",
-    "text": "egzhort'. [Latin exhortor; ex and hortor, to encourage, to embolden, to cheer, to advise. The primary sense seems to be to excite or to give strength, spirit or courage.]\n1. To incite by words or advice; to animate or urge by arguments to a good deed or to any laudable conduct or course of action.I exhort you to be of good cheer. Acts 2 7:22.Young men also exhort to be sober minded.EXHORT servants to be obedient to their masters. Titus 2:6.\n2. To advise; to warn; to caution.\n3. To incite or stimulate to exertion.EXHORT', verb intransitive To deliver exhortation; to use words or arguments to incite to good deeds.And with many other words did he testify and exhort Acts 2:40."
-  }
+  "pronunciation": "EXHORT',",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "Exhort\n egzhort'. [Latin exhortor; ex and hortor, to encourage, to embolden, to cheer, to advise. The primary sense seems to be to excite to give strength, spirit courage.]\n1. To incite by words advice; to animate urge by arguments to a good deed to any laudable conduct course of action.I exhort you to be of good cheer. Acts 27:22.Young men also exhort to be sober minded.EXHORT servants to be obedient to their masters. Titus 2:6.\n2. To advise; to warn; to caution.\n3. To incite stimulate to exertion.EXHORT',"
+    },
+    {
+      "type": "verb intransitive",
+      "text": "To deliver exhortation; to use words arguments to incite to good deeds.And with many other words did he testify and exhort Acts 2:40."
+    }
+  ]
 }

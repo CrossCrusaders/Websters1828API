@@ -1,8 +1,10 @@
 {
   "word": "Wantonness",
-  "pronunciation": "WANTONNESS",
-  "definition": {
-    "type": "noun",
-    "text": "1. Sportiveness; gaiety; frolicsomeness; waggery.\n- As sad as night, only for wantonness\n2. Licentiousness; negligence of restraint.\nThe tumults threatened to abuse all acts of grace, and turn them into wantonness\n3. Lasciviousness; lewdness. Romans  1 3:1\n3. 2 Peter  2:1 8"
-  }
+  "pronunciation": "WANTONNESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. Sportiveness; gaiety; frolicsomeness; waggery.\n- As sad as night, only for wantonness\n2. Licentiousness; negligence of restraint.\nThe tumults threatened abuse all acts of grace, and turn them into wantonness\n3. Lasciviousness; lewdness. Romans  13:13. 2 Peter  2:18"
+    }
+  ]
 }

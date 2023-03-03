@@ -1,8 +1,10 @@
 {
   "word": "Gnat",
-  "pronunciation": "GNAT",
-  "definition": {
-    "type": "noun",
-    "text": "nat. A small insect, or rather a genus of insects, the Culex, whose long cylindric body is composed of eight rings. They have six legs and their mouth is formed by a flexible sheath, inclosing bristles pointed like stings. The sting is a tube containing five or six spicula of exquisite fineness, dentated or edged. The most troublesome of this genus is the musketoe.\n1. Any thing proverbially small.Ye blind guides, who strain at a gnat and swallow a camel. Matthew 2 3:2\n4."
-  }
+  "pronunciation": "GNAT,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "nat. A small insect, or rather genus of insects, the Culex, whose long cylindric body is composed of eight rings. They have six legs and their mouth is formed by flexible sheath, inclosing bristles pointed like stings. The sting is tube containing five or six spicula of exquisite fineness, dentated or edged. The most troublesome of this genus is the musketoe.\n1. Any thing proverbially small.Ye blind guides, who strain gnat and swallow camel. Matthew 23:24."
+    }
+  ]
 }

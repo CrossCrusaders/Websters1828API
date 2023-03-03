@@ -1,8 +1,10 @@
 {
   "word": "Mollified",
-  "pronunciation": "MOL'LIFIED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Softened; appeased."
-  }
+  "pronunciation": "MOL'LIFIED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Softened; appeased."
+    }
+  ]
 }

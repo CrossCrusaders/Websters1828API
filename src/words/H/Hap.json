@@ -1,8 +1,14 @@
 {
   "word": "Hap",
-  "pronunciation": "HAP [Latin capio.]",
-  "definition": {
-    "type": "noun",
-    "text": "1. That which comes suddenly or unexpectedly; chance; fortune; accident; casual event. [See Chance and Casual.]Whether art it was or heedless hap Curs'd by good haps, and curs'd be they that buildTheir hopes on haps.\n2. Misfortune. [But this word is obsolete or obsolescent, except in compounds and derivatives.]HAP, verb intransitive To happen; to befall; to come by chance."
-  }
+  "pronunciation": "HAP, [Latin capio.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Hap\n [Latin capio.]\n1. That which comes suddenly or unexpectedly; chance; fortune; accident; casual event. [See Chance and Casual.]Whether art it was or heedless hap Curs'd by good haps, and curs'd be they that buildTheir hopes on haps.\n2. Misfortune. [But this word is obsolete or obsolescent, except in compounds and derivatives.]HAP,"
+    },
+    {
+      "type": "verb intransitive",
+      "text": "To happen; to befall; to come by chance."
+    }
+  ]
 }

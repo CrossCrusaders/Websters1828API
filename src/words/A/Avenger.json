@@ -1,8 +1,10 @@
 {
   "word": "Avenger",
-  "pronunciation": "AVENG'ER",
-  "definition": {
-    "type": "noun",
-    "text": "One who avenges or vindicates; a vindicator; a revenger."
-  }
+  "pronunciation": "AVENG'ER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "One who avenges or vindicates; a vindicator; a revenger."
+    }
+  ]
 }

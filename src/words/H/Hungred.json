@@ -1,8 +1,10 @@
 {
   "word": "Hungred",
-  "pronunciation": "HUN'GRED",
-  "definition": {
-    "type": "adjective",
-    "text": "Hungry; pinched by want of food."
-  }
+  "pronunciation": "HUN'GRED,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Hungry; pinched by want of food."
+    }
+  ]
 }

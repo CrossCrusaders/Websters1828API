@@ -1,8 +1,14 @@
 {
   "word": "Beggarly",
-  "pronunciation": "BEG'GARLY",
-  "definition": {
-    "type": "adjective",
-    "text": "Mean; poor; in the condition of a beggar; extremely indigent.BEG'GARLY, adverb Meanly; indigently; despicable."
-  }
+  "pronunciation": "BEG'GARLY,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Beggarly\n Mean; poor; in the condition of beggar; extremely indigent.BEG'GARLY,"
+    },
+    {
+      "type": "adverb",
+      "text": "Meanly; indigently; despicable."
+    }
+  ]
 }

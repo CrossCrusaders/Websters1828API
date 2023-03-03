@@ -1,8 +1,10 @@
 {
   "word": "Churl",
-  "pronunciation": "CHURL",
-  "definition": {
-    "type": "noun",
-    "text": "1. A rude, surly, ill-bred man.\n2. A rustic; a countryman, or laborer.\n3. A miser; a niggard. Isaiah 3 2:5."
-  }
+  "pronunciation": "CHURL,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. A rude, surly, ill-bred man.\n2. A rustic; a countryman, or laborer.\n3. A miser; a niggard. Isaiah 32:5."
+    }
+  ]
 }

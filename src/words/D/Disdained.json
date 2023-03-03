@@ -1,8 +1,10 @@
 {
   "word": "Disdained",
-  "pronunciation": "DISDAINED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Despised; contemned; scorned."
-  }
+  "pronunciation": "DISDAINED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Despised; contemned; scorned."
+    }
+  ]
 }

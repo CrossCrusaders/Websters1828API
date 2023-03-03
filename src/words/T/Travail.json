@@ -1,8 +1,18 @@
 {
   "word": "Travail",
-  "pronunciation": "TRAV'AIL",
-  "definition": {
-    "type": "verb",
-    "text": "intransitive [Latin trans, over, beyond, and mael, work; Eng. moil.]\n1. To labor with pain; to toil.\n2. To suffer the pangs of childbirth; to be in labor. Genesis 3 5:1 6.TRAV'AIL, verb transitive To harass; to tire; as troubles sufficient to travail the realm. [Not in use.]TRAV'AIL, noun Labor with pain; severe toil.As every thing of price, so doth this require travail\n1. Labor in childbirth; as a severe travail; an easy travail"
-  }
+  "pronunciation": "TRAV'AIL, [Latin trans, over, beyond, and mael, work; Eng. moil.]",
+  "definitions": [
+    {
+      "type": "verb intransitive",
+      "text": "Travail\n [Latin trans, over, beyond, and mael, work; Eng. moil.]\n1. To labor with pain; to toil.\n2. To suffer the pangs of childbirth; to be in labor. Genesis 35:16.TRAV'AIL,"
+    },
+    {
+      "type": "verb transitive",
+      "text": "To harass; to tire; as troubles sufficient to travail the realm. [Not in use.]TRAV'AIL,"
+    },
+    {
+      "type": "noun",
+      "text": "Labor with pain; severe toil.As every thing of price, so doth this require travail\n1. Labor in childbirth; as severe travail; an easy travail"
+    }
+  ]
 }

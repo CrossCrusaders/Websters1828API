@@ -1,8 +1,10 @@
 {
   "word": "Leavened",
-  "pronunciation": "LEAVENED",
-  "definition": {
-    "type": "participle passive",
-    "text": "lev'ened. Taised and made light by fermentation."
-  }
+  "pronunciation": "LEAVENED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "lev'ened. Taised and made light by fermentation."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Prophetess",
-  "pronunciation": "PROPH'ETESS",
-  "definition": {
-    "type": "noun",
-    "text": "A female prophet; a woman who foretells future events, as Miriam, Huldah, Anna, etc. Exodus 1 5:20. Judges 4:4. Luke 2:3\n6."
-  }
+  "pronunciation": "PROPH'ETESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A female prophet; a woman who foretells future events, as Miriam, Huldah, Anna, etc. Exodus 15:20. Judges 4:4. Luke 2:36."
+    }
+  ]
 }

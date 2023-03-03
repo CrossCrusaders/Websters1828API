@@ -1,8 +1,10 @@
 {
   "word": "Wideness",
-  "pronunciation": "WIDENESS",
-  "definition": {
-    "type": "noun",
-    "text": "1. Breadth; width; great extent between the sides; as the wideness of a room.\n2. Large extent in all directions; as the wideness of the sea or ocean."
-  }
+  "pronunciation": "WIDENESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. Breadth; width; great extent between the sides; as the wideness of a room.\n2. Large extent in all directions; as the wideness of the sea or ocean."
+    }
+  ]
 }

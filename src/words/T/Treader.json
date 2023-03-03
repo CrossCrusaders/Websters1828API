@@ -1,8 +1,10 @@
 {
   "word": "Treader",
-  "pronunciation": "TREADER",
-  "definition": {
-    "type": "noun",
-    "text": "tred'er. One who treads. Isaiah 1 6:\n10."
-  }
+  "pronunciation": "TREADER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "tred'er. One who treads. Isaiah 16:10."
+    }
+  ]
 }

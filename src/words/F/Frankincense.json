@@ -1,8 +1,10 @@
 {
   "word": "Frankincense",
-  "pronunciation": "FRANKIN'CENSE [frank and incense.]",
-  "definition": {
-    "type": "noun",
-    "text": "A dry resinous substance in pieces or drops, of a pale yellowish white color, of a bitterish acrid taste, and very inflammable; used as a perfume."
-  }
+  "pronunciation": "FRANKIN'CENSE, [frank and incense.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A dry resinous substance pieces or drops, of pale yellowish white color, of bitterish acrid taste, and very inflammable; used as perfume."
+    }
+  ]
 }

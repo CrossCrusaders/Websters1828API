@@ -1,8 +1,10 @@
 {
   "word": "Pacified",
-  "pronunciation": "PACIFIED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Appeased; tranquilized."
-  }
+  "pronunciation": "PACIFIED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Appeased; tranquilized."
+    }
+  ]
 }

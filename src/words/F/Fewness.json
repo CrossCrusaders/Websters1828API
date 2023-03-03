@@ -1,8 +1,10 @@
 {
   "word": "Fewness",
-  "pronunciation": "FEW'NESS",
-  "definition": {
-    "type": "noun",
-    "text": "1. Smallness of number; paucity.\n2. Paucity of words; brevity. [Not used.]"
-  }
+  "pronunciation": "FEW'NESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. Smallness of number; paucity.\n2. Paucity of words; brevity. [Not used.]"
+    }
+  ]
 }

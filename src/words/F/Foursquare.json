@@ -1,8 +1,10 @@
 {
   "word": "Foursquare",
-  "pronunciation": "FOURSQUARE",
-  "definition": {
-    "type": "adjective",
-    "text": "Having four sides and four angles equal; quadrangular."
-  }
+  "pronunciation": "FOURSQUARE,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Having four sides and four angles equal; quadrangular."
+    }
+  ]
 }

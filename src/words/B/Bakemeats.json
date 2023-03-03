@@ -1,8 +1,10 @@
 {
   "word": "Bakemeats",
-  "pronunciation": "BA'KEMEATS",
-  "definition": {
-    "type": "noun",
-    "text": "Meats prepared for food in an oven. Gen.xl."
-  }
+  "pronunciation": "BA'KEMEATS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Meats prepared for food in an oven. Gen.xl."
+    }
+  ]
 }

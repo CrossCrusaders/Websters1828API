@@ -1,8 +1,10 @@
 {
   "word": "Fining",
-  "pronunciation": "FI'NING [See Fine, the verb.]",
-  "definition": {
-    "type": "participle present tense",
-    "text": "1. Clarifying; refining; purifying; defecating; separating from extraneous matter.\n2. [See Fine, the noun.] Imposing a fine or pecuniary penalty."
-  }
+  "pronunciation": "FI'NING, [See Fine, the verb.]",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "1. Clarifying; refining; purifying; defecating; separating from extraneous matter.\n2. [See Fine, the noun. Imposing a fine or pecuniary penalty.]"
+    }
+  ]
 }

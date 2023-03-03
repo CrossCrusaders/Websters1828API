@@ -1,8 +1,14 @@
 {
   "word": "Jesting",
-  "pronunciation": "JEST'ING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Joking; talking for diversion or merriment.JEST'ING, noun A joking; concise wit; wit that consists in a trope or verbal figure, in a metaphorical sense of words, or in a double sense of the same word, or in similitude of sound in different words."
-  }
+  "pronunciation": "JEST'ING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Jesting\n Joking; talking for diversion or merriment.JEST'ING,"
+    },
+    {
+      "type": "noun",
+      "text": "A joking; concise wit; wit that consists a trope or verbal figure, a metaphorical sense of words, or a double sense of the same word, or similitude of sound different words."
+    }
+  ]
 }

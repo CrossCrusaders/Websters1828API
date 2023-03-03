@@ -1,8 +1,10 @@
 {
   "word": "Edifying",
-  "pronunciation": "ED'IFYING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Building up in christian knowledge; instructing; improving the mind."
-  }
+  "pronunciation": "ED'IFYING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Building up christian knowledge; instructing; improving the mind."
+    }
+  ]
 }

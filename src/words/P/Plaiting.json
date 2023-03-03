@@ -1,8 +1,10 @@
 {
   "word": "Plaiting",
-  "pronunciation": "PLA'ITING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Folding; doubling; braiding."
-  }
+  "pronunciation": "PLA'ITING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Folding; doubling; braiding."
+    }
+  ]
 }

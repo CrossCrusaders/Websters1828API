@@ -1,8 +1,10 @@
 {
   "word": "Unrighteously",
-  "pronunciation": "UNRIGHTEOUSLY",
-  "definition": {
-    "type": "adverb",
-    "text": "unri'chusly. Unjustly; wickedly; sinfully."
-  }
+  "pronunciation": "UNRIGHTEOUSLY,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "unri'chusly. Unjustly; wickedly; sinfully."
+    }
+  ]
 }

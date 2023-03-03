@@ -1,8 +1,10 @@
 {
   "word": "Consulter",
-  "pronunciation": "CONSULTER",
-  "definition": {
-    "type": "noun",
-    "text": "One who consults, or asks counsel or information; as a consulter with familiar spirits. Deuteronomy 1 8:11."
-  }
+  "pronunciation": "CONSULTER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "One who consults, or asks counsel or information; as a consulter with familiar spirits. Deuteronomy 18:11."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Unchangeable",
-  "pronunciation": "UNCHANGEABLE",
-  "definition": {
-    "type": "adjective",
-    "text": "Not capable of change; immutable; not subject to variation. god is an unchangeable being."
-  }
+  "pronunciation": "UNCHANGEABLE,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Not capable of change; immutable; not subject to variation. god is unchangeable being."
+    }
+  ]
 }

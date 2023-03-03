@@ -1,8 +1,10 @@
 {
   "word": "Usurer",
-  "pronunciation": "U'SURER",
-  "definition": {
-    "type": "noun",
-    "text": "s as z. [See Usury.]\n1. Formerly, a person who lent money and took interest for it.\n2. In present usage, one who lends money at a rate of interest beyond the rate established by law."
-  }
+  "pronunciation": "U'SURER,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "as z. [See Usury.]\n1. Formerly, a person who lent money and took interest for it.\n2. In present usage, one who lends money at a rate of interest beyond the rate established by law."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Travailing",
-  "pronunciation": "TRAV'AILING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Laboring with toil; laboring in childbirth. Isaiah 4 2:1\n4."
-  }
+  "pronunciation": "TRAV'AILING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Laboring with toil; laboring childbirth. Isaiah 42:14."
+    }
+  ]
 }

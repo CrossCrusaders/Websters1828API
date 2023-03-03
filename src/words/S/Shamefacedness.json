@@ -1,8 +1,10 @@
 {
   "word": "Shamefacedness",
-  "pronunciation": "SHA'MEFACEDNESS",
-  "definition": {
-    "type": "noun",
-    "text": "Bashfulness; excess of modesty."
-  }
+  "pronunciation": "SHA'MEFACEDNESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Bashfulness; excess of modesty."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Profaneness",
-  "pronunciation": "PROFA'NENESS",
-  "definition": {
-    "type": "noun",
-    "text": "Irreverence of sacred things; particularly, the use of language which implies irreverence towards God; the taking of God's name in vain.Profaneness in men is vulgar and odious; in females, is shocking and detestable."
-  }
+  "pronunciation": "PROFA'NENESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Irreverence sacred things; particularly, the use language which implies irreverence towards God; the taking God's name in vain.Profaneness in men is vulgar and odious; in females, is shocking and detestable."
+    }
+  ]
 }

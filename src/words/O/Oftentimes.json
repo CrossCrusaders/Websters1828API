@@ -1,8 +1,10 @@
 {
   "word": "Oftentimes",
-  "pronunciation": "OFTENTIMES",
-  "definition": {
-    "type": "adverb",
-    "text": "of'ntimes. [often and times.] Frequently; often; many times."
-  }
+  "pronunciation": "OFTENTIMES,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "of'ntimes. [often and times.] Frequently; often; many times."
+    }
+  ]
 }

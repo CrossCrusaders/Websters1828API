@@ -1,8 +1,10 @@
 {
   "word": "Predestinated",
-  "pronunciation": "PREDES'TINATED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Predetermined; foreordained; decreed."
-  }
+  "pronunciation": "PREDES'TINATED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Predetermined; foreordained; decreed."
+    }
+  ]
 }

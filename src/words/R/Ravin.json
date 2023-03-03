@@ -1,8 +1,10 @@
 {
   "word": "Ravin",
   "pronunciation": "RAVIN.",
-  "definition": {
-    "type": "adjective",
-    "text": "Ravenous. [Not in use.]"
-  }
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "RAV'IN, Ravenous. [Not use.]"
+    }
+  ]
 }

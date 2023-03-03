@@ -1,8 +1,10 @@
 {
   "word": "Doting",
-  "pronunciation": "DOTING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Regarding with excessive fondness."
-  }
+  "pronunciation": "DOTING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Regarding with excessive fondness."
+    }
+  ]
 }

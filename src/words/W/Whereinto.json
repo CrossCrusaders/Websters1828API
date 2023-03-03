@@ -1,8 +1,10 @@
 {
   "word": "Whereinto",
-  "pronunciation": "WHEREINTO [where and into.]",
-  "definition": {
-    "type": "adverb",
-    "text": "Into which."
-  }
+  "pronunciation": "WHEREINTO, [where and into.]",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "Into which."
+    }
+  ]
 }

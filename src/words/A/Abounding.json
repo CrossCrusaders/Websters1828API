@@ -1,8 +1,14 @@
 {
   "word": "Abounding",
-  "pronunciation": "ABOUND'ING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Having in great plenty; being in great plenty, being very prevalent; generally prevailing.ABOUND'ING, noun Increase."
-  }
+  "pronunciation": "ABOUND'ING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Abounding\n Having great plenty; being great plenty, being very prevalent; generally prevailing.ABOUND'ING,"
+    },
+    {
+      "type": "noun",
+      "text": "Increase."
+    }
+  ]
 }

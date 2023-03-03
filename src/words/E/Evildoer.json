@@ -1,8 +1,10 @@
 {
   "word": "Evildoer",
-  "pronunciation": "EVILDO'ER [evil and doer, from do.]",
-  "definition": {
-    "type": "noun",
-    "text": "One who does evil; one who commits sin, crime, or any moral wrong.They speak evil against you as evildoers. l Pet.\n2."
-  }
+  "pronunciation": "EVILDO'ER, [evil and doer, from do.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "One who does evil; one who commits sin, crime, or any moral wrong.They speak evil against you as evildoers. Pet.\n2."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Furbished",
-  "pronunciation": "FUR'BISHED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Scoured to brightness; polished; burnished."
-  }
+  "pronunciation": "FUR'BISHED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Scoured to brightness; polished; burnished."
+    }
+  ]
 }

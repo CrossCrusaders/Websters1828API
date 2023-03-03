@@ -1,8 +1,14 @@
 {
   "word": "Envying",
-  "pronunciation": "EN'VYING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Feeling uneasiness at the superior condition and happiness of another.EN'VYING, noun Mortification experienced at the supposed prosperity and happiness of another.\n1. Ill will at others, on account of some supposed superiority. Galatians 5:2\n1."
-  }
+  "pronunciation": "EN'VYING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Envying\n Feeling uneasiness at the superior condition and happiness of another.EN'VYING,"
+    },
+    {
+      "type": "noun",
+      "text": "Mortification experienced at the supposed prosperity and happiness of another.\n1. Ill will at others, on account of some supposed superiority. Galatians 5:21."
+    }
+  ]
 }

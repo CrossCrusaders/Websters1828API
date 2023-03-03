@@ -1,8 +1,10 @@
 {
   "word": "Famished",
-  "pronunciation": "FAM'ISHED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Starved; exhausted by want of sustenance."
-  }
+  "pronunciation": "FAM'ISHED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Starved; exhausted by want of sustenance."
+    }
+  ]
 }

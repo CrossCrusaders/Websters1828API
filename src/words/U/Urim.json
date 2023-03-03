@@ -1,8 +1,10 @@
 {
   "word": "Urim",
-  "pronunciation": "U'RIM",
-  "definition": {
-    "type": "noun",
-    "text": "[Heb.] The Urim and Thummim, among the Israelites, signify lights and perfections. These were a kind of ornament belonging to the habit of the high priest, in virtue of which he gave oracular answers to the people; but what they were has not been satisfactorily ascertained.\nFirst Occurrence in the Bible(KJV): Exodus 2 8:30"
-  }
+  "pronunciation": "U'RIM,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The and Thummim, among the Israelites, signify lights and perfections. These were a kind of ornament belonging to the habit of the high priest, in virtue of which he gave oracular answers to the people; but what they were has not been satisfactorily ascertained.\nFirst Occurrence in the Bible(KJV): Exodus 28:30"
+    }
+  ]
 }

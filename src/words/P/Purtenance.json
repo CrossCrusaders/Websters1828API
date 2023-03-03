@@ -1,8 +1,10 @@
 {
   "word": "Purtenance",
-  "pronunciation": "PUR'TENANCE [from the Latin pertinens, pertineo. See Appurtenance. (that which belongs to something else; an adjunct; an appendage)]",
-  "definition": {
-    "type": "noun",
-    "text": "Appurtenance; but applied to the pluck of an animal, Exodus 1 2:9."
-  }
+  "pronunciation": "PUR'TENANCE, [from the Latin pertinens, pertineo. See Appurtenance. (that which belongs to something else; an adjunct; an appendage)]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "Appurtenance; but applied to the pluck of animal, Exodus 12:9."
+    }
+  ]
 }

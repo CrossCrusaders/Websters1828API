@@ -1,8 +1,10 @@
 {
   "word": "Darkish",
-  "pronunciation": "D'ARKISH",
-  "definition": {
-    "type": "adjective",
-    "text": "Dusky; somewhat dark."
-  }
+  "pronunciation": "D'ARKISH,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Dusky; somewhat dark."
+    }
+  ]
 }

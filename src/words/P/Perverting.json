@@ -1,8 +1,10 @@
 {
   "word": "Perverting",
-  "pronunciation": "PERVERT'ING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Turning from right to wrong; distorting; misinterpreting; misapplying; corrupting.[Pervert, when used of persons, usually implies evil design.]"
-  }
+  "pronunciation": "PERVERT'ING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Turning from right to wrong; distorting; misinterpreting; misapplying; corrupting.[Pervert, when used of persons, usually implies evil design.]"
+    }
+  ]
 }

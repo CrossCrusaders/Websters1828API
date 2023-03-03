@@ -1,8 +1,10 @@
 {
   "word": "Feebleness",
-  "pronunciation": "FEE'BLENESS",
-  "definition": {
-    "type": "noun",
-    "text": "1. Weakness of body or mind, from any cause; imbecility; infirmity; want of strength, physical or intellectual; as feebleness of the body or limbs; feebleness of the mind or understanding.\n2. Want of fullness or loudness; as feebleness of voice.\n3. Want of vigor or force; as feebleness of exertion, or of operation.\n4. Defect of brightness; as feebleness of light or color."
-  }
+  "pronunciation": "FEE'BLENESS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. Weakness of body or mind, from any cause; imbecility; infirmity; want of strength, physical or intellectual; as feebleness of the body or limbs; feebleness of the mind or understanding.\n2. Want of fullness or loudness; as feebleness of voice.\n3. Want of vigor or force; as feebleness of exertion, or of operation.\n4. Defect of brightness; as feebleness of light or color."
+    }
+  ]
 }

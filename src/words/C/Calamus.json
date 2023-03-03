@@ -1,8 +1,10 @@
 {
   "word": "Calamus",
-  "pronunciation": "CALAMUS",
-  "definition": {
-    "type": "noun",
-    "text": "1. The generic name of the Indian cane, called also rotang. It is without branches, has a crown at the top, and is beset with spines.\n2. In antiquity, a pipe or fistula, a wind instrument, made of a reed or oaten stalk.\n3. A rush or reed used anciently as a pen to write on parchment or papyrus.\n4. A sort of reed, or sweet-scented cane, used by the Jews as a perfume. It is a knotty root, reddish without and white within, and filled with a spungy substance. It has an aromatic smell.\n5. The sweet flag, called by Linne Acorus."
-  }
+  "pronunciation": "CALAMUS,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. The generic name of the Indian cane, called also rotang. It is without branches, has crown at the top, and is beset with spines.\n2. In antiquity, pipe or fistula, wind instrument, made of reed or oaten stalk.\n3. A rush or reed used anciently as pen to write on parchment or papyrus.\n4. A sort of reed, or sweet-scented cane, used by the Jews as perfume. It is knotty root, reddish without and white within, and filled with spungy substance. It has an aromatic smell.\n5. The sweet flag, called by Linne Acorus."
+    }
+  ]
 }

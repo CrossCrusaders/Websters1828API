@@ -1,8 +1,14 @@
 {
   "word": "Overspread",
-  "pronunciation": "OVERSPREAD",
-  "definition": {
-    "type": "verb transitive",
-    "text": "overspred'.\n1. To spread over; to cover over. The deluge overspread the earth.\n2. To scatter over.OVERSPREAD, verb intransitive overspred'. To be spread or scattered over; as, weeds overspread the ground."
-  }
+  "pronunciation": "OVERSPREAD,",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "Overspread\n overspred'.\n1. To over; to cover over. The deluge overspread the earth.\n2. To scatter over.OVERSPREAD,"
+    },
+    {
+      "type": "verb intransitive",
+      "text": "overspred'. To be or scattered over; as, weeds overspread the ground."
+    }
+  ]
 }

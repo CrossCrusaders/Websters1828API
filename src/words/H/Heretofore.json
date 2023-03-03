@@ -1,8 +1,10 @@
 {
   "word": "Heretofore",
-  "pronunciation": "HERETOFO'RE",
-  "definition": {
-    "type": "adverb",
-    "text": "In times before the present; formerly."
-  }
+  "pronunciation": "HERETOFO'RE,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "In times before the present; formerly."
+    }
+  ]
 }

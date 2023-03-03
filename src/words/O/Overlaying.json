@@ -1,8 +1,10 @@
 {
   "word": "Overlaying",
-  "pronunciation": "OVERLA'YING",
-  "definition": {
-    "type": "noun",
-    "text": "A superficial covering. Exodus 3 8:1\n7."
-  }
+  "pronunciation": "OVERLA'YING,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A superficial covering. Exodus 38:17."
+    }
+  ]
 }

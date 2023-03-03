@@ -1,8 +1,10 @@
 {
   "word": "Ingathering",
-  "pronunciation": "INGATH'ERING [in and gathering.]",
-  "definition": {
-    "type": "noun",
-    "text": "The act or business of collecting and securing the fruits of the earth; harvest; a the feast of ingathering Exodus 2 3:1\n6."
-  }
+  "pronunciation": "INGATH'ERING, [in and gathering.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The act or business of collecting and securing fruits of earth; harvest; feast of ingathering Exodus 23:16."
+    }
+  ]
 }

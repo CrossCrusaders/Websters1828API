@@ -1,8 +1,10 @@
 {
   "word": "Dandled",
-  "pronunciation": "DAN'DLED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Danced on the knee, or in the arms; fondled; amused by trifles or play."
-  }
+  "pronunciation": "DAN'DLED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Danced on the knee, or in the arms; fondled; amused by trifles or play."
+    }
+  ]
 }

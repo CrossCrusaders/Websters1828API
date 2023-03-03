@@ -1,8 +1,14 @@
 {
   "word": "Babylonish",
-  "pronunciation": "BABYLO'NISH",
-  "definition": {
-    "type": "adjective",
-    "text": "Pertaining to Babylon, the capital of the ancient kingdom of Babylonia, or to the kingdom. The city stood on the river Frat, or Euphrates, and it is supposed, on the spot where the tower of Babel was founded.\n2. Like the language of Babel; mixed; confused.BABYLO'NIAN, noun An inhabitant of Babylonia. In ancient writers, an astrologer, as the Chaldeans were remarkable for the study of astrology."
-  }
+  "pronunciation": "BABYLO'NISH,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Babylonish\n Pertaining to Babylon, the capital of the ancient kingdom of Babylonia, or to the kingdom. The city stood the river Frat, or Euphrates, and it supposed, the spot where the tower of Babel was founded.\n2. Like the language of Babel; mixed; confused.BABYLO'NIAN,"
+    },
+    {
+      "type": "noun",
+      "text": "An inhabitant of Babylonia. In ancient writers, an astrologer, as the Chaldeans were remarkable for the study of astrology."
+    }
+  ]
 }

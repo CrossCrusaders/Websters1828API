@@ -1,8 +1,10 @@
 {
   "word": "Oration",
-  "pronunciation": "ORA'TION [Latin oratio, from oro, to pray, to utter.]",
-  "definition": {
-    "type": "noun",
-    "text": "1. A speech or discourse composed according to the rules of oratory, and spoken in public. Orations may be reduced to three kinds; demonstrative, deliberative, and judicial.\n2. In modern usage, an oration differs from a sermon, from an argument at the bar, and from a speech before a deliberative assembly. The word is now applied chiefly to discourses pronounced on special occasions, as a funeral oration an oration on some anniversary, etc. and to academic declamations.\n3. A harangue; a public speech or address."
-  }
+  "pronunciation": "ORA'TION, [Latin oratio, from oro, to pray, to utter.]",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. A speech or discourse composed according to the rules of oratory, and spoken in public. Orations may be reduced to three kinds; demonstrative, deliberative, and judicial.\n2. In modern usage, an oration differs from sermon, from an argument the bar, and from speech before deliberative assembly. The word is now applied chiefly to discourses pronounced special occasions, as funeral oration an oration some anniversary, etc. and to academic declamations.\n3. A harangue; public speech or address."
+    }
+  ]
 }

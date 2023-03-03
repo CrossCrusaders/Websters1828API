@@ -1,8 +1,10 @@
 {
   "word": "Unadvisedly",
-  "pronunciation": "UNADVI'SEDLY",
-  "definition": {
-    "type": "adverb",
-    "text": "s as z. Imprudently; indiscreetly; rashly; without due consideration."
-  }
+  "pronunciation": "UNADVI'SEDLY,",
+  "definitions": [
+    {
+      "type": "adverb",
+      "text": "as z. Imprudently; indiscreetly; rashly; without due consideration."
+    }
+  ]
 }

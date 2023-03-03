@@ -1,8 +1,10 @@
 {
   "word": "Baptizing",
-  "pronunciation": "BAPTI'ZING",
-  "definition": {
-    "type": "participle present tense",
-    "text": "Administering baptism to; christening."
-  }
+  "pronunciation": "BAPTI'ZING,",
+  "definitions": [
+    {
+      "type": "participle present tense",
+      "text": "Administering baptism to; christening."
+    }
+  ]
 }

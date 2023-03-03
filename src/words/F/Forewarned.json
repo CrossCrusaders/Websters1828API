@@ -1,8 +1,10 @@
 {
   "word": "Forewarned",
-  "pronunciation": "FOREWARN'ED",
-  "definition": {
-    "type": "participle passive",
-    "text": "Admonished, cautioned or informed beforehand."
-  }
+  "pronunciation": "FOREWARN'ED,",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Admonished, cautioned informed beforehand."
+    }
+  ]
 }

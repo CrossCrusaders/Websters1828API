@@ -1,8 +1,10 @@
 {
   "word": "Flagon",
-  "pronunciation": "FLAG'ON [Latin lagena; Gr.]A",
-  "definition": {
-    "type": "noun",
-    "text": "vessel with a narrow mouth, used for holding and conveying liquors.Stay me with flagons, comfort me with apples; for I am sick of love."
-  }
+  "pronunciation": "FLAG'ON, [Latin lagena; Gr.]A",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "A vessel with narrow mouth, used for holding and conveying liquors.Stay me with flagons, comfort me with apples; for I am sick of love."
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "word": "Ossifrage",
-  "pronunciation": "OS'SIFRAGE [Latin ossifraga. See Ospray.]The",
-  "definition": {
-    "type": "noun",
-    "text": "ospray or sea-eagle. In Leviticus 11:1 3, it denotes a different fowl."
-  }
+  "pronunciation": "OS'SIFRAGE, [Latin ossifraga. See Ospray.]The",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "The ospray or sea-eagle. In Leviticus 11:13, it denotes different fowl."
+    }
+  ]
 }

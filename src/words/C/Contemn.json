@@ -1,8 +1,10 @@
 {
   "word": "Contemn",
-  "pronunciation": "CONTEMN [Latin , to despise; to drive away.]",
-  "definition": {
-    "type": "verb transitive",
-    "text": "1. To despise; to consider and treat as mean and despicable; to scorn.In whose eyes a vile person is contemned. Psalms 1 5:4.\n2. To slight; to neglect as unworthy of regard; to reject with disdain.Wherefore do the wicked contemn God. Psalms 10:1 3.They contemn the counsel of the Most High. Psalms 10 7:11."
-  }
+  "pronunciation": "CONTEMN, [Latin , to despise; to drive away.]",
+  "definitions": [
+    {
+      "type": "verb transitive",
+      "text": "1. To despise; to consider and treat as mean and despicable; to scorn.In whose eyes a vile person is contemned. Psalms 15:4.\n2. To slight; to neglect as unworthy of regard; to reject with disdain.Wherefore do the wicked contemn God. Psalms 10:13.They contemn the counsel of the Most High. Psalms 107:11."
+    }
+  ]
 }

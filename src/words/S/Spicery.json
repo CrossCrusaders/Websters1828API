@@ -1,8 +1,10 @@
 {
   "word": "Spicery",
-  "pronunciation": "SPI'CERY",
-  "definition": {
-    "type": "noun",
-    "text": "1. Spices in general; fragrant and aromatic vegetable substances used in seasoning.\n2. A repository of spices."
-  }
+  "pronunciation": "SPI'CERY,",
+  "definitions": [
+    {
+      "type": "noun",
+      "text": "1. Spices in general; fragrant and aromatic vegetable substances used in seasoning.\n2. A repository of spices."
+    }
+  ]
 }

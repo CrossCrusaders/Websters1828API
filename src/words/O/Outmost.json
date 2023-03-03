@@ -1,8 +1,10 @@
 {
   "word": "Outmost",
-  "pronunciation": "OUT'MOST",
-  "definition": {
-    "type": "adjective",
-    "text": "Farthest outward; most remote from the middle."
-  }
+  "pronunciation": "OUT'MOST,",
+  "definitions": [
+    {
+      "type": "adjective",
+      "text": "Farthest outward; remote from the middle."
+    }
+  ]
 }

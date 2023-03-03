@@ -1,8 +1,10 @@
 {
   "word": "Seared",
-  "pronunciation": "SE'ARED [from sear.]",
-  "definition": {
-    "type": "participle passive",
-    "text": "Burnt on the furface; cauterized; hardened;"
-  }
+  "pronunciation": "SE'ARED, [from sear.]",
+  "definitions": [
+    {
+      "type": "participle passive",
+      "text": "Burnt on the furface; cauterized; hardened;"
+    }
+  ]
 }
