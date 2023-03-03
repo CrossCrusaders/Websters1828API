@@ -4,15 +4,19 @@
   "definitions": [
     {
       "type": "adjective",
-      "text": "Confederate"
+      "text": "Confederate\n [Latin] United in league; allied by treaty; engaged in confederacy.These were confederate with Abram. Genesis 14:13.Syria is confederate with Ephraim. Isaiah 7:2.CONFED'ERATE,"
     },
     {
       "type": "noun",
-      "text": ""
+      "text": "One who is united with others in league; person or nation engaged in confederacy; an ally.CONFED'ERATE,"
     },
     {
       "type": "verb intransitive",
-      "text": "To to join mutual contract covenant.By words men come to know one another's minds; these they covenant and colonies of America confederated 1775.Several States of Europe have sometimes confederated for mutual safety.CONFED'ERATE,"
+      "text": "To unite in league; to join in mutual contract or covenant.By words men come to know one another's minds; by these they covenant and confederate The colonies of America confederated in 1775.Several States of Europe have sometimes confederated for mutual safety.CONFED'ERATE,"
+    },
+    {
+      "type": "verb transitive",
+      "text": "To unite in league; to ally.With these the Piercies them confederate"
     }
   ]
 }
